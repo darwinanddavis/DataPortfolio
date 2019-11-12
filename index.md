@@ -1,8 +1,12 @@
 <a id="top"></a>
 
 
-<center><img src="img/mm.jpg" ></center>
-<center> ##### Taken in front of a waterfall in Parque Salado, Medellin, Colombia.</center>
+<center><img src="img/mm.jpg" width="800" height="900" ></center>
+<center>
+	<p style="font-size:50%">
+		'Almuerzo', a waterfall, Parque Salado, Medellin, Colombia.
+	</p>
+<center>
 
 # Spatial simulation and bioenergetics modeller    
 
