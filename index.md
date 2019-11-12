@@ -8,7 +8,7 @@
 </center>  
 
 <center>
-	<p style="color: #F7A08A; font-size:200%">
+	<p style="color: #F7A08A; font-size:175%">
 		<b>Simulation, spatial, and bioenergetics modeller</b>           
 	</p>
 </center>
