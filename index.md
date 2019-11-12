@@ -1,14 +1,13 @@
 <a id="top"></a>
 
-
-<center><img src="img/mm.jpg" width="800" height="900" ></center>
 <center>
-	<p style="font-size:50%">
-		'Almuerzo', a waterfall, Parque Salado, Medellin, Colombia.
+	<img src="img/mm.jpg" width="800" height="900" >
+	<p style="font-size:75%">
+		'Almuerzo', cascada Arenales, Parque Salado, Medellin, Colombia.
 	</p>
-<center>
+</center>  
 
-# Spatial simulation and bioenergetics modeller    
+# Spatial simulation and bioenergetics modeller      
 
 ## I like my data diverse, my methods savvy, my analyses reproducible, and my outputs open access   
 
