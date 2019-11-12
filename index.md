@@ -1,15 +1,15 @@
 <a id="top"></a>
 
 <center>
-	<img src="img/mm.jpg" width="400" height="450" >
+	<img src="img/mm.jpg" width="300" height="350" >
 	<p style="font-size:60%">
 		'Almuerzo', cascada Arenales, Parque Salado, Medellin, Colombia.
 	</p>
 </center>  
 
 <center>
-	<p style="color: #F7A08A; font-size:175%">
-		Simulation, spatial, and bioenergetics modeller           
+	<p style="color: #F7A08A; font-size:200%">
+		<b>Simulation, spatial, and bioenergetics modeller</b>           
 	</p>
 </center>
 
