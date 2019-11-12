@@ -7,11 +7,7 @@
 	</p>
 </center>  
 
-<center>
-
-# Simulation, spatial, and bioenergetics modeller         
-
-</center>
+# Simulation, spatial, and bioenergetics modeller           
 
 ### I like my data diverse, my methods savvy, my analyses reproducible, and my outputs open access   
 
