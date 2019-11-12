@@ -7,13 +7,15 @@
 	</p>
 </center>  
 
-# Spatial simulation and bioenergetics modeller      
+<center>
+# Simulation, spatial, and bioenergetics modeller         
+</center>
 
-## I like my data diverse, my methods savvy, my analyses reproducible, and my outputs open access   
+### I like my data diverse, my methods savvy, my analyses reproducible, and my outputs open access   
 
-I’m a computational researcher at [Emory University](https://scholarblogs.emory.edu/civitello/) working on diverse data analysis problems from simulation modelling of human disease risk to spatial and biophysical modelling of ecological systems.  
+### I’m a computational researcher at [Emory University](https://scholarblogs.emory.edu/civitello/) working on diverse data analysis problems from simulation modelling of human disease risk to spatial and biophysical modelling of ecological systems.  
 
-The header tabs give a snapshot of some of my computational work. Below are links to my digital footprint.       
+### The header tabs give a snapshot of some of my computational work. Below are links to my digital footprint.       
   
 <br>  
 <br>  
