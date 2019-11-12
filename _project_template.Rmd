@@ -1,0 +1,65 @@
+---
+layout: default
+sidebar: toc 
+output: md_document
+---
+<a id="top"></a>
+
+******  
+<br>     
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+
+<!-- rmd settings -->
+```{r, set-options, echo = FALSE, cache = FALSE}
+options(width=100)
+knitr::opts_chunk$set(
+ eval = TRUE, # run all code
+ # echo = FALSE, # show code chunks in output 
+ comment = "",
+ tidy.opts=list(width.cutoff=100), # set width of code chunks in output
+ tidy=TRUE, # make output as tidy
+ message = FALSE,  # mask all messages
+ warning = FALSE, # mask all warnings 
+ size="small", # set code chunk size
+ knitr::opts_chunk$set(fig.pos = 'H')
+)
+```
+
+******  
+
+## Title
+
+### Snapshot  
+
+text
+
+### Location  
+
+Emory University Atlanta, USA
+
+### People  
+
+Matt Malishev, Emory University, USA    
+  
+
+### Tasks   
+
+* text 
+* text       
+
+### Outcomes    
+
+* text    
+
+### Example outputs  
+
+  
+<br>  
+<br>  
+
+******    
+
+[Back to top](#top) | [Home page](./)
