@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <center>
-	<img src="img/mm.jpg" width="800" height="900" >
+	<img src="img/mm.jpg" width="400" height="500" >
 	<p style="font-size:75%">
 		'Almuerzo', cascada Arenales, Parque Salado, Medellin, Colombia.
 	</p>
