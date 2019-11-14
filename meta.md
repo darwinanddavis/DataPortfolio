@@ -134,7 +134,7 @@ Required files:
 
 <!-- ________________________________________  code chunk ________________________________________  -->
 
-User setup.    
+Load packages and set working directory.      
 ```r
 ##########################################################################
 
@@ -168,21 +168,23 @@ extract2 <- "Year"
 
 Open the `search_term_inputs.txt` file with a standard text editor and type in the following information.   
 
-_First line_   
+**First line**    
 Your working directory where this document and the associated files are located. e.g.  
 
 `/User/documents/models`    
 
-_Second line_    
+**Second line**     
 Your search terms, separated by a comma. Spaces and lower/upper cases are OK too. For example, if you want to search for the following terms:   
 
-`evidence human africa`    
+> evidence  
+> human    
+> africa     
   
 You would type in the following:  
 
 `evidence, human, africa`    
   
-_Third line_    
+**Third line**    
 Enter the data entry you want to run the keyword search terms on from the below list. Note, case sensitive.    
 
 Primary entries:   
@@ -191,8 +193,8 @@ Author
 Title  
 Year  
 
-Other possible entries:
-BCI  
+Other possible entries:  
+BCI    
 CorrAuthor  
 ISSN   
 Issue   
@@ -202,7 +204,7 @@ Pages
 PubDate  
 Volume  
 
-_Fourth line (optional)_  
+**Fourth line (optional)**    
 You can also enter what data you want to isolate from the final results to save as a separate file. For example, if you want to know just the year in which the selected papers were published, type in Year. Otherwise, leave blank.  
 
 
@@ -215,7 +217,7 @@ Save the `search_term_inputs.txt` file and run the rest of the `R` code.
 # read in file ----------------------------------------------------------
 
 fh <- "LEC100testrecords.txt"
-anomalies <- 1 # save csv file that   
+anomalies <- 1 # save csv file of entries that contain the term 'Go to ISI' instead of article title 
 
 ww <- readLines("search_term_inputs.txt") # set working dir
 wd <- setwd(ww[1]) 
