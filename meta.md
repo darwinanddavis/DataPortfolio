@@ -123,17 +123,19 @@ The bot reads a `.txt` file containing literature entries resulting from a keywo
 > _keyword_final.csv_  
 > _keyword_final_isolated.csv_
 
-
 Keyword query bot `R` code  
 
-<!-- ________________________________________  code chunk ________________________________________  -->
-```r
-# required files
-# LEC100testrecords.txt
-# search_term_inputs.txt
-# article_col_names.txt
-# lec_keyword_search.R   
+Required files:  
 
+> LEC100testrecords.txt  
+> search_term_inputs.txt  
+> article_col_names.txt  
+> lec_keyword_search.R    
+
+<!-- ________________________________________  code chunk ________________________________________  -->
+
+User setup.    
+```r
 ##########################################################################
 
 # load packages (run once) ------------------------------------------------
@@ -146,7 +148,10 @@ p_load(dplyr,purrr,readr)
 
 # set working dir
 setwd("your working dir")
+```
 
+Choose whether to search the Title or the Abstract for the keywords and what article data you want returned, e.g. year of publication, the entire abstract, etc.      
+```r
 # Step 1 ----------------------------------------------------------------------
 
 # Enter either Title or Abstract to search for the keywords
@@ -159,7 +164,51 @@ extract1 <- "Title"
 # type in "Year"
 # use any search term you specified in the search_terms_input file
 extract2 <- "Year"
+```
 
+Open the `search_term_inputs.txt` file with a standard text editor and type in the following information.   
+
+_First line_   
+Your working directory where this document and the associated files are located. e.g.  
+
+`/User/documents/models`    
+
+_Second line_    
+Your search terms, separated by a comma. Spaces and lower/upper cases are OK too. For example, if you want to search for the following terms:   
+
+`evidence human africa`    
+  
+You would type in the following:  
+
+`evidence, human, africa`    
+  
+_Third line_    
+Enter the data entry you want to run the keyword search terms on from the below list. Note, case sensitive.    
+
+Primary entries:   
+Abstract    
+Author    
+Title  
+Year  
+
+Other possible entries:
+BCI  
+CorrAuthor  
+ISSN   
+Issue   
+Journal    
+Link  
+Pages   
+PubDate  
+Volume  
+
+_Fourth line (optional)_  
+You can also enter what data you want to isolate from the final results to save as a separate file. For example, if you want to know just the year in which the selected papers were published, type in Year. Otherwise, leave blank.  
+
+
+Save the `search_term_inputs.txt` file and run the rest of the `R` code.    
+
+```r
 ##########################################################################
 
 # run rest of code from here ----------------------------------------------
@@ -243,6 +292,11 @@ cat(rep("\n",2),"Your results are saved as\n\n",fho,"\n\n in","\"",wd,"\"","\n\n
 
 ```
 <!-- ________________________________________ end code chunk ________________________________________  -->
+
+The two files will be saved to your local working directory:  
+
+> _keyword_final.csv_    
+> _keyword_final_isolated.csv_    
 
 **Results**
 
