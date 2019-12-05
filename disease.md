@@ -9,7 +9,7 @@ permalink: /disease/
 ![](disease_header.png)
 
 <br>  
-## Forecasting human exposure risk from bioenergetics simulation models of host-parasite ecology in the human schistosome    
+## Forecasting exposure risk in the human schistosome from bioenergetics simulation models of host-parasite ecology   
 
 ### Location
 
