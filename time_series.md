@@ -204,7 +204,7 @@ map
 <br>  
 <br>  
 
-###### Header image: A 3D simulation model output of cell residence times of a mobile agent in a 1500 x 1500 grid as constraints to dispersal relax over time. Output is projected on a 2D plane to show the linear trend in displacement over time.  
+###### Header image: A 3D simulation model output of cell residence times of a mobile agent in a 1500 x 1500 grid as external constraints to spatial dispersal relax over time. Output is projected on a 2D plane to illustrate an almost linear pattern in displacement.    
 ******  
 
 [Back to top](#top)|[Home page](./index.md)

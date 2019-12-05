@@ -44,7 +44,7 @@ Head directly to the Emory Coding Club website to see all info on session materi
 <br>  
 <br>  
 
-###### Header image: Taking advantage of open source data to understand plot mechanics in `R`.      
+###### Header image: Taking advantage of open source data to understand plot mechanics in R.      
 ******  
 
 [Back to top](#top)|[Home page](./index.md)
