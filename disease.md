@@ -9,7 +9,7 @@ permalink: /disease/
 ![](disease_header.png)
 
 <br>  
-## Forecasting exposure risk in the human schistosome from bioenergetics simulation models of host-parasite ecology   
+## Forecasting exposure risk in the human schistosome from bioenergetic simulation models of host-parasite ecology   
 
 ### Location
 
@@ -23,8 +23,8 @@ David Civitello, Emory University, USA
 
 ### Tasks
 
-* Integrate lab data on host-parasite infection in the _Biomphalara glabrata_ and _Schistosoma mansoni_ system to build a population transmission model to forecast human exposure risk.  
-* Simulate the consequences of applying chemical control strategies (molluscicides) that vary in frequency and intensity for mediating human-infectious parasite output throughout the transmission season.    
+* Built a between-host transmission model and a within-host bioenergetics model of host-parasite infection in the human schistosome to forecast human exposure risk for schistosomiasis.    
+* Simulated the consequences of applying chemical control strategies (molluscicides) that vary in frequency and intensity for mediating human-infectious parasite output throughout the transmission season.    
 
 ### Outcomes
 
@@ -60,6 +60,7 @@ David Civitello, Emory University, USA
 <br>  
 <br>  
 
+###### Header image: Dynamic energy budget growth equation for tracking changes in structural length of individual _Biomphalaria_ hosts over time (Malishev and Civitello 2019).     
 ******  
 
 [Back to top](#top)|[Home page](./index.md)

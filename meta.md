@@ -534,6 +534,7 @@ MAYBE | 27 | Strongylid nematode eggs | weak positive correlation between buffal
 <br>  
 <br>  
 
+###### Header image: A 100-year model forecast of susceptible host biomass (left) and population density (right) under macroparasite infection with low transmission rate and high host mortality rate.        
 ******  
 
 [Back to top](#top)|[Home page](./index.md)

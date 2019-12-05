@@ -9,7 +9,7 @@ permalink: /spatial/
 ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)  
 
 <br>
-## Simulating animal movement and dispersal potential in space and time from individual bioenergetics and habitat data          
+## Simulating animal movement and dispersal potential in space and time from individual bioenergetics and geolocation data            
 
 ### Location
 
@@ -25,7 +25,7 @@ C. Michael Bull, Flinders University, Australia
   
 ### Tasks
 
-* Predicted animal movement and dispersal potential in space and time using simulation modelling with weather, microclimate, LIDAR, and geolocation data.       
+* Built a spatial and bioenergetic simulation model for animal dispersal and movement integrated with weather, microclimate, LIDAR, and geolocation data.         
 * Developed a simulation framework grounded in metabolic theory of energy and mass exchange.           
 
 ### Outcomes
@@ -92,6 +92,7 @@ Kearney, M. R., and W. P. Porter. 2017. NicheMapR - an R package for biophysical
 <br>  
 <br>
 
+###### Header image: The [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) cellular automata model, the precursor for modern individual-based models.      
 ******  
 
 [Back to top](#top)|[Home page](./index.md)
