@@ -1,9 +1,9 @@
 <a id="top"></a>
 
 <center>
-	<img src="img/mm.jpg" width="300" height="350" >
+	<img src="img/mm_.jpg" width="300" height="350" >
 	<p style="font-size:60%">
-		'Almuerzo', cascada Arenales, Parque Salado, Medellin, Colombia.
+		Calle de buena mesa, Envigado, Medellin, Colombia
 	</p>
 </center>  
 
