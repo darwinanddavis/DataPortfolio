@@ -56,21 +56,17 @@ _Media_
 ![homerange hist](spatial/spatial3.jpg)
 ###### Figure 3. (A) Distributions of home range area (km2) of real (pink) and seeded simulated active (orange) and passive (blue) movement strategies under dense resource distribution (food and shade). Home range polygons in space showing overlap of seeded simulated (B) passive and (C) active individuals and (D) real individuals. Home ranges in (D) appear more scattered due to different starting locations of real animals, whereas (B) and (C) have seeded starting locations in the centre of the landscape. The vegetation layer in (D) is generated from LIDAR data of the habitat site, showing the thermal mosaic of the landscape. Ref: Malishev et al. (2018).
 <br>  
-
-![supp1](spatial/spatial4.png)
-###### Figure 4. Distributions of home range area (km2) of real animals (pink) and simulated active (orange) and passive (blue) movement strategies under (A) dense and (B) sparse resource distribution (food and shade). Insets (L–R): Home range polygons in space showing overlap of simulated passive (blue) and active (orange) movement strategies, and examples of (upper) dense and (lower) sparse resource distributions in the study site. Ref: Malishev et al. (2018).   
-<br> 
-
-![3d](spatial/spatial5.png)
-###### Figure 5. Example 3D model output for simulated passive individual in a habitat of sparse resources and shade distributed in space. Density peaks represent time spent in each patch.  
+  
+![3d](spatial/spatial4.png)
+###### Figure 4. Example 3D model output for simulated passive individual in a habitat of sparse resources and shade distributed in space. Density peaks represent time spent in each patch.  
 <br>  
 
-![hr](spatial/spatial6.jpg)
-###### Figure 6. LIDAR data of habitat site for a tagged animal in the wild showing resource and refuge patches. Polygons show changes in home range area (km2) for different months throughout the breeding season using 95% kernel densities (left) and vertices (right). Location is the Bundey Bore field station in the mid-north of South Australia (139°21’E, 33°55’S).     
+![hr](spatial/spatial5.jpg)
+###### Figure 5. LIDAR data of habitat site for a tagged animal in the wild showing resource and refuge patches. Polygons show changes in home range area (km2) for different months throughout the breeding season using 95% kernel densities (left) and vertices (right). Location is the Bundey Bore field station in the mid-north of South Australia (139°21’E, 33°55’S).     
 <br>  
 
-![month](spatial/spatial7.png)  
-###### Figure 7. LIDAR data of habitat site and GPS tracking data for all 60 individuals throughout the breeding season in (L–R) Sep, Oct, Nov, and Dec.      
+![month](spatial/spatial6.png)  
+###### Figure 6. LIDAR data of habitat site and GPS tracking data for all 60 individuals throughout the breeding season in (L–R) Sep, Oct, Nov, and Dec. Data show are for the 2009 season.        
 <br>    
 
 **GPS data collection**   
