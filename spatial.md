@@ -61,8 +61,8 @@ _Media_
 ###### Figure 4. Example 3D model output for simulated passive individual in a habitat of sparse resources and shade distributed in space. Density peaks represent time spent in each patch.  
 <br>  
 
-![hr](spatial/spatial5.png)
-###### Figure 5. LIDAR data of habitat site for a tagged animal in the wild showing resource and refuge patches. Polygons show changes in home range area (km2) for different months throughout the breeding season. Location is the Bundey Bore field station in the mid-north of South Australia (139°21’E, 33°55’S).     
+![hr](spatial/spatial7.jpg)
+###### Figure 5. LIDAR data of habitat site for a tagged animal in the wild showing resource and refuge patches. Polygons show changes in home range area (km2) for different months throughout the breeding season using 95% kernel densities (left) and vertices (right). Location is the Bundey Bore field station in the mid-north of South Australia (139°21’E, 33°55’S).     
 <br>  
 
 ![supp1](spatial/spatial6.png)
