@@ -191,8 +191,10 @@ map
 ###### Figure 1. Site locations for temperature probe data and known sites for schistosomiasis exposure.       
 <br>  
 
-![alt-text="Wavelet analysis"](time_series/time_series1.png)            
-###### Figure 2. Field temperature fluctuations and wavelet power spectrums over time in Kinango Dam, Kenya, a human exposure site to schistosomiasis. Horizontal lines in left plot indicate the optimal body temperature (14C−26C) for _Biomphalaria_ hosts for transmitting the disease. Wavelet analyses show the time horizon (periods of days, weeks, months) over time of year (data collection period). Power levels indicate periodicity strength of temperatures in right plot.    
+![alt-text="Wavelet analysis"](time_series/ts1.png)  
+![alt-text="Wavelet analysis"](time_series/ts2.png)  
+![alt-text="Wavelet analysis"](time_series/ts3.png)        
+###### Figure 2. Field temperature fluctuations and wavelet power spectrums over time in human exposure sites to schistosomiasis in Kimorigo Swamp, Tanzania (top), Powerhouse site, Kenya (middle), and Kinango Dam, Kenya (bottom). Horizontal lines in left plots indicate the optimal body temperature (14C−26C) for _Biomphalaria_ hosts for transmitting the disease. Wavelet analyses show the time horizon (periods of days, weeks, months) over time of year (data collection period). Power levels indicate periodicity strength of temperatures in right plots.    
 <br>  
 
 [Download the full poster (`.png`) (large file: 19.5 Mb).](https://github.com/darwinanddavis/SchistoIBM/raw/master/wavelet/lee_etal_poster.png)  

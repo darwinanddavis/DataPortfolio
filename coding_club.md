@@ -39,7 +39,7 @@ Head directly to the Emory Coding Club website to see all info on session materi
 ## [Emory Coding Club website](https://darwinanddavis.github.io/EmoRyCodingClub/index.html)    
 <br>  
 
-![](coding_club/coding_club1.jpg)
+![](coding_club/cc1.jpg)
   
 <br>  
 <br>  
