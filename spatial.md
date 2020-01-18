@@ -36,7 +36,7 @@ _Research_
 
 * Kearney MR, Munns SL, Moore D, **Malishev M** & Bull CM (2018) Field tests of a general ectotherm niche model show how water can limit lizard activity and distribution. Ecological Monographs. 88(4): 672–693, [https://doi.org/10.1002/ecm.1326](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1326).   
 
-**Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next- generation extensions for modelling animal movement across scales. _In review_.        
+* **Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next- generation extensions for modelling animal movement across scales. _In review_.        
 
 _Media_  
 
