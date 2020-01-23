@@ -22,10 +22,7 @@
 <br>  
 <br>  
   
-<a class="twitter-timeline" href="https://twitter.com/darwinanddavis" data-height=1100 data-width=600 data-chrome="nofooter">Tweets by darwinanddavis</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>    
-  
-
-<br>  
+<!-- <a class="twitter-timeline" href="https://twitter.com/darwinanddavis" data-height=1100 data-width=600 data-chrome="nofooter">Tweets by darwinanddavis</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->      
 
 ******    
 
