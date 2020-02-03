@@ -6,7 +6,34 @@ permalink: /spatial/
 <a id="top"></a>
 
 ******
-![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)  
+<!-- ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)   -->
+![](spatial/spatial_header.jpg)  
+
+<br>
+## Spatial analysis of Airbnb ratings  
+
+### People  
+
+**Matt Malishev, Emory University, USA**   
+
+### Tasks
+
+* Use open online data to for quick overview Airbnb listing and rating for chosen cities around the world.    
+
+### Outcomes   
+
+![airbnb_sf]()
+![activity](spatial/spatial7.jpg)    
+
+[San Francisco Airbnb listing and ratings](https://darwinanddavis.github.io/worldmaps/airbnb_sf.html)  
+
+Data: [San Francisco open Airbnb data.](http://insideairbnb.com/get-the-data.html)     
+  
+### Links    
+  
+[Project page on Github.](https://github.com/darwinanddavis/worldmaps)        
+
+<!--  project break__________________________________________________________________________________________  -->
 
 <br>
 ## Simulating animal movement and dispersal potential in space and time from individual bioenergetics and geolocation data            
@@ -94,7 +121,8 @@ Kearney, M. R., and W. P. Porter. 2017. NicheMapR - an R package for biophysical
 <br>  
 <br>
 
-###### Header image: The [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) cellular automata model, the precursor for modern individual-based models.      
+<!-- ###### Header image: The [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) cellular automata model, the precursor for modern individual-based models.       -->
+###### Header image: Global population per city. Data source: [UN open data.](http://data.un.org/Data.aspx?d=POP&f=tableCode%3A240)     
 ******  
 
 [Back to top](#top)|[Home page](./index.md)
