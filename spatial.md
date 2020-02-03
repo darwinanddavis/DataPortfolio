@@ -18,14 +18,13 @@ permalink: /spatial/
 
 ### Tasks
 
-* Use open online data to for quick overview Airbnb listing and rating for chosen cities around the world.    
+* Use open online data for quick overview of Airbnb listings and ratings for chosen cities around the world.    
 
 ### Outcomes   
 
-![airbnb_sf]()
-![activity](spatial/spatial7.jpg)    
+[Spatial overview of San Francisco Airbnb listings and ratings](https://darwinanddavis.github.io/worldmaps/airbnb_sf.html)  
 
-[San Francisco Airbnb listing and ratings](https://darwinanddavis.github.io/worldmaps/airbnb_sf.html)  
+![airbnb_sf](spatial/spatial7.jpg)    
 
 Data: [San Francisco open Airbnb data.](http://insideairbnb.com/get-the-data.html)     
   
