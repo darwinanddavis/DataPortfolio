@@ -31,7 +31,8 @@ Data: [San Francisco open Airbnb data.](http://insideairbnb.com/get-the-data.htm
 ### Links    
   
 [Project page on Github.](https://github.com/darwinanddavis/worldmaps)        
-
+******
+  
 <!--  project break__________________________________________________________________________________________  -->
 
 <br>
