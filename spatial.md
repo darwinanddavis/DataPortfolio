@@ -10,7 +10,32 @@ permalink: /spatial/
 ![](spatial/spatial_header.jpg)  
 
 <br>
-## Spatial analysis of Airbnb ratings  
+## Realtime interactive map of coronavirus 2019-nCov global distribution  
+
+### People    
+
+**Matt Malishev, Emory University, USA**     
+
+### Tasks
+
+* Create an interactive map of coronavirus 2019-nCov global distribution using live webscraped [data from the European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases).   
+
+### Outcomes   
+
+[Coronavirus 2019-nCov global distribution map](https://darwinanddavis.github.io/worldmaps/coronavirus.html)  
+
+![coronavirus](spatial/spatial8.jpg)     
+
+### Links    
+
+[Project page on Github.](https://github.com/darwinanddavis/worldmaps)      
+  
+******    
+
+<!--  project break__________________________________________________________________________________________  -->
+
+<br>
+## Spatial analysis of Airbnb listings and ratings  
 
 ### People  
 
