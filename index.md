@@ -21,9 +21,11 @@
 
 <br>   
   
-******    
+******   
 
-<p style="color: #F7A08A; font-size:120%">
+<br>  
+
+<p style="color: #F7A08A; font-size:150%">
 	Latest post
 </p>     
 
