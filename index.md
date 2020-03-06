@@ -18,6 +18,17 @@
 ### I’m a computational researcher at [Emory University](https://scholarblogs.emory.edu/civitello/) working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling of ecological systems.  
 
 ### The header tabs provide a snapshot of some of my projects. Below are links to my digital footprint.       
+
+<br>    
+
+**Latest post**    
+
+_Last updated: 2020-03-06 16:38:09 EST_        
+
+Interactive map of coronavirus 2019-nCov global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
+
+[Coronavirus 2019-nCov global distribution map](https://darwinanddavis.github.io/worldmaps/coronavirus.html)         
+
   
 <br>  
 <br>  
