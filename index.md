@@ -19,15 +19,15 @@
 
 ### The header tabs provide a snapshot of some of my projects. Below are links to my digital footprint.       
 
-<br>    
+******    
 
-**Latest post**    
+## Latest post    
 
 _Last updated: 2020-03-06 16:38:09 EST_        
 
 Interactive map of coronavirus 2019-nCov global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
-[Coronavirus 2019-nCov global distribution map](https://darwinanddavis.github.io/worldmaps/coronavirus.html)         
+### [Coronavirus 2019-nCov global distribution map](./spatial.md)           
 
   
 <br>  
