@@ -19,9 +19,13 @@
 
 ### The header tabs provide a snapshot of some of my projects. Below are links to my digital footprint.       
 
+<br>   
+  
 ******    
 
-## Latest post    
+<p style="color: #F7A08A; font-size:120%">
+	Latest post
+</p>     
 
 _Last updated: 2020-03-06 16:38:09 EST_        
 
