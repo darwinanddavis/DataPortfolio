@@ -29,7 +29,7 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-03-06 16:38:09 EST_        
+_Last updated: 2020-03-26 12:48:20 AEDT_        
 
 Interactive map of coronavirus 2019-nCov global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
