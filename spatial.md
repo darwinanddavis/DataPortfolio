@@ -7,7 +7,9 @@ permalink: /spatial/
 
 ******
 <!-- ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)   -->
-![](spatial/spatial_header.jpg)  
+![](spatial/spatial_header.jpg)    
+
+******  
 
 <br>
 ## Realtime interactive map of COVID19 coronavirus global distribution  

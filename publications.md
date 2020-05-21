@@ -6,7 +6,8 @@ permalink: /publications/
 <a id="top"></a>
 
 ******  
-![](img/publication1.jpg)    
+![](img/publication1.jpg)      
+
 ******  
 
 <br>
@@ -22,7 +23,7 @@ permalink: /publications/
 
 Kearney MR, Munns SL, Moore D, **Malishev M** & Bull CM (2018) Field tests of a general ectotherm niche model show how water can limit lizard activity and distribution. _Ecological Monographs,_ 88(4): 672–693.  
 
-**Malishev M* **, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. _Methods in Ecology and Evolution,_ 9(3): 472–489.  
+**Malishev M** *, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. _Methods in Ecology and Evolution,_ 9(3): 472–489.  
 
 Fraser H, Soanes K, Jones C, Jones S & **Malishev M** (2017) The value of virtual conferencing for ecology and conservation. _Conservation Biology,_ 31(3): 540–546.  
 
@@ -36,17 +37,17 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 ## Book chapters  
 
-**Malishev M** (2017) How to Master Punctuation in Academic English Writing? In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.    
-[Buy on Amazon](https://www.amazon.com/dp/B078H5P4Y7)     
+**Malishev M** (2017) How to Master Punctuation in Academic English Writing? In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.      
+[Buy on Amazon](https://www.amazon.com/dp/B078H5P4Y7)       
+[Homepage](http://uni-edit.press/en/)        
+
+**Malishev M** (2017) Insider Info on Editing, Writing, and Publishing your Research. In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.     
+[Buy on Amazon](https://www.amazon.com/dp/B078HCP3LY)      
 [Homepage](http://uni-edit.press/en/)      
 
-**Malishev M** (2017) Insider Info on Editing, Writing, and Publishing your Research. In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al. 
-[Buy on Amazon](https://www.amazon.com/dp/B078HCP3LY)    
-[Homepage](http://uni-edit.press/en/)    
-
-**Malishev M** (2017) The Secrets to Selecting a Target Journal and Publishing Faster. In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.  
-[Buy on Amazon](https://www.amazon.com/dp/B078H278VZ)      
-[Homepage](http://uni-edit.press/en/)          
+**Malishev M** (2017) The Secrets to Selecting a Target Journal and Publishing Faster. In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.    
+[Buy on Amazon](https://www.amazon.com/dp/B078H278VZ)        
+[Homepage](http://uni-edit.press/en/)            
 
 
 <br>
@@ -57,7 +58,8 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 **Malishev M** (2017, May 19) Good Beer Week: Boilermaker House presents Uptown Funk with La Sirene ales, cheese, and whisky. [Blog] The Plus Ones.      
 
-**Malishev M** (2017, Mar 24) KOYAANISQATSI Live! Mind-warping documentary with the Philip Glass Ensemble. [Blog] The Plus Ones.  
+**Malishev M** (2017, Mar 24) KOYAANISQATSI Live! Mind-warping documentary with the Philip Glass Ensemble. [Blog] The Plus Ones.   
+
 
 **Malishev M** (2017, Feb 24) Row, row, row your inflatable, gently down the Yarra: The Inflatable Regatta 2017. [Blog] The Plus Ones.  
 
@@ -93,7 +95,8 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 **Malishev M** (2016, May 21) Good Beer Week: White Rabbit degustation at Mt. Erica Hotel. [Blog] The Plus Ones.  
 
-**Malishev M** (2016, May 21) Good Beer Week: Boatrocker Brewery B.O.A.T.S beer and food degustation at The Terminus. [Blog] The Plus Ones.  
+**Malishev M** (2016, May 21) Good Beer Week: Boatrocker Brewery B.O.A.T.S beer and food degustation at The Terminus. [Blog] The Plus Ones.    
+
 **Malishev M** (2016, Apr 8) World Class Cocktail Week: spiced rum masterclass at The Rum Diary Bar. [Blog] The Plus Ones.  
 
 **Malishev M** (2016, Mar 31) Matching food with sunset movies at Gourmet Cinema. [Blog] The Plus Ones.  

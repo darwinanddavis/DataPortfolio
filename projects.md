@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Data science and research projects  
+title: Projects    
 permalink: /projects/
 ---
 <a id="top"></a>
 
 ******  
 ![](img/project1.jpg)    
+
 ******  
 
 <br>      
@@ -14,13 +15,15 @@ permalink: /projects/
 ## [Spatial](./spatial.md)  
 
 ![](spatial/spatial7.jpg) 
+  
 ******  
 
 <br>  
 
 ## [Disease](./disease.md)  
   
-![](disease/disease5.jpg)  
+![](disease/disease5.png)      
+
 ******  
 
 <br>  
@@ -28,6 +31,7 @@ permalink: /projects/
 ## [Meta-analysis](./meta.md)  
 
 ![](meta/metae6.jpg)  
+  
 ******    
 
 <br>  
@@ -35,6 +39,7 @@ permalink: /projects/
 ## [Time series](./time_series.md)  
 
 ![](time_series/ts3.png)  
+  
 ******    
 
 <br>  
@@ -42,8 +47,9 @@ permalink: /projects/
 ## [Software](./coding_club.md)      
 
 ![](coding_club/cc2.jpg)
-******    
   
+******    
+
 <br>  
 <br>  
 
