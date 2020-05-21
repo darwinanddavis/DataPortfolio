@@ -11,9 +11,7 @@ permalink: /publications/
 
 ## Works in progress      
 
-<center>  
-	<img src="img/justtrying_2.png">  
-</center>    
+![](img/justtrying.jpg)   
 
 ******        
 
