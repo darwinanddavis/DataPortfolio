@@ -5,8 +5,11 @@ permalink: /time_series/
 ---
 <a id="top"></a>
 
+******    
+  
+![](time_series_header.png)  
+  
 ******  
-![](time_series_header.png)
 
 <br>
 ## Time series analysis of field temperature data and human disturbance events in human schistosome hotspots            

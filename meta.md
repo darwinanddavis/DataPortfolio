@@ -5,8 +5,11 @@ permalink: /meta/
 ---
 <a id="top"></a>
 
+******   
+ 
+![](meta_header.png)  
+
 ******  
-![](meta_header.png)
 
 <br>
 ## Meta-analysis and disease transmission model for infected host biomass recycling in ecosystems         

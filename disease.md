@@ -5,9 +5,12 @@ permalink: /disease/
 ---
 <a id="top"></a>
 
-******  
-![](disease_header.png)
+******    
 
+![](disease_header.png)  
+
+******  
+  
 <br>  
 ## Forecasting exposure risk in the human schistosome from bioenergetic simulation models of host-parasite ecology   
 

@@ -2,10 +2,11 @@
 layout: page
 title: Publications  
 permalink: /publications/
----
+---  
 <a id="top"></a>
 
-******  
+******    
+
 ![](img/publication1.jpg)      
 
 ******    
@@ -35,6 +36,8 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 <br>
 
+******    
+
 ## Book chapters  
 
 **Malishev M** (2017) How to Master Punctuation in Academic English Writing? In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.      
@@ -51,6 +54,8 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 
 <br>
+
+******    
 
 ## Media and blog posts  
 
