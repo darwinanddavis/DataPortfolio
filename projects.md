@@ -7,10 +7,6 @@ permalink: /projects/
 
 ******      
 
-![](img/project1.jpg)    
-
-******  
-
 <br>      
 
 ## [Spatial](./spatial.md)  
