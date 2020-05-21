@@ -9,11 +9,11 @@
 
 <center>
 	<p style="color: #F7A08A; font-size:175%">
-		<b>Simulation, spatial, and bioenergetics modeller</b>           
+		<b>Data analysis, modelling, and maps</b>           
 	</p>
 </center>
 
-### I like my data diverse, my methods savvy, my analyses reproducible, and my outputs open access.    
+### I like my data diverse, my methods clean, my analyses reproducible, and my outputs open access.    
 
 ### I’m a computational researcher at [Emory University](https://scholarblogs.emory.edu/civitello/) working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling of ecological systems.  
 
@@ -29,7 +29,7 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-05-01 11:26:25 AEST_        
+_Last updated: 2020-05-21 13:12:56 AEST_          
 
 Interactive map of coronavirus 2019-nCov global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
