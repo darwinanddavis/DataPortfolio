@@ -10,15 +10,15 @@ permalink: /spatial/
 ![](spatial/spatial_header.jpg)  
 
 <br>
-## Realtime interactive map of coronavirus 2019-nCov global distribution  
+## Realtime interactive map of COVID19 coronavirus global distribution  
 
 ### People    
 
-**Matt Malishev, Emory University, USA**     
+**Matt Malishev**     
 
 ### Tasks
 
-* Create an interactive map of coronavirus 2019-nCov global distribution using live webscraped [data from the European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases).   
+* Create an interactive map of COVID19 coronavirus global distribution using live webscraped [data from the European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases).   
 
 ### Outcomes   
 
@@ -39,7 +39,7 @@ permalink: /spatial/
 
 ### People  
 
-**Matt Malishev, Emory University, USA**   
+**Matt Malishev**       
 
 ### Tasks
 
@@ -72,7 +72,7 @@ Melbourne, Australia
 
 ### People
 
-**Matt Malishev, Emory University, USA**  
+**Matt Malishev, Centre of Excellence for Biosecurity Risk Analysis, Australia**    
 Michael Kearney, University of Melbourne, Australia  
 C. Michael Bull, Flinders University, Australia    
   

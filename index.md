@@ -31,9 +31,9 @@
 
 _Last updated: 2020-05-21 13:12:56 AEST_          
 
-Interactive map of coronavirus 2019-nCov global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
+Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
-### [Coronavirus 2019-nCov global distribution map](./spatial.md)           
+### [COVID19 coronavirus global distribution map](./spatial.md)           
 
   
 <br>  
