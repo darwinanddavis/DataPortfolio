@@ -7,9 +7,9 @@ permalink: /coding_club/
 
 ******  
 ![](coding_club_header.png)  
-
-******  
-
+  
+******    
+  
 <br>
 ## R Coding Club for teaching coding, data analysis, and research tools    
 
@@ -38,7 +38,7 @@ Hasse Walum, Emory University, USA
 
 Head directly to the Emory Coding Club website to see all info on session material and lesson modules.  
 
-## [Emory Coding Club website](https://darwinanddavis.github.io/EmoRyCodingClub/index.html)    
+## [R Coding Club website](https://darwinanddavis.github.io/EmoRyCodingClub/index.html)    
 <br>  
 
 ![](coding_club/cc1.jpg)

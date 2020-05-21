@@ -14,41 +14,41 @@ permalink: /projects/
 
 ## [Spatial](./spatial.md)  
 
-![](spatial/spatial7.jpg) 
-  
 ******  
 
+![](spatial/spatial7.jpg) 
+  
 <br>  
 
 ## [Disease](./disease.md)  
   
-![](disease/disease5.png)      
+******    
 
-******  
+![](disease/disease5.png)      
 
 <br>  
 
 ## [Meta-analysis](./meta.md)  
 
-![](meta/metae6.jpg)  
-  
 ******    
 
+![](meta/metae6.jpg)  
+ 
 <br>  
 
 ## [Time series](./time_series.md)  
 
-![](time_series/ts3.png)  
-  
-******    
+******  
 
+![](time_series/ts3.png)  
+   
 <br>  
 
 ## [Software](./coding_club.md)      
+  
+******  
 
 ![](coding_club/cc2.jpg)
-  
-******    
 
 <br>  
 <br>  
