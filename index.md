@@ -9,7 +9,7 @@
 
 <center>
 	<p style="color: #F7A08A; font-size:175%">
-		<b>Data analysis, modelling, and maps</b>           
+		<b>Data analysis, modelling, and maps</b>             
 	</p>
 </center>
 

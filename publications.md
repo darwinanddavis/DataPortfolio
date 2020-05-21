@@ -8,7 +8,7 @@ permalink: /publications/
 ******  
 ![](img/publication1.jpg)      
 
-******  
+******    
 
 <br>
 
