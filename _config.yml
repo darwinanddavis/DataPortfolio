@@ -41,7 +41,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - projects.md  
-- publications.md  
+- publications.md    
+# - awards.md  
 # - workshops.md  
 # - presentations.md  
 # - collaborations.md    

@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <a id="top"></a>
 
-******    
+******      
 
 ![](img/project1.jpg)    
 

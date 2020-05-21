@@ -5,7 +5,7 @@ permalink: /spatial/
 ---
 <a id="top"></a>
 
-******  
+******    
 
 <!-- ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)   -->
 ![](spatial/spatial_header.jpg)    

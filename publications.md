@@ -5,13 +5,25 @@ permalink: /publications/
 ---  
 <a id="top"></a>
 
-******    
-
+******      
+  
 ![](img/publication1.jpg)      
 
 ******    
 
 <br>
+
+## Works in progress    
+
+**Matt Malishev** Just Trying: The #1 way of being naiive about the world.   
+  
+![](img/justtrying.jpg)     
+
+******        
+
+<!--  project break__________________________________________________________________________________________  -->
+
+<br>        
 
 ## Peer review papers  
 (*Awarded article, ^Equal contribution)    
@@ -33,11 +45,13 @@ Sperfeld E, Wagner ND*, Halvorson HM^, **Malishev M^** & Raubenheimer D (2017) B
 Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodstoich III: Integrating tools of Nutritional Geometry and Ecological Stoichiometry to advance element budgeting and the prediction of consumer-driven nutrient recycling. _Oikos,_ 125: 1539–1553.  
 
 **Malishev M** & Sanson GD (2015) Leaf mechanics and herbivory defence: how tough tissue along the leaf body deters growing insect herbivores. _Austral Ecology,_ 40: 300–308.
+  
+******      
 
-<br>
+<!--  project break__________________________________________________________________________________________  -->
 
-******    
-
+<br>      
+  
 ## Book chapters  
 
 **Malishev M** (2017) How to Master Punctuation in Academic English Writing? In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.      
@@ -51,12 +65,23 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 **Malishev M** (2017) The Secrets to Selecting a Target Journal and Publishing Faster. In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.    
 [Buy on Amazon](https://www.amazon.com/dp/B078H278VZ)        
 [Homepage](http://uni-edit.press/en/)            
+    
+******      
 
+<!--  project break__________________________________________________________________________________________  -->
 
-<br>
+<br>        
 
-******    
+## Theses   
 
+**Malishev M** (2017) On the mechanisms of animal movement from first principles, PhD thesis, School of Biosciences, University of Melbourne.         
+
+******        
+    
+<!--  project break__________________________________________________________________________________________  -->
+    
+<br>      
+  
 ## Media and blog posts  
 
 **Malishev M** (2017, May 24) Middle Eastern fare at Mr. Lawrence warms the winter beachside. [Blog] The Plus Ones.     
@@ -115,6 +140,7 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 **Malishev M** (2016, Feb 3) Thee Oh Sees’ sold-out gig at Howler. [Blog] The Plus Ones.  
 
 **Malishev M** (2016, Jan 14) Gelato Messina’s Gelato Appreciation Class, or How to Kill a Hangover with Gelato. [Blog] The Plus Ones.  
+
 **Malishev M** (2015, Nov 16) Adelphi Distillery whisky tasting at Whisky & Alement. [Blog] The Plus Ones.  
 
 **Malishev M** (2015, Nov 10) Thursdays are for whisky: Benromach tasting at The Kilburn. [Blog] The Plus Ones.  

@@ -5,8 +5,8 @@ permalink: /time_series/
 ---
 <a id="top"></a>
 
-******    
-  
+******      
+
 ![](time_series_header.png)  
   
 ******  

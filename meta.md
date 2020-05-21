@@ -4,9 +4,9 @@ title: Meta-analysis
 permalink: /meta/
 ---
 <a id="top"></a>
+  
+******     
 
-******   
- 
 ![](meta_header.png)  
 
 ******  
