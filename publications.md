@@ -13,15 +13,14 @@ permalink: /publications/
 
 <br>
 
-## Works in progress    
+<!-- ## Works in progress    
 
 <center>  
 	<img src="img/justtrying_2.png" width="400" height="400">  
 	<h3> Just Trying </h3>  
 	<h4> The #1 way to be naiive about the world </h4>   
 	<h4> Matt Malishev </h4>   
-	<!-- <p style="font-size:60%"></p> -->
-</center>    
+</center>     -->
 
 ******        
 
