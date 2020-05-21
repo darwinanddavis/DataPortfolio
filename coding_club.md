@@ -6,10 +6,11 @@ permalink: /coding_club/
 <a id="top"></a>
 
 ******  
-![](coding_club_header.png)
+![](coding_club_header.png)  
+******  
 
 <br>
-## Emory Coding Club for teaching coding, data analysis, and research tools  
+## R Coding Club for teaching coding, data analysis, and research tools    
 
 ### Location  
 
