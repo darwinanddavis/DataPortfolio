@@ -15,13 +15,13 @@ permalink: /publications/
 
 ## Works in progress    
 
-<div class="small"><center> 
-	Just Trying   
-	The #1 way of being naiive about the world. 
-	Matt Malishev     
-</center></div>  
-  
-![](img/justtrying.jpg)     
+<center>
+	<img src="img/justtrying_2.jpg" width="400" height="400">
+	### Just Trying  
+	#### The #1 way to be naiive about the world
+	#### Matt Malishev  
+	<!-- <p style="font-size:60%"></p> -->
+</center>  
 
 ******        
 
