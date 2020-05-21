@@ -44,14 +44,14 @@ header_pages:
 - publications.md    
 # - awards.md  
 # - workshops.md  
-# - presentations.md  
+- presentations.md  
 # - collaborations.md    
 # - contact.md
-- spatial.md 
-- disease.md 
-- meta.md
-- time_series.md
-- coding_club.md
+# - spatial.md 
+# - disease.md 
+# - meta.md
+# - time_series.md
+# - coding_club.md
 
 # Build settings
 theme: minima

@@ -6,21 +6,14 @@ permalink: /publications/
 <a id="top"></a>
 
 ******      
-  
-![](img/publication1.jpg)      
-
-******    
 
 <br>
 
-<!-- ## Works in progress    
+## Works in progress      
 
 <center>  
-	<img src="img/justtrying_2.png" width="400" height="400">  
-	<h3> Just Trying </h3>  
-	<h4> The #1 way to be naiive about the world </h4>   
-	<h4> Matt Malishev </h4>   
-</center>     -->
+	<img src="img/justtrying_2.png">  
+</center>    
 
 ******        
 
@@ -77,8 +70,10 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 ## Theses   
 
-**Malishev M** (2017) On the mechanisms of animal movement from first principles, PhD thesis, School of Biosciences, University of Melbourne.         
+**Malishev M** (2017) On the mechanisms of animal movement from first principles, PhD thesis, School of Biosciences, University of Melbourne.   
 
+**Malishev M** (2009) Biomechanics of herbivory defence in foraging ecology, Honours thesis, School of Biological Sciences, Monash University.          
+  
 ******        
     
 <!--  project break__________________________________________________________________________________________  -->
@@ -156,8 +151,7 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 <br>  
 <br>  
-
-###### Header image: Validating the need for virtual conferencing for international meetings.         
+  
 ******  
 
 [Back to top](#top)|[Home page](./index.md)
