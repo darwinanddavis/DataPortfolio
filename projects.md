@@ -50,7 +50,6 @@ permalink: /projects/
 <br>  
 <br>  
 
-###### Header image: Analysing Hong Kong's Airbnb listings using Airbnb open data with Shiny in R.      
 ******  
 
 [Back to top](#top)|[Home page](./index.md)

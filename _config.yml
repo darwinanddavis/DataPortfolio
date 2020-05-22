@@ -17,7 +17,7 @@ minima:
     linkedin: mmalishev
     twitter: darwinanddavis
     # instagram: darwinanddavis
-    # googlescholar: user=m3MVeUMAAAAJ&hl=en  
+    googlescholar: user=m3MVeUMAAAAJ
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -45,6 +45,7 @@ header_pages:
 # - awards.md  
 # - workshops.md  
 - presentations.md  
+- blog.md
 # - collaborations.md    
 # - contact.md
 # - spatial.md 
