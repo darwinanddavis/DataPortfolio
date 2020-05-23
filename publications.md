@@ -21,24 +21,24 @@ permalink: /publications/
 
 ## Peer review papers  
 (*Awarded article, ^Equal contribution)    
+  
+**Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._    
 
-**Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology. In press._    
-
-**Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._  
+**Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology. In press._ [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602?af=R).      
   
 **Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. Integrative and Comparative Biology, 59(5): 1243–1252. [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).      
 
-**Malishev M**, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. Methods in Ecology and Evolution. 9(3): 472–489, [doi:https://doi.org/10.1111/2041-210X.12909](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12909).   
+**Malishev M**, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. Methods in Ecology and Evolution. 9(3): 472–489, [https://doi.org/10.1111/2041-210X.12909](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12909).   
 
 Kearney MR, Munns SL, Moore D, **Malishev M** & Bull CM (2018) Field tests of a general ectotherm niche model show how water can limit lizard activity and distribution. Ecological Monographs. 88(4): 672–693, [https://doi.org/10.1002/ecm.1326](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1326).   
 
-Fraser H, Soanes K, Jones C, Jones S & **Malishev M** (2017) The value of virtual conferencing for ecology and conservation. _Conservation Biology,_ 31(3): 540–546.  
+Fraser H, Soanes K, Jones C, Jones S & **Malishev M** (2017) The value of virtual conferencing for ecology and conservation. _Conservation Biology,_ 31(3): 540–546, [https://doi.org/10.1111/cobi.12837](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.12837).    
 
-Sperfeld E, Wagner ND*, Halvorson HM^, **Malishev M^** & Raubenheimer D (2017) Bridging Ecological Stoichiometry and Nutritional Geometry with homeostasis concepts and integrative models of organism nutrition. _Functional Ecology,_ 31(2): 286–296.     
+Sperfeld E, Wagner ND*, Halvorson HM^, **Malishev M^** & Raubenheimer D (2017) Bridging Ecological Stoichiometry and Nutritional Geometry with homeostasis concepts and integrative models of organism nutrition. _Functional Ecology,_ 31(2): 286–296, [https://doi.org/10.1111/1365-2435.12707](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12707).       
 
-Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodstoich III: Integrating tools of Nutritional Geometry and Ecological Stoichiometry to advance element budgeting and the prediction of consumer-driven nutrient recycling. _Oikos,_ 125: 1539–1553.  
+Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodstoich III: Integrating tools of Nutritional Geometry and Ecological Stoichiometry to advance element budgeting and the prediction of consumer-driven nutrient recycling. _Oikos,_ 125: 1539–1553, [https://doi.org/10.1111/oik.03529](https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.03529).    
 
-**Malishev M** & Sanson GD (2015) Leaf mechanics and herbivory defence: how tough tissue along the leaf body deters growing insect herbivores. _Austral Ecology,_ 40: 300–308.
+**Malishev M** & Sanson GD (2015) Leaf mechanics and herbivory defence: how tough tissue along the leaf body deters growing insect herbivores. _Austral Ecology,_ 40: 300–308, [https://doi.org/10.1111/aec.12214](https://onlinelibrary.wiley.com/doi/abs/10.1111/aec.12214).    
   
 ******      
 
@@ -153,11 +153,11 @@ Embrace Education 'Our Story', [https://www.embrace-education.org/](http://www.e
 
 'Uni students help refugees Embrace Education', Nov 4, 2011, [Probono Australia](www.probonoaustralia.com.au).  
 
-'Embracing the plight of disadvantaged students', [Monash University newsletter, Nov 18, 2011](https://www.monash.edu/news/articles/embracing-the-plight-of-disadvantaged-school-students).   
+'Embracing the plight of disadvantaged students', Monash University newsletter, [Nov 18, 2011](https://www.monash.edu/news/articles/embracing-the-plight-of-disadvantaged-school-students).   
 
-Community Fundraising: 'Race Against Depression', www.lifeline.org, November 2011 e-newsletter.     
+Community Fundraising: 'Race Against Depression', November 2011 e-newsletter, [www.lifeline.org](www.lifeline.org).         
   
-'Generation Y-worry still unfazed by credit woes', [The Age](https://www.smh.com.au/national/generation-yworry-still-unfazed-by-credit-woes-20081101-5fxq.html), Nov 2, 2008.     
+'Generation Y-worry still unfazed by credit woes', The Age, [Nov 2, 2008](https://www.smh.com.au/national/generation-yworry-still-unfazed-by-credit-woes-20081101-5fxq.html).        
 
 ******        
     
@@ -165,15 +165,13 @@ Community Fundraising: 'Race Against Depression', www.lifeline.org, November 201
     
 <br>      
   
-## Data and code (open access)      
+## Data and code (open access)          
 
-[Using git and Github for research and life workshop material](https://github.com/darwinanddavis/githubpres).        
+Malishev M and Civitello DJ Functional Ecology. [Model code and appendices](https://github.com/darwinanddavis/MalishevCivitello_hostcontrol).         
 
-[Model code and appendices for Malishev M and Civitello DJ Functional Ecology](https://github.com/darwinanddavis/MalishevCivitello_hostcontrol).     
+Malishev M & Civitello DJ (2019) Integrative and Comparative Biology, 59(5): 1243–1252. [Model code and appendices](https://github.com/darwinanddavis/MalishevCivitello_SICB).    
 
-[Model code and appendices for Malishev M & Civitello DJ (2019) Integrative and Comparative Biology, 59(5): 1243–1252](https://github.com/darwinanddavis/MalishevCivitello_SICB).  
-
-[Model code and appendices for Malishev M, Bull, CM, and Kearney MR (2018) MEE, 9(3): 472–489](https://github.com/darwinanddavis/MalishevBullKearney).   
+Malishev M, Bull, CM, and Kearney MR (2018) MEE, 9(3): 472–489. [Model code and appendices](https://github.com/darwinanddavis/MalishevBullKearney).     
   
 <br>  
 <br>  

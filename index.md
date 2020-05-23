@@ -8,7 +8,7 @@
 </center>  
 
 <center>
-	<p style="color: #F7A08A; font-size:175%">
+	<p style="color: #FF7E7E; font-size:175%">
 		<b>Data analysis, modelling, maps</b>             
 	</p>
 </center>
@@ -25,7 +25,7 @@
 
 <br>  
 
-<p style="color: #F7A08A; font-size:150%">
+<p style="color: #FF7E7E; font-size:150%">
 	Latest post
 </p>     
 
