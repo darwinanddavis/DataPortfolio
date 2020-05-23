@@ -38,8 +38,8 @@ Maris Brenn-White, St. Louis Zoo, USA
 ### Tasks   
 
 * Developed a host-parasite disease transmission model with biomass conservation and nutrient cycling to capture macroparasite burden on terrestrial ungulates (wild and livestock) (model development)     
-* Built a keyword query bot for scraping data from literature search terms based on Web of Science results (meta-analysis)      
-* Built a meta-analysis data scraper bot for scraping PDF files for user-defined data (meta-analysis)   
+* Built a keyword query bot for scraping data from literature search terms based on user search engine results (meta-analysis)  
+* Built a meta-analysis data scraper bot for scraping PDF files for user-defined data (meta-analysis)
 
 **Outcomes**  
 

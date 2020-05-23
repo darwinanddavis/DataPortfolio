@@ -65,12 +65,11 @@ Data: [San Francisco open Airbnb data.](http://insideairbnb.com/get-the-data.htm
 <!--  project break__________________________________________________________________________________________  -->
   
 <br>
-## Simulating animal movement and dispersal potential in space and time from individual bioenergetics and geolocation data            
+## Using simulation models to forecast species dispersal potential from environmental and geolocation data                
 
 ### Location
 
-Centre of Excellence for Biosecurity Risk Analysis   
-University of Melbourne  
+Centre of Excellence for Biosecurity Risk Analysis       
 Melbourne, Australia       
 
 ### People

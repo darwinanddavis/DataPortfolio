@@ -26,11 +26,11 @@ permalink: /publications/
 
 **Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._  
   
-**Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. _Integrative and Comparative Biology,_ 59(5): 1243–1252.    
+**Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. Integrative and Comparative Biology, 59(5): 1243–1252. [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).      
 
-Kearney MR, Munns SL, Moore D, **Malishev M** & Bull CM (2018) Field tests of a general ectotherm niche model show how water can limit lizard activity and distribution. _Ecological Monographs,_ 88(4): 672–693.  
+**Malishev M**, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. Methods in Ecology and Evolution. 9(3): 472–489, [doi:https://doi.org/10.1111/2041-210X.12909](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12909).   
 
-**Malishev M** *, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. _Methods in Ecology and Evolution,_ 9(3): 472–489.  
+Kearney MR, Munns SL, Moore D, **Malishev M** & Bull CM (2018) Field tests of a general ectotherm niche model show how water can limit lizard activity and distribution. Ecological Monographs. 88(4): 672–693, [https://doi.org/10.1002/ecm.1326](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1326).   
 
 Fraser H, Soanes K, Jones C, Jones S & **Malishev M** (2017) The value of virtual conferencing for ecology and conservation. _Conservation Biology,_ 31(3): 540–546.  
 
@@ -78,7 +78,9 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
     
 <br>      
   
-## Media and blog posts  
+## Media and blog posts    
+
+[Where do Animals Spend Their Time and Energy? Theory, Simulations and GPS Trackers Can Help Us Find Out](https://methodsblog.com/2019/05/22/movement-metabolism-microclimate/), Methods in Ecology and Evolution blog, May 22, 2019.    
 
 **Malishev M** (2017, May 24) Middle Eastern fare at Mr. Lawrence warms the winter beachside. [Blog] The Plus Ones.     
 
@@ -145,8 +147,34 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 **Malishev M** (2015, Aug 30) Twerks and Peri-perks at Nando’s V.I.P. Mill House Party. [Blog] The Plus Ones.  
 
-**Malishev M** (2015, Aug 18) Top Shelf 2015: Gin for brunch, beer for lunch, whiskey for whiskey’s sake. [Blog] The Plus Ones.    
+**Malishev M** (2015, Aug 18) Top Shelf 2015: Gin for brunch, beer for lunch, whiskey for whiskey’s sake. [Blog] The Plus Ones.  
 
+Embrace Education 'Our Story', [https://www.embrace-education.org/](http://www.embrace-education.org/#!our-story/c1cev).    
+
+'Uni students help refugees Embrace Education', Nov 4, 2011, [Probono Australia](www.probonoaustralia.com.au).  
+
+'Embracing the plight of disadvantaged students', [Monash University newsletter, Nov 18, 2011](https://www.monash.edu/news/articles/embracing-the-plight-of-disadvantaged-school-students).   
+
+Community Fundraising: 'Race Against Depression', www.lifeline.org, November 2011 e-newsletter.     
+  
+'Generation Y-worry still unfazed by credit woes', [The Age](https://www.smh.com.au/national/generation-yworry-still-unfazed-by-credit-woes-20081101-5fxq.html), Nov 2, 2008.     
+
+******        
+    
+<!--  project break__________________________________________________________________________________________  -->
+    
+<br>      
+  
+## Data and code (open access)      
+
+[Using git and Github for research and life workshop material](https://github.com/darwinanddavis/githubpres).        
+
+[Model code and appendices for Malishev M and Civitello DJ Functional Ecology](https://github.com/darwinanddavis/MalishevCivitello_hostcontrol).     
+
+[Model code and appendices for Malishev M & Civitello DJ (2019) Integrative and Comparative Biology, 59(5): 1243–1252](https://github.com/darwinanddavis/MalishevCivitello_SICB).  
+
+[Model code and appendices for Malishev M, Bull, CM, and Kearney MR (2018) MEE, 9(3): 472–489](https://github.com/darwinanddavis/MalishevBullKearney).   
+  
 <br>  
 <br>  
   

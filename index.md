@@ -9,7 +9,7 @@
 
 <center>
 	<p style="color: #F7A08A; font-size:175%">
-		<b>Data analysis, modelling, and maps</b>             
+		<b>Data analysis, modelling, maps</b>             
 	</p>
 </center>
 
@@ -17,7 +17,7 @@
 
 ### I’m a computational researcher at [Emory University](https://scholarblogs.emory.edu/civitello/) working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling of ecological systems.  
 
-### The header tabs provide a snapshot of some of my projects. Below are links to my digital footprint.       
+### The header tabs link to my current projects, publications, and presentations. Below are links to my digital footprint.         
 
 <br>   
   

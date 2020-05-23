@@ -12,7 +12,7 @@ permalink: /disease/
 ******  
   
 <br>  
-## Forecasting exposure risk in the human schistosome from bioenergetic simulation models of host-parasite ecology   
+## Forecasting exposure risk in the human schistosome from bioenergetic and disease transmission models     
 
 ### Location
 
@@ -30,12 +30,16 @@ David Civitello, Emory University, USA
 * Simulated the consequences of applying chemical control strategies (molluscicides) that vary in frequency and intensity for mediating human-infectious parasite output throughout the transmission season.    
 
 ### Outcomes
+  
+* **Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. Functional Ecology._In press_.  
+  
+* **Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. Integrative and Comparative Biology, 59(5): 1243–1252. [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).    
 
-* **Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. Integrative and Comparative Biology, iz385, [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).    
+* **Malishev M** and Civitello DJ (2019) Fewer, fatter snail hosts make more human schistosome parasites than many, starved ones, [International Society for Ecological Modelling 2019](https://www.elsevier.com/events/conferences/international-society-for-ecological-modelling-global-conference/programme), ISEM2019, Oct 1–5, Salzburg, Austria.      
 
-* **Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _In review_.
+**Malishev M** & Civitello DJ (2019) Simulating parasite emergence from host energetics to inform control strategies of the human schistosome, invited talk, Center for Disease Control and Prevention, USA    
 
-* **Malishev M** and Civitello DJ (2019) Fewer, fatter snail hosts make more human schistosome parasites than many, starved ones, [International Society for Ecological Modelling 2019](https://www.elsevier.com/events/conferences/international-society-for-ecological-modelling-global-conference/programme), ISEM2019, Oct 1–5, Salzburg, Austria.        
+**Malishev M** & Civitello DJ (2019) Simulating the bioenergetics of snail host infection to predict parasite emergence in the human schistosome, invited talk, Clayton State University, USA         
 
 ### Example outputs  
 <br>

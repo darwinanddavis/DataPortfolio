@@ -14,6 +14,14 @@ permalink: /projects/
 ******  
 
 ![](spatial/spatial7.jpg) 
+
+<br>  
+
+## [Software and products](./coding_club.md)          
+  
+******    
+
+![](coding_club/cc2.jpg)  
   
 <br>  
 
@@ -37,15 +45,7 @@ permalink: /projects/
 
 ******  
 
-![](time_series/ts3.png)  
-   
-<br>  
-
-## [Software](./coding_club.md)      
-  
-******  
-
-![](coding_club/cc2.jpg)
+![](time_series/ts3.png)    
 
 <br>  
 <br>  

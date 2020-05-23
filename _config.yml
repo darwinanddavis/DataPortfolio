@@ -1,6 +1,6 @@
 title: Matt Malishev
 author: darwinanddavis  
-email: matthew.malishev@gmail.com
+email: matthew.malishev [at] gmail.com
 description: Data analysis and research projects meshing modelling and data viz for diverse problems
 
 # show_excerpts: true # set to true to show excerpts on the homepage
@@ -46,6 +46,7 @@ header_pages:
 # - workshops.md  
 - presentations.md  
 - blog.md
+- work.md  # work experience, eg embrace, tech consultant    
 # - collaborations.md    
 # - contact.md
 # - spatial.md 
