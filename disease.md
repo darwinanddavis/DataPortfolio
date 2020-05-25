@@ -37,9 +37,9 @@ David Civitello, Emory University, USA
 
 * **Malishev M** and Civitello DJ (2019) Fewer, fatter snail hosts make more human schistosome parasites than many, starved ones, [International Society for Ecological Modelling 2019](https://www.elsevier.com/events/conferences/international-society-for-ecological-modelling-global-conference/programme), ISEM2019, Oct 1–5, Salzburg, Austria.      
 
-**Malishev M** & Civitello DJ (2019) Simulating parasite emergence from host energetics to inform control strategies of the human schistosome, invited talk, Center for Disease Control and Prevention, USA    
+* **Malishev M** & Civitello DJ (2019) Simulating parasite emergence from host energetics to inform control strategies of the human schistosome, invited talk, Center for Disease Control and Prevention, USA    
 
-**Malishev M** & Civitello DJ (2019) Simulating the bioenergetics of snail host infection to predict parasite emergence in the human schistosome, invited talk, Clayton State University, USA         
+* **Malishev M** & Civitello DJ (2019) Simulating the bioenergetics of snail host infection to predict parasite emergence in the human schistosome, invited talk, Clayton State University, USA         
 
 ### Example outputs  
 <br>

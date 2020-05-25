@@ -28,7 +28,7 @@ permalink: /publications/
   
 **Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. Integrative and Comparative Biology, 59(5): 1243–1252. [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).      
 
-**Malishev M**, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. Methods in Ecology and Evolution. 9(3): 472–489, [https://doi.org/10.1111/2041-210X.12909](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12909).   
+**Malishev M* **, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. Methods in Ecology and Evolution. 9(3): 472–489, [https://doi.org/10.1111/2041-210X.12909](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12909).   
 
 Kearney MR, Munns SL, Moore D, **Malishev M** & Bull CM (2018) Field tests of a general ectotherm niche model show how water can limit lizard activity and distribution. Ecological Monographs. 88(4): 672–693, [https://doi.org/10.1002/ecm.1326](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1326).   
 
@@ -48,15 +48,15 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
   
 ## Book chapters  
 
-**Malishev M** (2017) How to Master Punctuation in Academic English Writing? In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.      
+**Malishev M** (2017) How to Master Punctuation in Academic English Writing? _In How to Fix your Academic English and Publish your Research Faster_. Eds. Ozy Abram et al.      
 [Buy on Amazon](https://www.amazon.com/dp/B078H5P4Y7)       
 [Homepage](http://uni-edit.press/en/)        
 
-**Malishev M** (2017) Insider Info on Editing, Writing, and Publishing your Research. In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.     
+**Malishev M** (2017) Insider Info on Editing, Writing, and Publishing your Research. _In How to Fix your Academic English and Publish your Research Faster_. Eds. Ozy Abram et al.      
 [Buy on Amazon](https://www.amazon.com/dp/B078HCP3LY)      
 [Homepage](http://uni-edit.press/en/)      
 
-**Malishev M** (2017) The Secrets to Selecting a Target Journal and Publishing Faster. In How to Fix your Academic English and Publish your Research Faster. Eds. Ozy Abram et al.    
+**Malishev M** (2017) The Secrets to Selecting a Target Journal and Publishing Faster. _In How to Fix your Academic English and Publish your Research Faster_. Eds. Ozy Abram et al.      
 [Buy on Amazon](https://www.amazon.com/dp/B078H278VZ)        
 [Homepage](http://uni-edit.press/en/)            
     
@@ -80,7 +80,7 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
   
 ## Media and blog posts    
 
-[Where do Animals Spend Their Time and Energy? Theory, Simulations and GPS Trackers Can Help Us Find Out](https://methodsblog.com/2019/05/22/movement-metabolism-microclimate/), Methods in Ecology and Evolution blog, May 22, 2019.    
+Where do Animals Spend Their Time and Energy? Theory, Simulations and GPS Trackers Can Help Us Find Out, [Methods in Ecology and Evolution blog](https://methodsblog.com/2019/05/22/movement-metabolism-microclimate/), May 22, 2019.      
 
 **Malishev M** (2017, May 24) Middle Eastern fare at Mr. Lawrence warms the winter beachside. [Blog] The Plus Ones.     
 

@@ -25,13 +25,15 @@ Lee S, **Malishev M**, Laidemitt M & Civitello DJ (2019) Time series analysis of
 
 **Malishev M** & Kearney MK (2017) Hot, hungry, and tired: individual-based models of animal dispersal using energetics and climates, [International Conference Conservation Biology 2017](https://conbio.org/images/content_conferences/ICCB2017_Program_web.pdf), ICCB2017, July 23–27, Cartagena, Colombia.    	   
 
-**Malishev M** & Kearney MK (2015) Modelling movement mechanisms, Australian Society of Herpetologist Annual Meeting 2015, ASH2015, Eildon, Australia.    
+**Malishev M** & Kearney MK (2015) Modelling movement mechanisms, Australian Society of Herpetologist Annual Meeting 2015, ASH2015, Jan 9–12, Eildon, Australia.    
 
 **Malishev M** (2014) Individual-based models of animal dispersal, Annual BioSciences Postgraduate Conference, Melbourne, Australia	  
 
 **Malishev M** (2014) Modelling animal movement mechanisms, [Gordon Research Conference (GRC) Unifying Ecology Across Scales](https://www.grc.org/unifying-ecology-across-scales-grs-conference/2014/), July 19–25, Maine, USA    
 
 **Malishev M**, Kooi BW & Kooijman SALM (2013) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle (poster), EcoTas13, Auckland, New Zealand  
+
+**Malishev M** (2013) Energy, time, and splitting 8's, Department of Ecological Modelling, UFZ Helmholtz Centre for Environmental Research, June 15, Leipzig, Germany.    
 
 **Malishev M** (2012) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle, Annual BioSciences Postgraduate Conference, Melbourne, Australia 	  
 
