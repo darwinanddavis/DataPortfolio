@@ -33,9 +33,9 @@ Lee S, **Malishev M**, Laidemitt M & Civitello DJ (2019) Time series analysis of
 
 **Malishev M**, Kooi BW & Kooijman SALM (2013) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle (poster), EcoTas13, Auckland, New Zealand  
 
-**Malishev M** (2013) Energy, time, and splitting 8's, Department of Ecological Modelling, UFZ Helmholtz Centre for Environmental Research, June 15, Leipzig, Germany.    
+**Malishev M**, Kooi BW & Kooijman SALM (2013) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle, Annual BioSciences Postgraduate Conference, Melbourne, Australia 	    
 
-**Malishev M** (2012) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle, Annual BioSciences Postgraduate Conference, Melbourne, Australia 	  
+**Malishev M** (2013) Energy, time, and splitting 8's, Department of Ecological Modelling, UFZ Helmholtz Centre for Environmental Research, June 15, Leipzig, Germany.      
 
 **Malishev M** (2012) Agent-based modelling of animal movement, Ecological Society of Australia (ESA) Annual Conference, Melbourne, Australia  	  
 

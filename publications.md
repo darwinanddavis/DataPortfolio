@@ -24,11 +24,11 @@ permalink: /publications/
   
 **Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._    
 
-**Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology. In press._ [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602?af=R).      
+**Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology. In press._ [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602?af=R).        
   
 **Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. Integrative and Comparative Biology, 59(5): 1243–1252. [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).      
 
-**Malishev M* **, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. Methods in Ecology and Evolution. 9(3): 472–489, [https://doi.org/10.1111/2041-210X.12909](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12909).   
+**Malishev M** *, Bull CM & Kearney MR (2018) An individual-based model of ectotherm movement integrating metabolic and microclimatic constraints. Methods in Ecology and Evolution. 9(3): 472–489, [https://doi.org/10.1111/2041-210X.12909](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12909).   
 
 Kearney MR, Munns SL, Moore D, **Malishev M** & Bull CM (2018) Field tests of a general ectotherm niche model show how water can limit lizard activity and distribution. Ecological Monographs. 88(4): 672–693, [https://doi.org/10.1002/ecm.1326](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1326).   
 
@@ -80,7 +80,7 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
   
 ## Media and blog posts    
 
-Where do Animals Spend Their Time and Energy? Theory, Simulations and GPS Trackers Can Help Us Find Out, [Methods in Ecology and Evolution blog](https://methodsblog.com/2019/05/22/movement-metabolism-microclimate/), May 22, 2019.      
+**Malishev M** Where do Animals Spend Their Time and Energy? Theory, Simulations and GPS Trackers Can Help Us Find Out, [Methods in Ecology and Evolution blog](https://methodsblog.com/2019/05/22/movement-metabolism-microclimate/), May 22, 2019.      
 
 **Malishev M** (2017, May 24) Middle Eastern fare at Mr. Lawrence warms the winter beachside. [Blog] The Plus Ones.     
 
