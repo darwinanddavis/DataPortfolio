@@ -29,7 +29,7 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-05-21 13:12:56 AEST_          
+_Last updated: 2020-06-02 21:44:50 AEST_          
 
 Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
