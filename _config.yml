@@ -13,11 +13,11 @@ minima:
   # generate social links in footer
   social_links:
     github: darwinanddavis
-    # pinterest: mmalishev
+    pinterest: mmalishev
     linkedin: mmalishev
     twitter: darwinanddavis
     # instagram: darwinanddavis
-    googlescholar: 3MVeUMAAAAJ
+    # googlescholar: 3MVeUMAAAAJ
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
