@@ -13,7 +13,7 @@ permalink: /publications/
 
 ![](img/justtrying.jpg)   
 
-******        
+******          
 
 <!--  project break__________________________________________________________________________________________  -->
 
@@ -22,8 +22,10 @@ permalink: /publications/
 ## Peer review papers  
 (*Awarded article, ^Equal contribution)    
   
-**Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._    
-
+**Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._   
+  
+Ezenwa VO, Civitello DJ, Barton BT^, Becker DJ^, Brenn-White M^, Classen AT^, Deem SL^, Johnson ZE^, Kutz S^, **Malishev M^**, Penczykowski RM^, Preston DL^, Vannatta JT^ & Koltz AM. Infectious diseases, livestock and climate: a vicious cycle? _In review_.  
+  
 **Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology. In press._ [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602?af=R).        
   
 **Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. Integrative and Comparative Biology, 59(5): 1243–1252. [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).      

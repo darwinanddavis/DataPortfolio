@@ -13,17 +13,17 @@ minima:
   # generate social links in footer
   social_links:
     github: darwinanddavis
-    pinterest: mmalishev
+    # pinterest: mmalishev
     linkedin: mmalishev
     twitter: darwinanddavis
     # instagram: darwinanddavis
-    googlescholar: user=m3MVeUMAAAAJ
+    # googlescholar: user=m3MVeUMAAAAJ
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel: UC5-q6ocHq6UzWtkENGJsQIw # UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll

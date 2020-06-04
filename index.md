@@ -15,9 +15,9 @@
 
 ### I like my data diverse, my methods clean, my analyses reproducible, and my outputs open access.    
 
-### I’m a computational researcher at [Emory University](https://scholarblogs.emory.edu/civitello/) working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling of ecological systems.  
+### I’m a computational modeller at Emory University working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling with large environmental and geolocation data.    
 
-### The header tabs link to my current projects, publications, and presentations. Below are links to my digital footprint.         
+### The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint.         
 
 <br>   
   
@@ -29,7 +29,7 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-06-02 21:44:50 AEST_          
+_Last updated: 2020-06-04 11:29:21 AEST_             
 
 Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
