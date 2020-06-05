@@ -12,7 +12,7 @@ permalink: /meta/
 ******  
 
 <br>
-## Meta-analysis and disease transmission model for infected host biomass recycling in ecosystems         
+## Meta-analysis and models to predict disease transmission in livestock              
 
 ### Location     
 
@@ -37,14 +37,14 @@ Maris Brenn-White, St. Louis Zoo, USA
   
 ### Tasks   
 
-* Developed a host-parasite disease transmission model with biomass conservation and nutrient cycling to capture macroparasite burden on terrestrial ungulates (wild and livestock) (model development)     
-* Built a keyword query bot for scraping data from literature search terms based on user search engine results (meta-analysis)  
-* Built a meta-analysis data scraper bot for scraping PDF files for user-defined data (meta-analysis)  
+* Developed disease transmission models to predict parasite burden on wild animals and livestock         
+* Built a keyword query bot for scraping web search data based on user search engine results (meta-analysis)      
+* Built a meta-analysis data scraper bot for scraping PDF files for user-defined data (meta-analysis)        
 
 **Outcomes**  
 
 * Nutrient Quota Host-Parasite (NQHP) model  
-* Tic-Tac-Toe spatial Nutrient Plants Susceptible Infected (NPSI) model          
+* Tic-Tac-Toe spatial Nutrient Resource Susceptible Infected (NRSI) model          
 * Keyword query bot        
 * Data scraper bot        
 
@@ -55,7 +55,7 @@ Maris Brenn-White, St. Louis Zoo, USA
 
 #### Nutrient Quota Host-Parasite (NQHP) model      
 
-Gut parasite disease transmission model tracking nutrient, plant biomass (resources), susceptible and infected host, and parasite population densities with explicit nutrient exchange and recycling.       
+Gut parasite disease transmission model tracking nutrient, biomass (resources), susceptible and infected host, and parasite densities with explicit nutrient exchange and recycling.         
 
 **State variables (units = biomass)**   
 N = nutrients in the landscape (biomass)  
@@ -109,7 +109,7 @@ Recycling = e⋅QF⋅f⋅F⋅H
 
 Consumer-resource disease transmission model of parasite loading on nutrient cycling in ecosystems as a spatial individual-based model of resources, host populations, and disease vector populations.  
 
-The project aims to predict how resource biomass uptake and release by infected and non-infected host populations varies under a disease mosaic landscape. Disease patches in the landscape are driven by feedback between modes and rates of disease transmission and costs of parasite occurrence and nutrient deposit in space and time.        
+The project aims to predict how resource biomass uptake and release by infected and non-infected host populations varies under a disease mosaic landscape. Disease patches in the landscape are driven by feedback between modes and rates of disease transmission and costs of parasite transmission rates and nutrient deposit in space and time.        
 
 [Link to project page.](http://htmlpreview.github.io/?https://raw.githubusercontent.com/darwinanddavis/LECWorkingGroup/master/tictactoe.html)      
 
@@ -154,7 +154,9 @@ setwd("your working dir")
 ```
 
 Choose whether to search the Title or the Abstract for the keywords and what article data you want returned, e.g. year of publication, the entire abstract, etc.      
-```r
+
+<!-- ________________________________________ code chunk ________________________________________  -->
+```r    
 # Step 1 ----------------------------------------------------------------------
 
 # Enter either Title or Abstract to search for the keywords
@@ -212,8 +214,9 @@ You can also enter what data you want to isolate from the final results to save 
 
 
 Save the `search_term_inputs.txt` file and run the rest of the `R` code.    
-
-```r
+  
+<!-- ________________________________________ code chunk ________________________________________  -->
+```r  
 ##########################################################################
 
 # run rest of code from here ----------------------------------------------
@@ -336,7 +339,9 @@ Example search terms:
 > mortality, surviv*, fecund*, body condit*, body, body mass, feed*, feeding rate, feeding amount, waste, faec*, fece*, urin*, ecosystem, plant, soil, nutrie*  
 
 
-Data scraper bot `R` code 
+Data scraper bot `R` code   
+
+Load packages and set working directories where PDF files are located       
 <!-- ________________________________________ code chunk ________________________________________  -->
 ```r
 # extract data from pdfs
@@ -373,7 +378,11 @@ rv_names <- paste(
   "Sample size",
   "P val",sep=",Line number,"
 )
+```  
 
+Read in files from local directory and parse text data to check whether files contain user-defined keywords       
+<!-- ________________________________________ code chunk ________________________________________  -->
+```r    
 #################################### read in pdfs from dir  
 f <- 1
 file_list<-list.files(paste0(wd,"/",pdf_folder,"/")) # list files
@@ -439,7 +448,15 @@ for(nn in 1:length(file_list)){
     relevance_final <- "YES"
   }else{
     relevance_final <- "MAYBE"}
+  ```  
+
+Scrape PDF files for text and search term data based on response variables.    
+
+ > "BCI","bci","body mass","bodymass","weig*","feedi*","feeding rate","uptak* rat*","mortal*","surviv*","defeca*","fecun*","urinat*","nutrie*","soil","plant biomass"    
   
+<!-- ________________________________________ code chunk ________________________________________  -->
+```r  
+
   ########################################    2. scrape files for data  ########################################
   
   ######################################### parasite type
@@ -495,6 +512,12 @@ for(nn in 1:length(file_list)){
   pval <- p1_pval[pval_return] # return all outputs
   # pval_final <- paste(unlist(pval), collapse='')# turn into one character string
   
+```  
+  
+Save outputs to local directory    
+<!-- ________________________________________ code chunk ________________________________________  -->
+```r    
+
   ######################################## save output
   
   out_list <- list(relevance_final,relevance_return, nematode, nematode_return, response, response_var_return, effect_var, effect_var_return, nval, nval_return, pval, pval_return) # merge results into list
