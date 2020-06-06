@@ -39,7 +39,7 @@ Maris Brenn-White, St. Louis Zoo, USA
 
 * Developed disease transmission models to predict parasite burden on wild animals and livestock         
 * Built a keyword query bot for scraping web search data based on user search engine results (meta-analysis)      
-* Built a meta-analysis data scraper bot for scraping PDF files for user-defined data (meta-analysis)        
+* Built a meta-analysis text mining bot for scraping PDF files for user-defined data (meta-analysis)          
 
 **Outcomes**  
 
