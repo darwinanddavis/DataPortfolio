@@ -8,7 +8,7 @@ permalink: /spatial/
 ******    
 
 <!-- ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)   -->
-![](spatial/spatial_header.jpg)    
+![](spatial/spatial_header.jpg)      
 
 ******  
 

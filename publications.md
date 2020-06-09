@@ -13,12 +13,12 @@ permalink: /publications/
 
 ![](img/justtrying.jpg)   
 
-******          
-
 <!--  project break__________________________________________________________________________________________  -->
 
-<br>        
-
+******        
+    
+<br>   
+     
 ## Peer review papers  
 (*Awarded article, ^Equal contribution)        
     
@@ -26,7 +26,7 @@ permalink: /publications/
   
 Ezenwa VO, Civitello DJ, Barton BT^, Becker DJ^, Brenn-White M^, Classen AT^, Deem SL^, Johnson ZE^, Kutz S^, **Malishev M^**, Penczykowski RM^, Preston DL^, Vannatta JT^ & Koltz AM. Infectious diseases, livestock, and climate: a vicious cycle? _In review._    
   
-**Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology._ In press._ [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602?af=R).        
+**Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology. In press._ [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602?af=R).        
   
 **Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. _Integrative and Comparative Biology,_ 59(5): 1243–1252. [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).      
 
@@ -41,13 +41,13 @@ Sperfeld E, Wagner ND*, Halvorson HM^, **Malishev M^** & Raubenheimer D (2017) B
 Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodstoich III: Integrating tools of Nutritional Geometry and Ecological Stoichiometry to advance element budgeting and the prediction of consumer-driven nutrient recycling. _Oikos,_ 125: 1539–1553, [https://doi.org/10.1111/oik.03529](https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.03529).    
 
 **Malishev M** & Sanson GD (2015) Leaf mechanics and herbivory defence: how tough tissue along the leaf body deters growing insect herbivores. _Austral Ecology,_ 40: 300–308, [https://doi.org/10.1111/aec.12214](https://onlinelibrary.wiley.com/doi/abs/10.1111/aec.12214).    
-  
-******      
 
 <!--  project break__________________________________________________________________________________________  -->
 
-<br>      
-  
+******        
+    
+<br>   
+     
 ## Book chapters  
 
 **Malishev M** (2017) How to Master Punctuation in Academic English Writing? _In How to Fix your Academic English and Publish your Research Faster_. Eds. Ozy Abram et al.      
@@ -61,25 +61,44 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 **Malishev M** (2017) The Secrets to Selecting a Target Journal and Publishing Faster. _In How to Fix your Academic English and Publish your Research Faster_. Eds. Ozy Abram et al.      
 [Buy on Amazon](https://www.amazon.com/dp/B078H278VZ)        
 [Homepage](http://uni-edit.press/en/)            
-    
-******      
 
 <!--  project break__________________________________________________________________________________________  -->
 
-<br>        
-
+******        
+    
+<br>   
+     
 ## Theses   
 
 **Malishev M** (2017) On the mechanisms of animal movement from first principles, PhD thesis, School of Biosciences, University of Melbourne.   
 
 **Malishev M** (2009) Biomechanics of herbivory defence in foraging ecology, Honours thesis, School of Biological Sciences, Monash University.          
   
+<!--  project break__________________________________________________________________________________________  -->
+
 ******        
     
-<!--  project break__________________________________________________________________________________________  -->
-    
 <br>      
+
+## Community service    
+
+
+Embrace Education 'Our Story', [https://www.embrace-education.org/](http://www.embrace-education.org/#!our-story/c1cev).    
+
+'Uni students help refugees Embrace Education', Nov 4, 2011, [Probono Australia](www.probonoaustralia.com.au).  
+
+'Embracing the plight of disadvantaged students', Monash University newsletter, [Nov 18, 2011](https://www.monash.edu/news/articles/embracing-the-plight-of-disadvantaged-school-students).   
+
+Community Fundraising: 'Race Against Depression', November 2011 e-newsletter, [www.lifeline.org](www.lifeline.org).         
   
+'Generation Y-worry still unfazed by credit woes', The Age, [Nov 2, 2008](https://www.smh.com.au/national/generation-yworry-still-unfazed-by-credit-woes-20081101-5fxq.html).        
+
+<!--  project break__________________________________________________________________________________________  -->
+
+******        
+    
+<br>   
+
 ## Media and blog posts    
 
 **Malishev M** Where do Animals Spend Their Time and Energy? Theory, Simulations and GPS Trackers Can Help Us Find Out, [Methods in Ecology and Evolution blog](https://methodsblog.com/2019/05/22/movement-metabolism-microclimate/), May 22, 2019.      
@@ -149,19 +168,7 @@ Sperfeld E^, Halvorson HM^, **Malishev M**, Clissold F & Wagner ND (2016) Woodst
 
 **Malishev M** (2015, Aug 30) Twerks and Peri-perks at Nando’s V.I.P. Mill House Party. [Blog] The Plus Ones.  
 
-**Malishev M** (2015, Aug 18) Top Shelf 2015: Gin for brunch, beer for lunch, whiskey for whiskey’s sake. [Blog] The Plus Ones.  
-
-Embrace Education 'Our Story', [https://www.embrace-education.org/](http://www.embrace-education.org/#!our-story/c1cev).    
-
-'Uni students help refugees Embrace Education', Nov 4, 2011, [Probono Australia](www.probonoaustralia.com.au).  
-
-'Embracing the plight of disadvantaged students', Monash University newsletter, [Nov 18, 2011](https://www.monash.edu/news/articles/embracing-the-plight-of-disadvantaged-school-students).   
-
-Community Fundraising: 'Race Against Depression', November 2011 e-newsletter, [www.lifeline.org](www.lifeline.org).         
-  
-'Generation Y-worry still unfazed by credit woes', The Age, [Nov 2, 2008](https://www.smh.com.au/national/generation-yworry-still-unfazed-by-credit-woes-20081101-5fxq.html).        
-
-******        
+**Malishev M** (2015, Aug 18) Top Shelf 2015: Gin for brunch, beer for lunch, whiskey for whiskey’s sake. [Blog] The Plus Ones.    
     
 <!--  project break__________________________________________________________________________________________  -->
     
