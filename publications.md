@@ -20,8 +20,10 @@ permalink: /publications/
 <br>   
      
 ## Peer review papers  
-(*Awarded article, ^Equal contribution)        
-    
+(*Awarded article, ^Equal contribution)       
+
+**Malishev M** & Civitello DJ. When should we expect predator biocontrol of human schistosomes to backfire? _In review._       
+
 **Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._     
   
 Ezenwa VO, Civitello DJ, Barton BT^, Becker DJ^, Brenn-White M^, Classen AT^, Deem SL^, Johnson ZE^, Kutz S^, **Malishev M^**, Penczykowski RM^, Preston DL^, Vannatta JT^ & Koltz AM. Infectious diseases, livestock, and climate: a vicious cycle? _In review._    
@@ -158,7 +160,7 @@ Community Fundraising: 'Race Against Depression', November 2011 e-newsletter, [w
 
 **Malishev M** (2016, Feb 3) Thee Oh Sees’ sold-out gig at Howler. [Blog] The Plus Ones.  
 
-**Malishev M** (2016, Jan 14) Gelato Messina’s Gelato Appreciation Class, or How to Kill a Hangover with Gelato. [Blog] The Plus Ones.  
+**Malishev M** (2016, Jan 14) Gelato Messina’s Gelato Appreciation Class, or How to Kill a Hangover with Gelato. [Blog] The Plus Ones.    
 
 **Malishev M** (2015, Nov 16) Adelphi Distillery whisky tasting at Whisky & Alement. [Blog] The Plus Ones.  
 
