@@ -126,16 +126,24 @@ _Media_
 ###### Figure 6. LIDAR data of habitat site and GPS tracking data for all 60 individuals throughout the breeding season in (L–R) Sep, Oct, Nov, and Dec. Data show are for the 2009 season.        
 <br>    
 
-**GPS data collection**   
+![3d](spatial/spatial9.jpg)    
+![3d](spatial/spatial10.jpg)      
+###### Figure 7. Simulated (green) and real (blue) data of disperal potential of model agent and animal in space (easting and northin) and time (density). Z-axis represents the time spent in each model landscape or habitat patch.     
+<br>  
 
-All data were collected at the sleepy lizard habitat study site (139°21’E, 33°55’S) at the Bundey Bore field station in the mid-north of South Australia during the breeding season (September to December, 2009). Animal data are for the adult sleepy lizard (n = 60). Individual animals were tagged with GPS units, step counters (‘waddleometers’), and skin surface temperature probes at the beginning of the breeding season and tracked throughout the season using radio telemetry. Animals were captured and GPS data downloaded every two weeks throughout the breeding season for each individual, with batteries for the units replaced when needed. GPS units reported locations every 10 minutes, waddleometers recorded step counts every 2 minutes, and temperature probes recorded skin surface temperature every 2 minutes. The simulation model uses a 2-minute time step to correspond to the frequency of observed data.     
+![3d](spatial/spatial11.jpg)    
+###### Figure 8. Average rate of body temperature change (ºC) against average body temperature (ºC) of simulated large mass (left) and small mass (right) individuals. A) High dispersal and B) low dispersal ability in space with high habitat resource density and C) high dispersal and D) low dispersal ability in space with low resource density Vertical dashed blue, orange, and red lines represent transition, lower activity range, and upper activity range temperatures, respectively.  
+<br>    
 
-**NicheMapR modelling engine**  
+**GPS/telemetry data collection**     
 
-The NicheMapR microclimate model calculates hourly estimates of solar and infrared radiation, air temperature at 1 m and 1 cm above ground level, wind velocity, relative humidity, and soil temperature at different intervals, e.g. 0 cm, 10 cm, 20 cm, 50 cm, 100 cm, and 200 cm. The model uses minimum and maximum daily air temperature, wind speed, relative humidity, soil properties (conductivity, specific heat, density, solar reflectivity, emissivity), as well as the roughness height, slope, and aspect. Climatic data are gathered from a global data set of monthly mean daily minimum and maximum air temperatures and monthly mean daily humidity and wind speeds. Soil surface temperatures are computed using heat balance equations, accounting for heat exchange via radiation, convection, conduction, and evaporation.
-For simulation time steps, the microclimate model verifies the microclimate conditions for the current simulation hour of the day, e.g. noon or 18:00, and location in space, i.e. the study site for the observed animal data, and updates patches in the simulation landscape (either sun or shade) with these microenvironment conditions. As the simulated animal moves in or out of these patches at each time step, the animal updates its current T_b, including rates of change in T_b per 2-minute time step.
-The onelump_varenv.R and DEB.R functions update the individual internal thermal and metabolic states, respectively. See below for both model functions.
+All data were collected at the habitat study site (139°21’E, 33°55’S) at the Bundey Bore field station in the mid-north of South Australia (September to December, 2009). Individual-level data (n = 60) are from tagged individuals with GPS units, step counters, and skin surface temperature probes at the beginning of the season and tracked throughout the season using radio telemetry. Individuals were captured and GPS data downloaded every two weeks throughout the season, with batteries for the units replaced when needed. GPS units reported locations every 10 minutes, step counters recorded step counts every 2 minutes, and temperature probes recorded skin surface temperature every 2 minutes. The simulation model uses a 2-minute time step to correspond to the frequency of observed data.     
 
+**`NicheMapR` microclimate modelling engine**  
+
+The NicheMapR microclimate model calculates hourly estimates of solar and infrared radiation, air temperature at 1 m and 1 cm above ground level, wind velocity, relative humidity, and soil temperature at different intervals, e.g. 0 cm, 10 cm, 20 cm, 50 cm, 100 cm, and 200 cm. The model uses minimum and maximum daily gridded air temperature, wind speed, relative humidity, soil properties (conductivity, specific heat, density, solar reflectivity, emissivity), as well as roughness height, slope, and aspect. Climatic data are gathered from a global data set of monthly mean daily minimum and maximum air temperatures and monthly mean daily humidity and wind speeds. Soil surface temperatures are computed using heat balance equations, accounting for heat exchange via radiation, convection, conduction, and evaporation.
+For simulation time steps, the microclimate model verifies the microclimate conditions for the current simulation hour of the day, e.g. noon or 18:00, and location in space, i.e. the study site for the observed geolocation/telemetry data, and updates patches in the simulation landscape (either sun or shade) with these microenvironment conditions. As the simulated agents move in or out of these patches at each time step, the agent updates its current internal parameters for each time step, i.e. rates of change in body temperature per 2-minute time step.  
+The `onelump_varenv.R` and `DEB.R` functions update the individual internal thermal and metabolic states, respectively.  
 
 ### Links  
 
