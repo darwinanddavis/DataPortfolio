@@ -131,7 +131,7 @@ _Media_
 ###### Figure 7. Simulated (green) and real (blue) data of disperal potential of model agent and animal in space (easting and northin) and time (density). Z-axis represents the time spent in each model landscape or habitat patch.     
 <br>  
 
-![3d](spatial/spatial11.jpg)    
+![](spatial/spatial11.png)        
 ###### Figure 8. Average rate of body temperature change (ºC) against average body temperature (ºC) of simulated large mass (left) and small mass (right) individuals. A) High dispersal and B) low dispersal ability in space with high habitat resource density and C) high dispersal and D) low dispersal ability in space with low resource density Vertical dashed blue, orange, and red lines represent transition, lower activity range, and upper activity range temperatures, respectively.  
 <br>    
 
