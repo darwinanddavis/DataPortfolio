@@ -1,5 +1,5 @@
 
-## [Check out my website](https://github.com/darwinanddavis/DataPortfolio)
+## [Check out my website](https://darwinanddavis.github.io/DataPortfolio/)
 
 <p>
 <a>
