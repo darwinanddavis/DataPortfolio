@@ -31,8 +31,8 @@ David Civitello, Emory University, USA
 
 ### Outcomes
   
-* **Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology. In press._ [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602?af=R).     
-  
+**Malishev M** & Civitello DJ. Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology,_ 34(8): 1678–1689. [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602).            
+    
 * **Malishev M** & Civitello DJ (2019) Linking bioenergetics and parasite transmission models suggests mismatch between snail host density and production of human schistosomes. Integrative and Comparative Biology, 59(5): 1243–1252. [https://doi.org/10.1093/icb/icz058](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz058/5497795?redirectedFrom=fulltext).    
 
 * **Malishev M** and Civitello DJ (2019) Fewer, fatter snail hosts make more human schistosome parasites than many, starved ones, [International Society for Ecological Modelling 2019](https://www.elsevier.com/events/conferences/international-society-for-ecological-modelling-global-conference/programme), ISEM2019, Oct 1–5, Salzburg, Austria.      
