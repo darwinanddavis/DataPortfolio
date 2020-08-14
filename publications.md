@@ -22,7 +22,7 @@ permalink: /publications/
 ## Peer review papers  
 (*Awarded article, ^Equal contribution)       
 
-**Malishev M** & Civitello DJ. When should we expect predator biocontrol of human schistosomes to backfire? _In review._       
+**Malishev M** & Civitello DJ. When should we expect predator biocontrol of human schistosomes to backfire? _In review._ [doi: 10.22541/au.159363335.59711205](https://www.authorea.com/users/151128/articles/465169-when-should-we-expect-predator-biocontrol-of-human-schistosomes-to-backfire?commit=322f091742e2adfdd4d3b9abd16123afdf17d92d)         
 
 **Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._     
   
