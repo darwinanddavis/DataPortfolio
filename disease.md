@@ -58,11 +58,41 @@ David Civitello, Emory University, USA
 ###### Figure 3. Human-infectious parasite output (# 500 L–1) for A) logistically growing periphyton algae and B) constant detritus subsidy over a 150-day transmission season for no control, 50%, 75%, 90%, 95%, and 99% host mortality (hb = 0.69, 1.39, 2.3, 3.0, and 4.6 d–1, respectively) from chemotherapy after control when skipping day 30, day 60, day 90, and day 120. Lighter color areas represent higher parasite densities. Weaker control performs worse by stimulating parasite rebounds following the skipped chemotherapy event. Skipping the first month (day 30) acts similarly to monthly control, while skipping day 60 fails to suppress the primary parasite peak normally seen under no control conditions. Detritus scenarios show characteristic prolonged parasite resurgence that is particularly evident when skipping the first month (day 30) irrespective of control intensity. Resource growth rates are r = 0.25 d-1 and det = 0.25 mg C d-1 for algae and detritus, respectively. Ref: Malishev & Civitello. In review.  
 <br>
 
-### Links    
+#### Mesocosm data analysis  
+
+Generalised additive mixed model (GAMM) analysis of infected _Biomphalaria_ hosts, human-infectious cercariae parasites, and mesocosm nutrient input (periphyton algae) to test if nutrient enhancement stimulates periphyton productivity and thus larger infected host abundance and parasite output rates over time.      
+
+![](disease/meso1.png)   
+###### Figure 4. Distribution of _Biomphalaria_ host size over time (14 weeks) from a mesocosm experiment.    
+  
+Notes:    
+- Host size is an ordered factor and nutrient enrichment is a binary predictor.      
+- Nutrient enrichment creates larger peaks in infected host density.      
+- GAMM reference curves use most robust data; however, the curve with the best fit will be most rigid and thus constrain the flexibility of the other curves.      
+- Constant removed to remove linear multiplier to smooths and rescale response variable to reflect actual counts (y-axis). Smooths are rescaled to reflect measured infected host density, not reference curve.          
+
+Error distribution decisions    
+1. Biomass densities and periphyton productivity are lognormal.      
+2. Host and parasite density are quasipoisson.      
+
+Larger initial host populations lead to higher, slightly earlier peaks.      
+Nutrient enrichment increases biomass density peaks.  
+  
+![](disease/meso2.png)    
+###### Figure 5. Generalised additive mixed model (GAMM) curves for interaction among infected host density, host size, and high nutrient input rates (left), infected host size (middle), and nutrient input (right). Distribution is quasipoisson.   
+  
+![](disease/meso3.png)    
+###### Figure 6. Generalised additive mixed model (GAMM) curves for interaction among periphyton productivity (fluorescence m2 t–1), host size, and high nutrient input rates (left), infected host size (middle), and nutrient input (right). Distribution is gaussian.     
+
+Data from Rohr JR, Civitello DJ, Crumrine PW, Halstead NT, Miller AD, Schotthoefer AM, Stenoien C, Johnson LB & Beasley Vl (2015)Predator diversity, intraguild predation, and indirect effects drive parasite transmission, PNAS, 112(10)3008–3013. doi[https://doi.org/10.1073/pnas.1415971112](https://doi.org/10.1073/pnas.1415971112).     
+
+### Links      
 
 [Project page on Github.](https://github.com/darwinanddavis/SchistoIBM)  
 
-[Supplementary Material for Malishev M & Civitello DJ (2019) Int. Comparat. Biol., iz385.](https://github.com/darwinanddavis/MalishevCivitello_SICB)                
+[Supplementary Material for Malishev M & Civitello DJ (2020) Func. Eco., 34(8): 1678–1689.](https://github.com/darwinanddavis/MalishevCivitello_hostcontrol)            
+
+[Supplementary Material for Malishev M & Civitello DJ (2019) Int. Comparat. Biol., 59(5): 1243–1252.](https://github.com/darwinanddavis/MalishevCivitello_SICB)        
 
 <br>  
 <br>  
