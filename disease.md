@@ -61,9 +61,9 @@ David Civitello, Emory University, USA
 ******  
   
 <br>  
-## GAMM analysis for mesocosm case study         
+## Generalised additive mixed model (GAMM) analysis: mesocosm case study           
 
-Generalised additive mixed model (GAMM) analysis of infected _Biomphalaria_ hosts, human-infectious cercariae parasites, and mesocosm nutrient input (periphyton algae) to test if nutrient enhancement stimulates periphyton productivity and thus larger infected host abundance and parasite output rates over time.      
+Generalised additive mixed model (GAMM) analysis of infected _Biomphalaria_ hosts, periphyton productivity, and nutrient input to test if nutrient enhancement stimulates resources (periphyton productivity) and thus larger infected host abundance and parasite output rates over time.      
 
 ![](disease/meso1.jpg)     
 ###### Figure 4. Distribution of _Biomphalaria_ host size over time (14 weeks) from a mesocosm experiment.    
@@ -82,10 +82,10 @@ Larger initial host populations lead to higher, slightly earlier peaks.
 Nutrient enrichment increases biomass density peaks.  
   
 ![](disease/meso2.png)    
-###### Figure 5. Generalised additive mixed model (GAMM) curves for interaction among infected host density, host size, and high nutrient input rates (left), infected host size (middle), and nutrient input (right). Distribution is quasipoisson.   
+###### Figure 5. Generalised additive mixed model (GAMM) curves for interaction among infected host density, host size, and high nutrient input rates (left), infected host size (middle), and nutrient input (right). Distribution for predicting curves in GAMM is quasipoisson.   
   
 ![](disease/meso3.png)    
-###### Figure 6. Generalised additive mixed model (GAMM) curves for interaction among periphyton productivity (fluorescence m2 t–1), host size, and high nutrient input rates (left), infected host size (middle), and nutrient input (right). Distribution is gaussian.     
+###### Figure 6. Generalised additive mixed model (GAMM) curves for interaction among periphyton productivity (fluorescence m2 t–1), host size, and high nutrient input rates (left), infected host size (middle), and nutrient input (right). Distribution for predicting curves in GAMM is gaussian.       
 
 Data from Rohr JR, Civitello DJ, Crumrine PW, Halstead NT, Miller AD, Schotthoefer AM, Stenoien C, Johnson LB & Beasley Vl (2015)Predator diversity, intraguild predation, and indirect effects drive parasite transmission, PNAS, 112(10)3008–3013. [doi:https://doi.org/10.1073/pnas.1415971112](https://doi.org/10.1073/pnas.1415971112).     
 
