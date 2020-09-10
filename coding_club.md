@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coding Club
+title: Software and products  
 permalink: /coding_club/
 ---
 <a id="top"></a>
@@ -47,7 +47,7 @@ Head directly to the Emory Coding Club website to see all info on session materi
 ******      
   
 <br>
-## 
+## Individual-based model of game theory behaviour with full energy and mass conservation       
 
 ### Location  
 
@@ -62,8 +62,8 @@ Sebastiaan A.L.M. Kooijman, Vrije Universiteit, Amsterdam, The Netherlands
 
 ### Tasks   
 
-* Developed a metabolic theory-driven individual-based model for hawk (predator) and dove (prey) game theory dynamics in a stochastic predator-prey model. The model integrates individual-level bioenergetics of each trophic level with full energy and mass conservation in a closed system.     
-* Used replicator dynamics to link behavioural states among individuals in the payoff matrix (fast time scale) and an evolutionary stable strategy at the population and community levels (slow time scale).      
+* Developed a metabolic theory-driven individual-based model for hawk (predator) and dove (prey) game theory dynamics in a stochastic predator-prey model. The model integrates individual-level bioenergetics of each trophic level with full energy and mass conservation, i.e. a closed system.       
+* Used replicator dynamics to link behavioural states among individuals in the payoff matrix (fast time scale) and an evolutionary stable strategy at the population and community levels (slow time scale).        
 
 ### Outcomes  
 
