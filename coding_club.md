@@ -77,15 +77,19 @@ Sebastiaan A.L.M. Kooijman, Vrije Universiteit, Amsterdam, The Netherlands
 
 ### References  
   
-Kooijman, S. A. L. M., Grasman, J. & Kooi, B. W. (2007) A new class of non linear stochastic population models with mass conservation. Mathematical Biosciences, 210:378–394.    
-Auger P, Kooi BW, Bravo de la Parra, R & Poggiale, JC (2006) Bifurcation analysis of a predator- prey model with predators using hawk and dove tactics. _Journal of Theoretical Biology_, 238:597–607.      
+Kooijman, S. A. L. M., Grasman, J. & Kooi, B. W. (2007) A new class of non linear stochastic population models with mass conservation. _Mathematical Biosciences_, 210:378–394.        
+
+Auger P, Kooi BW, Bravo de la Parra, R & Poggiale, JC (2006) Bifurcation analysis of a predator- prey model with predators using hawk and dove tactics. _Journal of Theoretical Biology_, 238:597–607.          
+
 Kooijman, SALM (2010) Dynamic Energy Budget theory for metabolic organization, Cambridge University Press, Cambridge.    
-Holling, CS (1959) Some characteristics of simple types of predation and parasitism. _Canadian Entomologist_, 91:395–398.        
-van der Meer, J (2006) An introduction to Dynamic Energy Budget (DEB) models with special emphasis on parameter estimation. _Journal of Sea Research_, 56:85–102.     
-Kooi, BW (2015) Modelling the dynamics of traits involved in fighting-predators–prey system, _Journal of Mathematical Biology_, 71: 1575–1605.    
+Holling, CS (1959) Some characteristics of simple types of predation and parasitism. _Canadian Entomologist_, 91:395–398.          
+
+van der Meer, J (2006) An introduction to Dynamic Energy Budget (DEB) models with special emphasis on parameter estimation. _Journal of Sea Research_, 56:85–102.       
+
+Kooi, BW (2015) Modelling the dynamics of traits involved in fighting-predators–prey system, _Journal of Mathematical Biology_, 71: 1575–1605.      
 <br> 
 
-[Download the full poster (`.pdf`).](https://github.com/darwinanddavis/HawkDove/blob/master/MalishevKooiKooijman_EcoTas13_poster.pdf)      
+[Download the full poster (`MalishevKooiKooijman_EcoTas13_poster.pdf`).](https://github.com/darwinanddavis/HawkDove/blob/master/MalishevKooiKooijman_EcoTas13_poster.pdf)      
 
 
 <br>  

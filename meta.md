@@ -553,7 +553,11 @@ YES | 6 | Lung and gastrointestinal nematodes | Two grams of faeces was weighed 
 NO | 15 | nematode eggs and lungworm larvae | both showed negative correlations with post-weaning weight gain 
 MAYBE | 27 | Strongylid nematode eggs | weak positive correlation between buffalo fly counts and post-weaning weight gain 
 
-### Links    
+******      
+  
+<br>
+
+### Links      
 
 [Project page on Github.](https://github.com/darwinanddavis/LECWorkingGroup)          
 

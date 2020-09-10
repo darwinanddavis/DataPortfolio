@@ -145,7 +145,11 @@ The NicheMapR microclimate model calculates hourly estimates of solar and infrar
 For simulation time steps, the microclimate model verifies the microclimate conditions for the current simulation hour of the day, e.g. noon or 18:00, and location in space, i.e. the study site for the observed geolocation/telemetry data, and updates patches in the simulation landscape (either sun or shade) with these microenvironment conditions. As the simulated agents move in or out of these patches at each time step, the agent updates its current internal parameters for each time step, i.e. rates of change in body temperature per 2-minute time step.  
 The `onelump_varenv.R` and `DEB.R` functions update the individual internal thermal and metabolic states, respectively.  
 
-### Links  
+******      
+  
+<br>
+
+### Links     
 
 [Project page on Github.](https://github.com/darwinanddavis/Sleepy_IBM)      
 
