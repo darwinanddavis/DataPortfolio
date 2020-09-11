@@ -45,6 +45,7 @@ header_pages:
 # - awards.md  
 # - workshops.md  
 - presentations.md  
+- code.md    
 - blog.md
 - work.md  # work experience, eg embrace, tech consultant    
 # - collaborations.md    

@@ -87,7 +87,11 @@ Nutrient enrichment increases biomass density peaks.
 ![](disease/meso3.png)    
 ###### Figure 6. Generalised additive mixed model (GAMM) curves for interaction among periphyton productivity (fluorescence m2 t–1), host size, and high nutrient input rates (left), infected host size (middle), and nutrient input (right). Distribution for predicting curves in GAMM is gaussian.       
 
-Data from Rohr JR, Civitello DJ, Crumrine PW, Halstead NT, Miller AD, Schotthoefer AM, Stenoien C, Johnson LB & Beasley Vl (2015)Predator diversity, intraguild predation, and indirect effects drive parasite transmission, PNAS, 112(10)3008–3013. [doi:https://doi.org/10.1073/pnas.1415971112](https://doi.org/10.1073/pnas.1415971112).     
+#### References   
+
+Rohr JR, Civitello DJ, Crumrine PW, Halstead NT, Miller AD, Schotthoefer AM, Stenoien C, Johnson LB & Beasley Vl (2015)Predator diversity, intraguild predation, and indirect effects drive parasite transmission, Proceedings of the National Academy of Sciences_, 112(10): 3008–3013. [doi: https://doi.org/10.1073/pnas.1415971112](https://doi.org/10.1073/pnas.1415971112).     
+
+Civitello DJ, Fatima H, Johnson LR, Nisbet RM, Rohr JR & Ben‐Ami F (2018) Bioenergetic theory predicts infection dynamics of human schistosomes in intermediate host snails across ecological gradients. _Ecology Letters_, 21: 692-701. [doi: https://doi.org/10.1111/ele.12937](https://doi.org/10.1111/ele.12937).     
 
 <br>  
 

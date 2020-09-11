@@ -171,19 +171,7 @@ Community Fundraising: 'Race Against Depression', November 2011 e-newsletter, [w
 **Malishev M** (2015, Aug 30) Twerks and Peri-perks at Nando’s V.I.P. Mill House Party. [Blog] The Plus Ones.  
 
 **Malishev M** (2015, Aug 18) Top Shelf 2015: Gin for brunch, beer for lunch, whiskey for whiskey’s sake. [Blog] The Plus Ones.    
-    
-<!--  project break__________________________________________________________________________________________  -->
-    
-<br>      
-  
-## Data and code (open access)          
-
-Malishev M and Civitello DJ Functional Ecology. [Model code and appendices](https://github.com/darwinanddavis/MalishevCivitello_hostcontrol).         
-
-Malishev M & Civitello DJ (2019) Integrative and Comparative Biology, 59(5): 1243–1252. [Model code and appendices](https://github.com/darwinanddavis/MalishevCivitello_SICB).    
-
-Malishev M, Bull, CM, and Kearney MR (2018) MEE, 9(3): 472–489. [Model code and appendices](https://github.com/darwinanddavis/MalishevBullKearney).     
-  
+      
 <br>  
 <br>  
   

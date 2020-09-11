@@ -11,7 +11,9 @@ permalink: /presentations/
 
 ## Presentations and invited talks    
 
-**Malishev M** (2019) Using Github for research and life, Department of Biology, Emory University, USA. [Workshop material](https://github.com/darwinanddavis/githubpres).            
+**Malishev M** (2019) Using git for research and life, Department of Biology, Emory University, USA.    
+* [Workshop Part I](https://darwinanddavis.github.io/githubpres/github_presentation.html#1)  
+* [Workshop Part II](https://darwinanddavis.github.io/githubpres/github_presentation_part2.html#1)    
 
 **Malishev M** & Civitello DJ (2019) Simulating parasite emergence from host energetics to inform control strategies of the human schistosome, Center for Disease Control and Prevention, USA.    
 

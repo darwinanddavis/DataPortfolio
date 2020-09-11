@@ -47,7 +47,7 @@ Head directly to the Emory Coding Club website to see all info on session materi
 ******      
   
 <br>
-## Individual-based model of game theory behaviour with full energy and mass conservation       
+## Individual-based model of closed predator-prey system using game theory rules with full energy and mass conservation       
 
 ### Location  
 
@@ -67,7 +67,28 @@ Sebastiaan A.L.M. Kooijman, Vrije Universiteit, Amsterdam, The Netherlands
 
 ### Outcomes  
 
-**Malishev M**, Kooi BW & Kooijman SALM (2013) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle (poster), EcoTas13, Auckland, New Zealand        
+**Select trait**  
+
+Hawk (p)  
+Dove (1 – p)  
+
+**Abilities**  
+
+Dove        
+Always share prey with another dove.  
+
+Hawk  
+Always beat dove  
+
+If competing with a hawk, you incur a cost, C, and a 0.5 probability of gaining prey, G.  
+
+**Controls on the fast time scale**  
+
+Searching  
+Handling  
+Fighting  
+
+**Malishev M**, Kooi BW & Kooijman SALM (2013) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle (poster), EcoTas13, Auckland, New Zealand          
 
 <br>   
 
