@@ -64,9 +64,7 @@ Sebastiaan A.L.M. Kooijman, Vrije Universiteit, Amsterdam, The Netherlands
 
 * Developed a metabolic theory-driven individual-based model for hawk (predator) and dove (prey) game theory dynamics in a stochastic predator-prey model. The model integrates individual-level bioenergetics of each trophic level with full energy and mass conservation, i.e. a closed system.       
 * Used replicator dynamics to link behavioural states among individuals in the payoff matrix (fast time scale) and an evolutionary stable strategy at the population and community levels (slow time scale).        
-
-### Outcomes  
-
+  
 **Select trait**  
 
 Hawk (p)  
@@ -86,9 +84,11 @@ If competing with a hawk, you incur a cost, C, and a 0.5 probability of gaining 
 
 Searching  
 Handling  
-Fighting  
+Fighting   
 
-**Malishev M**, Kooi BW & Kooijman SALM (2013) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle (poster), EcoTas13, Auckland, New Zealand          
+### Outcomes   
+
+* **Malishev M**, Kooi BW & Kooijman SALM (2013) Individual-based modelling of a predator’s hawk-dove strategy in a closed bottle (poster), EcoTas13, Auckland, New Zealand          
 
 <br>   
 
