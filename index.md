@@ -29,11 +29,15 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-09-26 17:09:13 AEST_                 
+_Last updated: 2020-09-28 09:03:24 AEST_                   
 
-Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
+Interactive trivia site for the Netflix series DARK.        
 
-### [COVID19 coronavirus global distribution map](./spatial.md)           
+[Trivia site for the Netflix series DARK](./coding_club.md)    
+
+<!-- Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
+
+### [COVID19 coronavirus global distribution map](./spatial.md)   -->         
 
   
 <br>  

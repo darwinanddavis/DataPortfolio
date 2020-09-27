@@ -38,7 +38,7 @@ My sister Nic and I devised the questions, while she came up with the design and
 
 If you haven't yet seen the series, I highly recommend it.        
 
-## Take the [DARK trivia](https://darwinanddavis.github.io/misc/dark).    
+## [Take the DARK trivia](https://darwinanddavis.github.io/misc/dark)       
 
 ![](coding_club/cc3.jpg)  
 
