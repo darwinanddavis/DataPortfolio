@@ -8,7 +8,40 @@ permalink: /coding_club/
 ******    
 
 ![](coding_club_header.png)  
+
+******    
   
+<br>
+## Interactive trivia site for the Netflix series DARK       
+
+### Location  
+
+Melbourne, Australia  
+
+### People  
+
+**Matt Malishev**  
+Nicole Malishev  
+
+### Tasks    
+
+* Make an online and interactive trivia quiz for the Netflix series DARK  
+
+
+### Outcomes  
+
+A trivia quiz spanning all three seasons of the [Netflix series Dark](https://www.netflix.com/title/80100172). The idea first started as a piece of paper job to test one of our brothers and his friends. Since they were taking it remotely online, we decided to make it into a website.  
+
+My sister Nic and I devised the questions, while she came up with the design and I coded it.     
+
+#### WARNING: Spoiler alert    
+
+If you haven't yet seen the series, I highly recommend it.        
+
+## Take the [DARK trivia](https://darwinanddavis.github.io/misc/dark).    
+
+![](coding_club/cc3.jpg)  
+
 ******    
   
 <br>
