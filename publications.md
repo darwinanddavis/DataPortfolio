@@ -26,7 +26,7 @@ permalink: /publications/
 
 **Malishev M** & Kramer-Schadt S. Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement across scales. _In review._     
   
-Ezenwa VO, Civitello DJ, Barton BT^, Becker DJ^, Brenn-White M^, Classen AT^, Deem SL^, Johnson ZE^, Kutz S^, **Malishev M^**, Penczykowski RM^, Preston DL^, Vannatta JT^ & Koltz AM. Infectious diseases, livestock, and climate: a vicious cycle? _Trends in Ecology and Evolution. In press._    
+Ezenwa VO, Civitello DJ, Barton BT^, Becker DJ^, Brenn-White M^, Classen AT^, Deem SL^, Johnson ZE^, Kutz S^, **Malishev M^**, Penczykowski RM^, Preston DL^, Vannatta JT^ & Koltz AM (2020) Infectious diseases, livestock, and climate: a vicious cycle? _Trends in Ecology and Evolution._ [https://doi.org/10.1016/j.tree.2020.08.012](https://doi.org/10.1016/j.tree.2020.08.012).  
   
 **Malishev M** & Civitello DJ (2020) Modelling how resource competition among snail hosts affects the mollusciciding frequency and intensity needed to control human schistosomes. _Functional Ecology,_ 34(8): 1678–1689. [https://doi.org/10.1111/1365-2435.13602](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13602).          
   
