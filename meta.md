@@ -43,10 +43,25 @@ Maris Brenn-White, St. Louis Zoo, USA
 
 **Outcomes**  
 
-* Nutrient Quota Host-Parasite (NQHP) model  
-* Tic-Tac-Toe spatial Nutrient Resource Susceptible Infected (NRSI) model          
-* Keyword query bot        
-* Data scraper bot        
+_Research_  
+
+Ezenwa VO, Civitello DJ, Barton BT^, Becker DJ^, Brenn-White M^, Classen AT^, Deem SL^, Johnson ZE^, Kutz S^, **Malishev M^**, Penczykowski RM^, Preston DL^, Vannatta JT^ & Koltz AM (2020) Infectious diseases, livestock, and climate: a vicious cycle? _Trends in Ecology and Evolution._ [https://doi.org/10.1016/j.tree.2020.08.012](https://doi.org/10.1016/j.tree.2020.08.012).    
+
+_Software and models_  
+
+Nutrient Quota Host-Parasite (NQHP) model      
+
+Tic-Tac-Toe spatial Nutrient Resource Susceptible Infected (NRSI) model              
+
+Keyword query bot            
+
+Data scraper bot            
+
+_Media_  
+
+Climate change has a cow and worm problem, [_The Verge_](https://www.theverge.com/21505736/climate-change-cattle-livestock-infectious-disease-methane), Oct 7, 2020.    
+
+Sicker livestock may increase climate woes, [_The Source_](https://source.wustl.edu/2020/10/sicker-livestock-may-increase-climate-woes/), Washington University, Oct 7, 2020.      
 
 ### Example outputs  
 <br>    

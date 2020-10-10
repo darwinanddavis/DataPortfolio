@@ -103,7 +103,11 @@ Community Fundraising: 'Race Against Depression', November 2011 e-newsletter, [w
 
 ## Media and blog posts    
 
-**Malishev M** Where do Animals Spend Their Time and Energy? Theory, Simulations and GPS Trackers Can Help Us Find Out, [Methods in Ecology and Evolution blog](https://methodsblog.com/2019/05/22/movement-metabolism-microclimate/), May 22, 2019.      
+Climate change has a cow and worm problem, [_The Verge_](https://www.theverge.com/21505736/climate-change-cattle-livestock-infectious-disease-methane), Oct 7, 2020.      
+
+Sicker livestock may increase climate woes, [_The Source_](https://source.wustl.edu/2020/10/sicker-livestock-may-increase-climate-woes/), Washington University, Oct 7, 2020.   
+
+Where do Animals Spend Their Time and Energy? Theory, Simulations and GPS Trackers Can Help Us Find Out, [Methods in Ecology and Evolution blog](https://methodsblog.com/2019/05/22/movement-metabolism-microclimate/), May 22, 2019.      
 
 **Malishev M** (2017, May 24) Middle Eastern fare at Mr. Lawrence warms the winter beachside. [Blog] The Plus Ones.     
 
