@@ -23,7 +23,7 @@ Me: 'Sure thing, I collated all my favourite places and mapped it all in this si
 
 Not an exhaustive list of places and updated regularly as I find them.              
 
-### [Day 1 – Points](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)    
+### [Favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
   
 ![coffee](30daymap2020/day1.jpg) 
 
