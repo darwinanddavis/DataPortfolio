@@ -7,14 +7,14 @@ permalink: /30daymapchallenge/
 
 ******      
 
-![](.png)  
+<!-- ![](.png)   -->
   
-******  
+<!-- ******   -->
 
-<br>
-# Day 1: Points      
+<br>  
+# Day 1: Points        
 
-An interactive map of my favourite coffee spots around the world using Mapbox Studio and `mapdeck` in `R`.   
+An interactive map of my favourite coffee spots around the world using Mapbox Studio and `mapdeck` in `R`.     
 
 Part of a larger project where I'm mapping my favourite places around the world to create a centralised repository so I can more easily address the following conversation:    
 
