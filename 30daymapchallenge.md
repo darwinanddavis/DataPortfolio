@@ -18,12 +18,12 @@ An interactive map of my favourite coffee spots around the world (so far) using 
 
 Part of a larger project where I'm mapping my favourite places around the world to create a centralised repository so I can more easily address the following conversation:    
 
-Friend: 'Do you know any good <INSERT FOOD> places in <INSERT CITY>?'    
-Me: 'Sure thing, I collated all my favourite places and put it all in this site. Enjoy.'              
+Friend: 'Do you know any good _INSERT FOOD_ places in _INSERT CITY_?'          
+Me: 'Sure thing, I collated all my favourite places and put it all in this site. Enjoy.'                  
 
 Not an exhaustive list of places and updated regularly as I find them. The total list of places for the overall project is close to 100 spanning different categories and the code is automated to pull the data with new updates.                    
 
-### [Favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
+### [Interactive, mobile map of favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
   
 ![coffee](30daymap2020/day1_.jpg) 
 
@@ -39,11 +39,12 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 Using geolocation data to map a roadtrip across the southern US with `R`.
 
 Packages: 
-
+  
 ```{r}  
 pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlite,readr,devtools,colorspace,mapdata,ggsn,mapview,mapproj,ggthemes,reshape2,grid,rnaturalearth,rnaturalearthdata,ggtext,purrr)          
 ```
-  
+<br> 
+
 ![usa](30daymap2020/day2.png)   
 
 

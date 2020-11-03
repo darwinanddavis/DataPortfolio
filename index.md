@@ -15,7 +15,7 @@
 
 ### I like my data diverse, my methods clean, my analyses reproducible, and my outputs open access.    
 
-### I’m a computational modeller at Emory University working on diverse data analysis problems from simulation modelling of human disease risk to spatial and bioenergetic modelling with large environmental and geolocation data.    
+### I’m a computational modeller using programming, mapping, and my own research tools to crack diverse data analysis problems, from simulation modelling of human disease risk to spatial risk mapping.          
 
 ### The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint.         
 
