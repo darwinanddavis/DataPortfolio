@@ -14,18 +14,18 @@ permalink: /30daymapchallenge/
 <br>  
 # Day 1: Points        
 
-An interactive map of my favourite coffee spots around the world using Mapbox Studio and `mapdeck` in `R`.     
+An interactive map of my favourite coffee spots around the world (so far) using Mapbox and `mapdeck` in `R`.     
 
 Part of a larger project where I'm mapping my favourite places around the world to create a centralised repository so I can more easily address the following conversation:    
 
-Friend: 'Do you know any good _INSERT FOOD_ places in _INSERT CITY_?'    
-Me: 'Sure thing, I collated all my favourite places and mapped it all in this site. Enjoy.'            
+Friend: 'Do you know any good <INSERT FOOD> places in <INSERT CITY>?'    
+Me: 'Sure thing, I collated all my favourite places and put it all in this site. Enjoy.'              
 
-Not an exhaustive list of places and updated regularly as I find them.              
+Not an exhaustive list of places and updated regularly as I find them. The total list of places for the overall project is close to 100 spanning different categories and the code is automated to pull the data with new updates.                    
 
 ### [Favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
   
-![coffee](30daymap2020/day1.jpg) 
+![coffee](30daymap2020/day1_.jpg) 
 
 ### Links      
 [`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
