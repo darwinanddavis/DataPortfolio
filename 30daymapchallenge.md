@@ -44,10 +44,7 @@ Packages:
 pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlite,readr,devtools,colorspace,mapdata,ggsn,mapview,mapproj,ggthemes,reshape2,grid,rnaturalearth,rnaturalearthdata,ggtext,purrr)          
 ```
   
-![usa](30daymap2020/day2.png) 
-
-### Links      
-[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+![usa](30daymap2020/day2.png)   
 
 
 ******  

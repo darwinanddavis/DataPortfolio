@@ -29,11 +29,11 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-09-28 09:03:24 AEST_                   
+_Last updated: 2020-11-03 22:25:10 AEDT_                   
 
-Interactive trivia site for the Netflix series DARK.        
+Map series for the #30dayMapChallenge on Twitter for November 2020.    
 
-[Trivia site for the Netflix series DARK](./coding_club.md)    
+[30 Day Map Challenge](./30daymapchallenge.md)    
 
 <!-- Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
