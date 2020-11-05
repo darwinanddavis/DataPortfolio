@@ -30,7 +30,7 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 * Mapped with `mapdeck` in `R`  
 * Map design from Mapbox Studio                         
 
-### [Interactive, mobile map of favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
+### [Interactive mobile map of favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
   
 ![coffee](30daymap2020/day1_.jpg) 
 
@@ -45,13 +45,13 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 [](#day2)  
 # Day 2: Lines      
 
-Using geolocation data to map my parent's roadtrip across the southern US with `R` and Mapbox.    
+Using geolocation data to map my parent's roadtrip across the southern US with `R` and Mapbox.      
 
-### Process  
+<!-- ### Process  
 * Data were georeferenced from mobile location data using Open Street Map  
 * Pathways were mapped from KML data        
 * Polygon data were retrieved from `maps` and `rnaturalearth` in `R`     
-* Mapped with `ggplot` in `R`        
+* Mapped with `ggplot` in `R`         -->
 
 <br> 
 
