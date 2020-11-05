@@ -81,7 +81,7 @@ Using geolocation data for my Lyft rides as a passenger to build an interactive 
 
 ### Notes   
 * Data were obtained from my Lyft ride report.    
-# Data were first georeferenced to get latlons.     
+* Data were first georeferenced to get latlons.     
 * Zoom out to see the cities where I used Lyft to get around. Cities with labels contain data, sometimes only a few points. 
 * Note the legend in the below images in case the legend in the link is chopped off.            
 
