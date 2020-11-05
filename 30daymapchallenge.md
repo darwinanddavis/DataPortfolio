@@ -23,7 +23,12 @@ Part of a larger project where I'm mapping my favourite places around the world 
 Friend: 'Do you know any good _INSERT FOOD_ places in _INSERT CITY_?'          
 Me: 'Sure thing, I collated all my favourite places and put it all in this site. Enjoy.'                  
 
-Not an exhaustive list of places and updated regularly as I find them. The total list of places for the overall project is close to 100 spanning different categories and the code is automated to pull the data with new updates.                    
+Not an exhaustive list of places and updated regularly as I find them. The total list of places for the overall project is close to 100 spanning different categories and the code is automated to pull the data with new updates.
+
+### Process    
+* Data were georeferenced from mobile location data using Open Street Map   
+* Mapped with `mapdeck` in `R`  
+* Map design from Mapbox Studio                         
 
 ### [Interactive, mobile map of favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
   
@@ -40,17 +45,23 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 [](#day2)  
 # Day 2: Lines      
 
-Using geolocation data to map a roadtrip across the southern US with `R`.
+Using geolocation data to map my parent's roadtrip across the southern US with `R` and Mapbox.    
 
-Packages: 
-  
-```{r}  
-pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlite,readr,devtools,colorspace,mapdata,ggsn,mapview,mapproj,ggthemes,reshape2,grid,rnaturalearth,rnaturalearthdata,ggtext,purrr)          
-```
+### Process  
+* Data were georeferenced from mobile location data using Open Street Map  
+* Pathways were mapped from KML data        
+* Polygon data were retrieved from `maps` and `rnaturalearth` in `R`     
+* Mapped with `ggplot` in `R`        
+
 <br> 
 
 ![usa](30daymap2020/day2.png)   
 
+### Packages    
+  
+```{r}  
+pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlite,readr,devtools,colorspace,mapdata,ggsn,mapview,mapproj,ggthemes,reshape2,grid,rnaturalearth,rnaturalearthdata,ggtext,purrr)          
+```  
 
 ******  
 
@@ -66,10 +77,19 @@ pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2
 
 Mapping my Lyft ride activity from June 2018 to March 2020. 
 
-Using geolocation data for my Lyft rides as a passenger to create an interactive map that shows my destination and origin locations. The data covers the USA.     
+Using geolocation data for my Lyft rides as a passenger to build an interactive map that shows my Lyft activity, including origin pickup and destination dropoff points. The data covers the USA.             
 
-* Zoom out to see the cities where I used Lyft to get around. Cities with labels contain data, sometimes only a few points.     
-* Note the legend in the below images in case the legend in the link is chopped off.        
+### Notes   
+* Data were obtained from my Lyft ride report.    
+# Data were first georeferenced to get latlons.     
+* Zoom out to see the cities where I used Lyft to get around. Cities with labels contain data, sometimes only a few points. 
+* Note the legend in the below images in case the legend in the link is chopped off.            
+
+### Limitations  
+* Hexagons are good for large scale coarse and clustered data, like heatmaps. The data here are too sparse to make full use of this.  
+* There is a higher density of destination sites because I primarily used Lyft to get home, which is concentrated on one latlon point. 
+* Georeferencing the data didn't find all locations, so some points are missing.     
+* Some latlon points could be rounded to consolidate some data overlap.        
 
 ### [Mapping my Lyft ride data over two years](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)    
 
@@ -90,7 +110,7 @@ Chicago, USA
 <br>  
 
 
-Packages: 
+### Packages  
   
 ```{r}    
 pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,colorspace)  
