@@ -12,6 +12,8 @@ permalink: /30daymapchallenge/
 <!-- ******   -->
 
 <br>  
+<a id="day1"></a>  
+[](#day1)  
 # Day 1: Points        
 
 An interactive map of my favourite coffee spots around the world (so far) using Mapbox and `mapdeck` in `R`.     
@@ -34,6 +36,8 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 
 
 <br>  
+<a id="day2"></a>    
+[](#day2)  
 # Day 2: Lines      
 
 Using geolocation data to map a roadtrip across the southern US with `R`.
@@ -56,6 +60,8 @@ pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2
 ******   -->
 
 <br>
+<a id="day4"></a>  
+[](#day4)  
 # Day 4: Hexagons
 
 Mapping my Lyft ride activity from June 2018 to March 2020. 
@@ -65,7 +71,7 @@ Using geolocation data for my Lyft rides as a passenger to create an interactive
 * Zoom out to see the cities where I used Lyft to get around. Cities with labels contain data, sometimes only a few points.     
 * Note the legend in the below images in case the legend in the link is chopped off.        
 
-### [Mapping Lyft ride data](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)  
+### [Mapping my Lyft ride data over two years](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)    
 
 Atlanta, USA (where I lived during this time)      
 ![day4_1](30daymap2020/day4_1.jpg) 
