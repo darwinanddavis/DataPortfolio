@@ -53,14 +53,49 @@ pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2
 <!-- <br>
 # Day 3: Polygons
 
-******  
+******   -->
 
 <br>
-Day 4: Hexagons
+# Day 4: Hexagons
+
+Mapping my Lyft ride activity from June 2018 to March 2020. 
+
+Using geolocation data for my Lyft rides as a passenger to create an interactive map that shows my destination and origin locations. The data covers the USA.     
+
+* Zoom out to see the cities where I used Lyft to get around. Cities with labels contain data, sometimes only a few points.     
+* Note the legend in the below images in case the legend in the link is chopped off.        
+
+### [Mapping Lyft ride data](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)  
+
+Atlanta, USA (where I lived during this time)      
+![day4_1](30daymap2020/day4_1.jpg) 
+<br>
+
+Washington DC, USA     
+![day4_1](30daymap2020/day4_2.jpg) 
+<br>  
+
+St Louis, USA  
+![day4_1](30daymap2020/day4_3.jpg) 
+<br>  
+
+Chicago, USA  
+![day4_1](30daymap2020/day4_4.jpg) 
+<br>  
+
+
+Packages: 
+  
+```{r}    
+pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,colorspace)  
+```  
+  
+### Links      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)    
 
 ******  
 
-<br>
+<!-- <br>
 Day 5: Blue  
 
 ******  
