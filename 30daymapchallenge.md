@@ -143,7 +143,8 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,mapdeck)
 ```  
     
 ### Links      
-[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)    
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)  
+[OpenData NYC squirrel census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)       
 
 ******  
 
