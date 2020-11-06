@@ -120,6 +120,33 @@ pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,
 
 ******  
 
+<br>
+<a id="day6"></a>  
+[](#day6)  
+# Day 6: Red
+
+Squirrels! The NYC Open Data Squirrel Census on squirrel sightings.  
+
+I've seen these data used many times and I hadn't tried them yet. There are detailed behaviour data too, but location data are fine for this exercise.       
+
+The fur colour is defined as cinnamon. I'm no squirrel expert, but I've seen these squirrels in person/in squirrel and they look pretty red to me. There are probably species differences between the cinnamon and red varieties. I don't even like cinnamon.  
+
+### [Cinnamon squirrel locations in NYC Central Park](https://darwinanddavis.github.io/worldmaps/30daymap2020/day6)    
+  
+![day5](30daymap2020/day6.png) 
+<br>
+  
+### Packages    
+  
+```{r}    
+pacman::p_load(here,mapdeck,dplyr,purrr,readr,mapdeck)
+```  
+    
+### Links      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)    
+
+******  
+
 <!-- <br>
 Day 5: Blue  
 
