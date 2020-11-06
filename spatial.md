@@ -11,11 +11,22 @@ permalink: /spatial/
 ![](spatial/spatial_header.jpg)      
 
 <br>
-## #30dayMapChallenge for November 2020     
+## 30 Day Map Challenge for November 2020     
 
-An excuse to dive into the vault of maps I never bothered to post at the time of making them, as well as test some new concepts and perhaps tools. There's always more to map, so this is a good time to post old projects and show some of the cool things I like to create in the spatial world.             
+### People    
 
-### [Check out the #30dayMapChallenge 2020 page](./30daymapchallenge.md) for my entries.            
+**Matt Malishev**     
+
+### Tasks  
+
+An excuse to dive into the vault of maps I never bothered to post at the time of making them, as well as test some new concepts and perhaps tools. There's always more to map, so this is a good opportunity and show some of the cool things I like to create in the spatial world.               
+
+### Outcomes  
+
+[Check out the #30DayMapChallenge 2020 page](./30daymapchallenge.md) for my entries.              
+
+![30day](spatial/30day.jpg)       
+
 
 ******    
 

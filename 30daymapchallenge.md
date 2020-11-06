@@ -88,8 +88,7 @@ Using geolocation data for my Lyft rides as a passenger to build an interactive 
 ### Limitations  
 * Hexagons are good for large scale coarse and clustered data, like heatmaps. The data here are too sparse to make full use of this.  
 * There is a higher density of destination sites because I primarily used Lyft to get home, which is concentrated on one latlon point. 
-* Georeferencing the data didn't find all locations, so some points are missing.     
-* Some latlon points could be rounded to consolidate some data overlap.        
+* Georeferencing the data didn't find all locations, so some points are missing.            
 
 ### [Mapping my Lyft ride data over two years](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)    
 

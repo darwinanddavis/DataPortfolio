@@ -13,9 +13,9 @@ minima:
   # generate social links in footer
   social_links:
     github: darwinanddavis
+    twitter: darwinanddavis  
     pinterest: mmalishev
-    linkedin: mmalishev
-    twitter: darwinanddavis
+    linkedin: mmalishev 
     # instagram: darwinanddavis
     # googlescholar: 3MVeUMAAAAJ
     # rss: rss
