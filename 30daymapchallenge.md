@@ -139,7 +139,7 @@ The fur colour is defined as cinnamon. I'm no squirrel expert, but I've seen the
 ### Packages    
   
 ```{r}    
-pacman::p_load(here,mapdeck,dplyr,purrr,readr,mapdeck)
+pacman::p_load(here,mapdeck,dplyr,purrr,readr)
 ```  
     
 ### Links      
