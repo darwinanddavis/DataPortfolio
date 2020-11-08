@@ -30,9 +30,18 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 * Mapped with `mapdeck` in `R`  
 * Map design from Mapbox Studio                         
 
-### [Interactive mobile map of favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
+### [Interactive map of my favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
   
-![coffee](30daymap2020/day1_.jpg) 
+![coffee](30daymap2020/day1_.jpg)   
+
+### Tools  
+
+R  
+Mapbox        
+```{r}    
+pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlite,readr,devtools,colorspace,mapdata,ggsn,mapview,mapproj,ggthemes,reshape2,grid,rnaturalearth,rnaturalearthdata,ggtext,purrr)          
+```  
+ 
 
 ### Links      
 [`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
@@ -57,11 +66,14 @@ Using geolocation data to map my parent's roadtrip across the southern US with `
 
 ![usa](30daymap2020/day2.png)   
 
-### Packages    
-  
+### Tools  
+
+R  
+Mapbox        
 ```{r}  
 pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlite,readr,devtools,colorspace,mapdata,ggsn,mapview,mapproj,ggthemes,reshape2,grid,rnaturalearth,rnaturalearthdata,ggtext,purrr)          
 ```  
+  
 
 ******  
 
@@ -109,12 +121,14 @@ Chicago, USA
 <br>  
 
 
-### Packages  
+### Tools     
   
-```{r}    
+R    
+Mapbox           
+```{r}  
 pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,colorspace)  
 ```  
-  
+              
 ### Links      
 [`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)    
 
@@ -133,18 +147,50 @@ The fur colour is defined as cinnamon. I'm no squirrel expert, but I've seen the
 
 ### [Cinnamon squirrel locations in NYC Central Park](https://darwinanddavis.github.io/worldmaps/30daymap2020/day6)    
   
-![day5](30daymap2020/day6.png) 
+![day6](30daymap2020/day6.png) 
 <br>
   
-### Packages    
+### Tools     
   
-```{r}    
-pacman::p_load(here,mapdeck,dplyr,purrr,readr)
-```  
-    
+R             
+Mapbox    
+```{r}  
+pacman::p_load(here,mapdeck,dplyr,purrr,readr)    
+```    
+ 
 ### Links      
 [`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)  
 [OpenData NYC squirrel census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)       
+
+******  
+
+<br>
+<a id="day8"></a>  
+[](#day8)  
+# Day 8: Yellow  
+
+Australia's global honey export trade    
+
+Mapping Australia's honey exports from some publicly available trade data for 2017. Australia is in the top five major exporters for honey.  
+
+The data go as far back as the 1960s. However, a time series component seemed like overkill for this particular exercise.             
+
+### [Australian honey exports for 2017](https://darwinanddavis.github.io/worldmaps/30daymap2020/day8)    
+  
+![day8](30daymap2020/day8.jpg)   
+<br>
+  
+### Tools     
+  
+R    
+Leaflet                 
+```{r}    
+pacman::p_load(here,dplyr,rworldmap,leaflet,readr,rgeos,purrr,stringr,ggthemes,showtext,geosphere,htmlwidgets)
+```  
+
+### Links      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)      
+[BACI International Trade Database](https://legacy.oec.world/en/resources/data/)         
 
 ******  
 
@@ -162,6 +208,7 @@ Day 6: Red
 Day 7: Green    
 
 ******  
+
 
 <br>
 Day 8: Yellow  
