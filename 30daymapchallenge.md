@@ -200,10 +200,11 @@ pacman::p_load(here,dplyr,rworldmap,leaflet,readr,rgeos,purrr,stringr,ggthemes,s
 [](#day9)  
 # Day 9: Monochrome   
 
-Exploring digital elevation models (DEM) of the Appalachian Trail, USA, with my camping and hiking spots for 2018–2020.                
-This was more of a sandbox session in colour palettes and rasters to bring out some of the super intricate detail of terrain models.     
+Exploring digital elevation models (DEM) of the Appalachian Trail, USA, with my camping and hiking spots for 2018–2020.  
+
+This was more of a sandbox session in colour palettes and rasters to bring out some of the super intricate detail of terrain models.       
   
-![day9](30daymap2020/day9.jpg)       
+![day9](30daymap2020/day9.png)       
   
 ### Tools     
   
