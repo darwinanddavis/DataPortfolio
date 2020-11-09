@@ -214,7 +214,11 @@ pacman::p_load(dplyr,readr,rvest,xml2,magrittr,ggplot2,stringr,ggthemes,ggnetwor
 ```  
     
 ### Links            
-[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+### Data    
+Terrain raster 3DEP data courtesy of the U.S. Geological Survey      
+Terrain tiles obtained from [Amazon Web Services](https://registry.opendata.aws/terrain-tiles/)    
 
 <!-- <br>
 Day 5: Blue  
