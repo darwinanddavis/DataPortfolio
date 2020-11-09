@@ -203,9 +203,7 @@ pacman::p_load(here,dplyr,rworldmap,leaflet,readr,rgeos,purrr,stringr,ggthemes,s
 Exploring digital elevation models (DEM) of the Appalachian Trail, USA, with my camping and hiking spots for 2018–2020.                
 This was more of a sandbox session in colour palettes and rasters to bring out some of the super intricate detail of terrain models.     
   
-<div align="center"; text-align:center>
-  <img src="img/day9.jpg", width = "75%", height = "75%">    
-</div>    
+![day9](30daymap2020/day9.jpg)       
   
 ### Tools     
   
