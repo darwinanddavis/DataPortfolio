@@ -204,7 +204,7 @@ Exploring digital elevation models (DEM) of the Appalachian Trail, USA, with my 
 
 This was more of a sandbox session in colour palettes and rasters to bring out some of the super intricate detail of terrain models.       
   
-![day9](30daymap2020/day9.png)       
+![day9](30daymap2020/day9.png)         
   
 ### Tools     
   
