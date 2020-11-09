@@ -194,6 +194,30 @@ pacman::p_load(here,dplyr,rworldmap,leaflet,readr,rgeos,purrr,stringr,ggthemes,s
 
 ******  
 
+
+<br>
+<a id="day9"></a>  
+[](#day9)  
+# Day 9: Monochrome   
+
+Mapping my camping and hiking trips with a digital elevation model (DEM) of the Appalachian Trail, USA.             
+
+This was more of a sandbox session in monochrome palettes and rasters to bring out some of the super intricate detail of terrain models.   
+  
+<div align="center"; text-align:center>
+  <img src="img/day9.jpg", width = "75%", height = "75%">    
+</div>    
+  
+### Tools     
+  
+R             
+```{r}    
+pacman::p_load(dplyr,readr,rvest,xml2,magrittr,ggplot2,stringr,ggthemes,ggnetwork,elevatr,raster,colorspace,ggtext,ggsn,ggspatial)
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)      
+    
 <!-- <br>
 Day 5: Blue  
 
