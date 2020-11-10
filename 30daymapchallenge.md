@@ -11,17 +11,30 @@ permalink: /30daymapchallenge/
   
 <!-- ******   -->
 
+What's the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge)? It's an annual mapping challenge for the month of November where anyone can partake by posting a creation in the spatial world. Here's the official tag taken from the website.    
+
+> A daily mapping/cartography/data visualization challenge aimed at the spatial community  
+
+The rules are pretty simple: create a map or spatial-related output using any means, as long as it's your own work and that you credit data sources. As I mostly use `R`, this is my bread and butter for this challenge. 
+
+This year I'm challenging myself by using a new tool, software, design, or data source for each entry. I just have to learn something new each time, rather than recycle familiar tools.  Creating 30 new maps in 30 days is tough, so I think half of this is a decent target.     
+
+    
+![](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)  
+
 <br>  
 <a id="day1"></a>  
 [](#day1)  
-# Day 1: Points        
+# Day 1: Points          
+
+### Mapping my favourite coffee places around the world    
 
 An interactive map of my favourite coffee spots around the world (so far) using Mapbox and `mapdeck` in `R`.     
 
-Part of a larger project where I'm mapping my favourite places around the world to create a centralised repository so I can more easily address the following conversation:    
+Part of a larger project where I'm mapping my favourite food places around the world to create a centralised repository so I can more easily address the following conversation:      
 
-Friend: 'Do you know any good _INSERT FOOD_ places in _INSERT CITY_?'          
-Me: 'Sure thing, I collated all my favourite places and put it all in this site. Enjoy.'                  
+> Friend: 'Do you know any good _INSERT FOOD_ places in _INSERT CITY_?'          
+> Me: 'Sure thing, I collated all my favourite places and put it all in this site. Enjoy.'                  
 
 Not an exhaustive list of places and updated regularly as I find them. The total list of places for the overall project is close to 100 spanning different categories and the code is automated to pull the data with new updates.
 
@@ -30,7 +43,7 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 * Mapped with `mapdeck` in `R`  
 * Map design from Mapbox Studio                         
 
-### [Interactive map of my favourite coffee places around the world](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)      
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)        
   
 ![coffee](30daymap2020/day1_.jpg)   
 
@@ -53,6 +66,8 @@ pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2
 <a id="day2"></a>    
 [](#day2)  
 # Day 2: Lines      
+
+### US roadtrip   
 
 Using geolocation data to map my parent's roadtrip across the southern US with `R` and Mapbox.      
 
@@ -87,7 +102,7 @@ pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2
 [](#day4)  
 # Day 4: Hexagons
 
-Mapping my Lyft ride activity from June 2018 to March 2020. 
+### Mapping my Lyft ride activity over two years    
 
 Using geolocation data for my Lyft rides as a passenger to build an interactive map that shows my Lyft activity, including origin pickup and destination dropoff points. The data covers the USA.             
 
@@ -102,7 +117,7 @@ Using geolocation data for my Lyft rides as a passenger to build an interactive 
 * There is a higher density of destination sites because I primarily used Lyft to get home, which is concentrated on one latlon point. 
 * Georeferencing the data didn't find all locations, so some points are missing.            
 
-### [Mapping my Lyft ride data over two years](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)    
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)      
 
 Atlanta, USA (where I lived during this time)      
 ![day4_1](30daymap2020/day4_1.jpg) 
@@ -137,15 +152,15 @@ pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,
 <br>
 <a id="day6"></a>  
 [](#day6)  
-# Day 6: Red
+# Day 6: Red  
 
-Squirrels! The NYC Open Data Squirrel Census on squirrel sightings.  
+### Cinnamon squirrel locations in NYC Central Park  
 
-I've seen these data used many times and I hadn't tried them yet. There are detailed behaviour data too, but location data are fine for this exercise.       
+Squirrels! The NYC Open Data Squirrel Census on squirrel sightings. I've seen these data used many times and I hadn't tried them yet. There are detailed behaviour data too, but location data are fine for this exercise.       
 
 The fur colour is defined as cinnamon. I'm no squirrel expert, but I've seen these squirrels in person/in squirrel and they look pretty red to me. There are probably species differences between the cinnamon and red varieties. I don't even like cinnamon.  
 
-### [Cinnamon squirrel locations in NYC Central Park](https://darwinanddavis.github.io/worldmaps/30daymap2020/day6)    
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day6)      
   
 ![day6](30daymap2020/day6.png) 
 <br>
@@ -169,13 +184,13 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr)
 [](#day8)  
 # Day 8: Yellow  
 
-Australia's global honey export trade    
+### Australia's global honey export trade       
 
 Mapping Australia's honey exports from some publicly available trade data for 2017. Australia is in the top five major exporters for honey.  
 
 The data go as far back as the 1960s. However, a time series component seemed like overkill for this particular exercise.             
 
-### [Australian honey exports for 2017](https://darwinanddavis.github.io/worldmaps/30daymap2020/day8)    
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day8)      
   
 ![day8](30daymap2020/day8.jpg)   
 <br>
@@ -200,11 +215,13 @@ pacman::p_load(here,dplyr,rworldmap,leaflet,readr,rgeos,purrr,stringr,ggthemes,s
 [](#day9)  
 # Day 9: Monochrome   
 
-Exploring digital elevation models (DEM) of the Appalachian Trail, USA, with my camping and hiking spots for 2018–2020.  
+### Exploring the Appalachian Trail    
 
-This was more of a sandbox session in colour palettes and rasters to bring out some of the super intricate detail of terrain models.       
+Exploring digital elevation models (DEM) of the Appalachian Trail, USA, with the parts along the range where I've visited for either camping or hiking during 2018–2020.    
+
+This was more of a sandbox session in colour palettes and rasters to bring out some of the super intricate detail of terrain models, as well as improving my text and label positioning in `R`. Thanks, `ggtext`.          
   
-![day9](30daymap2020/day9.png)         
+![day9](30daymap2020/day9.png)           
   
 ### Tools     
   
