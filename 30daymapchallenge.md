@@ -11,6 +11,8 @@ permalink: /30daymapchallenge/
   
 <!-- ******   -->
 
+<br>  
+
 What's the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge)? It's an annual mapping challenge for the month of November where anyone can partake by posting a creation in the spatial world. Here's the official tag taken from the website.    
 
 > A daily mapping/cartography/data visualization challenge aimed at the spatial community  
@@ -67,9 +69,9 @@ pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2
 [](#day2)  
 # Day 2: Lines      
 
-### US roadtrip   
+### Roadtrippin' the US     
 
-Using geolocation data to map my parent's roadtrip across the southern US with `R` and Mapbox.      
+My parents visited the US/me when I was living in ATL. They roadtripped the south, starting in Austin. I met them in Memphis, then drove to ATL. This map is using geolocation data to track their pathway across the US with `R` and Mapbox.        
 
 <!-- ### Process  
 * Data were georeferenced from mobile location data using Open Street Map  
@@ -104,7 +106,9 @@ pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2
 
 ### Mapping my Lyft ride activity over two years    
 
-Using geolocation data for my Lyft rides as a passenger to build an interactive map that shows my Lyft activity, including origin pickup and destination dropoff points. The data covers the USA.             
+Using geolocation data for my Lyft rides as a passenger to build an interactive map that shows my Lyft activity, including origin pickup and destination dropoff points. The data covers the USA.  
+
+These data are really cool, so I just wanted to make use of them. Hexagons are good for visualising frequency and mobility spatial data. My data here ended up being too coarse (obviously I didn't take enough Lyft rides) to leverage this, but it tells a story about where my ride activity is weighted. There is also a time component, which I'll definitely use for another analysis.                 
 
 ### Notes   
 * Data were obtained from my Lyft ride report.    
