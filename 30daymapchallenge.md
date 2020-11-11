@@ -253,7 +253,7 @@ Terrain tiles obtained from [Amazon Web Services](https://registry.opendata.aws/
 
 A minimal map design showcasing the classic grid structure of my home city, Melbourne, Australia. There are tonnes of detailed data on the [City of Melbourne Open Data portal](https://data.melbourne.vic.gov.au/) that I may dive into for some future analyses.  
 
-For this challenge, I wanted to make a minimal sketch design map that plays on angles and grid structure. Also, test my label positioning skills using `ggtext`. Slowly getting quicker.          
+For this challenge, I wanted to make a minimal sketch design map that plays on angles and grid structure. Also, test my label positioning skills using `ggtext`.           
   
 ![day10](30daymap2020/day10.png)           
   
