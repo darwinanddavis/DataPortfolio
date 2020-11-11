@@ -241,6 +241,38 @@ pacman::p_load(dplyr,readr,rvest,xml2,magrittr,ggplot2,stringr,ggthemes,ggnetwor
 Terrain raster 3DEP data courtesy of the U.S. Geological Survey      
 Terrain tiles obtained from [Amazon Web Services](https://registry.opendata.aws/terrain-tiles/)    
 
+******  
+
+
+<br>
+<a id="day10"></a>  
+[](#day10)  
+# Day 10: Grid    
+
+### Melbourne's city footprint    
+
+A minimal map design showcasing the classic grid structure of my home city, Melbourne, Australia. There are tonnes of detailed data on the [City of Melbourne Open Data portal](https://data.melbourne.vic.gov.au/) that I may dive into for some future analyses.  
+
+For this challenge, I wanted to make a minimal sketch design map that plays on angles and grid structure. Also, test my label positioning skills using `ggtext`. Slowly getting quicker.          
+  
+![day10](30daymap2020/day10.png)           
+  
+### Tools     
+  
+R             
+```{r}    
+pacman::p_load(dplyr,readr,rvest,xml2,magrittr,ggplot2,stringr,ggthemes,ggnetwork,elevatr,raster,colorspace,ggtext,ggsn,ggspatial)
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+
+### Data      
+[City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)    
+
+
+ ****** 
 <!-- <br>
 Day 5: Blue  
 

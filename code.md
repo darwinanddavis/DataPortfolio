@@ -11,6 +11,8 @@ permalink: /code/
 
 ## R code         
 
+Repository for my [#30DayMapChallenge](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020) entries for 2020    
+
 [`plot_it()` R code](https://github.com/darwinanddavis/plot_it)  
 
 ['Useful R' documentation](https://github.com/darwinanddavis/UsefulCode)  
