@@ -45,7 +45,8 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 * Mapped with `mapdeck` in `R`  
 * Map design from Mapbox Studio                         
 
-### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)        
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)   
+(Best viewed in Safari)             
   
 ![coffee](30daymap2020/day1_.jpg)   
 
@@ -121,7 +122,8 @@ These data are really cool, so I just wanted to make use of them. Hexagons are g
 * There is a higher density of destination sites because I primarily used Lyft to get home, which is concentrated on one latlon point. 
 * Georeferencing the data didn't find all locations, so some points are missing.            
 
-### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)      
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)        
+(Best viewed in Safari)       
 
 Atlanta, USA (where I lived during this time)      
 ![day4_1](30daymap2020/day4_1.jpg) 
@@ -169,6 +171,7 @@ Press the down arrow or use the up/down webpage scroll bar if the legend is chop
 
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day6)      
+(Best viewed in Safari)    
   
 ![day6](30daymap2020/day6.png) 
 <br>
@@ -297,8 +300,11 @@ Some interesting things to explore:
 
 Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
 
-### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11) (best in Safari, for some reason)                  
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)  
+(Best viewed in Safari)     
   
+### Snapshot analysis     
+
 ![day11](30daymap2020/day11.jpg)           
 <br>
 
