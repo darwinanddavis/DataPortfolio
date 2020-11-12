@@ -272,6 +272,40 @@ pacman::p_load(dplyr,readr,rvest,xml2,magrittr,ggplot2,stringr,ggthemes,ggnetwor
 [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)    
 
 
+****** 
+
+<br>
+<a id="day11"></a>  
+[](#day11)  
+# Day 11: 3D
+
+### Vulnerability of Melbourne's urban forest  
+
+I found some comprehensive data on tree canopy coverage in Melbourne from 2019 on the [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/) site and tree traits are always fun to plot in 3D.  
+
+The data cover species, genera, height (DBH), life expectancy, latlons, year and date planted, precinct location, to name a few. I plotted tree locations and height to show some patterns, e.g. you can see where tall trees have been cleared in areas that are known to have high rise apartments buildings. I added life expectancy as the colour factor to get a snapshot idea of planting activity by the city council and choice of species over time. Lots more to explore.    
+Zoom and tilt (hold CMD/CTRL) around the map to see hotspots for certain aged species.               
+
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)          
+  
+![day10](30daymap2020/day11.jpg)           
+  
+### Tools     
+  
+R             
+Mapbox  
+```{r}    
+pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmltools)  
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+
+### Data      
+[City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)    
+
+
  ****** 
 <!-- <br>
 Day 5: Blue  
