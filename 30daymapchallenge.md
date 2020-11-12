@@ -162,7 +162,11 @@ pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,
 
 Squirrels! The NYC Open Data Squirrel Census on squirrel sightings. I've seen these data used many times and I hadn't tried them yet. There are detailed behaviour data too, but location data are fine for this exercise.       
 
-The fur colour is defined as cinnamon. I'm no squirrel expert, but I've seen these squirrels in person/in squirrel and they look pretty red to me. There are probably species differences between the cinnamon and red varieties. I don't even like cinnamon.  
+The fur colour is defined as cinnamon. I'm no squirrel expert, but I've seen these squirrels in person/in squirrel and they look pretty red to me. There are probably species differences between the cinnamon and red varieties. I don't even like cinnamon.    
+
+
+Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.    
+
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day6)      
   
@@ -291,7 +295,7 @@ Some interesting things to explore:
 * What species are least vulnerable to attack (disease, climate, pollution) and are these species prioritised in future urban planning?     
 <br>  
 
-Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age.    
+Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11) (best in Safari, for some reason)                  
   
