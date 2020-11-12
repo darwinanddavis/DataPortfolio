@@ -300,6 +300,32 @@ Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11) (best in Safari, for some reason)                  
   
 ![day11](30daymap2020/day11.jpg)           
+<br>
+
+SW of city, facing NE. The Central Business District (CBD, centre grid), showing low canopy and short-lived vegetation. The central downtown probably aims for seasonal, high turnover species to match the rapid development pace of the area. 
+
+![day112](30daymap2020/day11_2.jpg)   
+<br>
+
+West of city, facing SE. Low canopy or young long-lived species lining the Docklands, the major port area of the city, which also has high-rise apartment buildings.     
+
+![day113](30daymap2020/day11_3.jpg)   
+<br>
+
+North of city, facing SSE. Royal Park remains open and free of tall species. The larger, open green space is Melbourne Zoo and the National State and Hocket Centre. The bottom right pocket dominated by low canopy or young long-lived species may be due to the type of soil or bedrock adjacent to Moonee Ponds Creek.   
+
+![day114](30daymap2020/day11_4.jpg)   
+<br>
+
+North of city, facing south (aerial view). Tree density and location hugs Melbourne's city grid structure.   
+
+![day116](30daymap2020/day11_6.jpg)       
+<br>  
+
+NE of city, facing south. The highest density of the tallest (diameter at breast height, DBH) trees in the city. The large, open green spaces to the left is Melbourne/Olympic Park, Yarra Park, and AAMI Park, which house the five major state sports ovals.        
+
+![day115](30daymap2020/day11_5.jpg)       
+<br>  
   
 ### Tools     
   
@@ -315,138 +341,9 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 
 ### Data      
 [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)    
-
-
+  
 ****** 
-<!-- <br>
-Day 5: Blue  
 
-******  
-
-<br>
-Day 6: Red  
-
-******  
-
-<br>
-Day 7: Green    
-
-******  
-
-
-<br>
-Day 8: Yellow  
-
-******  
-
-<br>
-Day 9: Monochrome  
-
-******  
-
-<br>
-Day 10: Grid  
-
-******  
-
-<br>
-Day 11: 3D  
-
-******  
-
-<br>
-Day 12: Map not made with GIS software  
-
-******  
-
-<br>
-Day 13: Raster  
-
-******  
-
-<br>
-Day 14: Climate change  
-
-******  
-
-<br>
-Day 15: Connections  
-
-******  
-
-<br>
-Day 16: Island(s)  
-
-******  
-
-<br>
-Day 17: Historical map  
-
-******  
-
-<br>
-Day 18: Landuse  
-
-******  
-
-<br>
-Day 19: NULL  
-
-******  
-
-<br>
-Day 20: Population  
-
-******  
-
-<br> 
-Day 21: Water  
-
-******  
-
-<br>
-Day 22: Movement  
-
-******  
-
-<br>
-Day 23: Boundaries  
-
-******  
-
-<br>
-Day 24: Elevation  
-
-******  
-
-<br>
-Day 25: COVID-19  
-
-******  
-
-<br>
-Day 26: Map with a new tool  
-
-
-******  
-
-<br>
-Day 27: Big or small data  
-
-******  
-
-<br>
-Day 28: Non-geographic map  
-
-******  
-
-<br>
-Day 29: Globe  
-
-******  
-
-<br>
-Day 30: A map   -->
 
 <br>
 <br> 

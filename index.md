@@ -29,7 +29,7 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-11-03 22:25:10 AEDT_                   
+_Last updated: 2020-11-13 20:53:05 AEDT_                   
 
 Map series for the #30dayMapChallenge on Twitter for November 2020.    
 
