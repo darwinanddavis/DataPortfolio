@@ -286,11 +286,11 @@ pacman::p_load(dplyr,readr,rvest,xml2,magrittr,ggplot2,stringr,ggthemes,ggnetwor
 [](#day11)  
 # Day 11: 3D
 
-### Vulnerability of Melbourne's urban forest  
+### The vulnerability of Melbourne's urban forest    
 
 I found some comprehensive data on tree canopy coverage in Melbourne from 2019 on the [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/) site and tree traits are always fun to plot in 3D.  
 
-The data cover species, genera, height (DBH), life expectancy, latlons, year and date planted, precinct location, to name a few. I plotted tree locations and height to show some patterns, e.g. you can see where tall trees have been cleared in areas that are known to have high rise apartments buildings. I added life expectancy as the colour factor to get a snapshot idea of planting activity by the city council and choice of species over time. Lots more to explore.
+The data cover species, genera, height (DBH), life expectancy, latlons, year and date planted, precinct location, to name a few. I plotted tree locations and height to show some spatial patterns, e.g. you can see where tall trees have been cleared in areas that are known to have high rise apartments buildings. I added life expectancy as the colour factor to get a snapshot idea of planting activity by the city council and choice of species over time. Lots more to explore.
 
 Some interesting things to explore:      
 * How often do invulnerable species need to be re-planted?    
@@ -301,12 +301,12 @@ Some interesting things to explore:
 Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)  
-(Best viewed in Safari)     
-  
-### Snapshot analysis     
+(Best viewed in Safari)       
+     
+![day11](30daymap2020/day11.jpg)             
+<br>  
 
-![day11](30daymap2020/day11.jpg)           
-<br>
+### Snapshot analysis     
 
 SW of city, facing NE. The Central Business District (CBD, centre grid), showing low canopy and short-lived vegetation. The central downtown probably aims for seasonal, high turnover species to match the rapid development pace of the area. 
 
