@@ -46,7 +46,7 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 * Map design from Mapbox Studio                         
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)   
-(Best viewed in Safari)             
+(Best viewed in Safari and full screen)            
   
 ![coffee](30daymap2020/day1_.jpg)   
 
@@ -123,7 +123,7 @@ These data are really cool, so I just wanted to make use of them. Hexagons are g
 * Georeferencing the data didn't find all locations, so some points are missing.            
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)        
-(Best viewed in Safari)       
+(Best viewed in Safari and full screen)        
 
 Atlanta, USA (where I lived during this time)      
 ![day4_1](30daymap2020/day4_1.jpg) 
@@ -171,9 +171,9 @@ Press the down arrow or use the up/down webpage scroll bar if the legend is chop
 
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day6)      
-(Best viewed in Safari)    
+(Best viewed in Safari and full screen)      
   
-![day6](30daymap2020/day6.png) 
+![day6](30daymap2020/day6.jpg) 
 <br>
   
 ### Tools     
@@ -301,7 +301,7 @@ Some interesting things to explore:
 Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)  
-(Best viewed in Safari)       
+(Best viewed in Safari and full screen)     
      
 ![day11](30daymap2020/day11.jpg)             
 <br>  
