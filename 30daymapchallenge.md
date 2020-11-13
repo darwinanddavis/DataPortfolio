@@ -74,11 +74,7 @@ pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2
 
 My parents visited the US/me when I was living in ATL. They roadtripped the south, starting in Austin. I met them in Memphis, then drove to ATL. This map is using geolocation data to track their pathway across the US with `R` and Mapbox.        
 
-<!-- ### Process  
-* Data were georeferenced from mobile location data using Open Street Map  
-* Pathways were mapped from KML data        
-* Polygon data were retrieved from `maps` and `rnaturalearth` in `R`     
-* Mapped with `ggplot` in `R`         -->
+Data were georeferenced from mobile location data using Open Street Map. Pathways were mapped from KML data. Polygon data were retrieved from Natural Earth Map data.  
 
 <br> 
 
@@ -86,8 +82,7 @@ My parents visited the US/me when I was living in ATL. They roadtripped the sout
 
 ### Tools  
 
-R  
-Mapbox        
+R      
 ```{r}  
 pacman::p_load(here,sf,RColorBrewer,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlite,readr,devtools,colorspace,mapdata,ggsn,mapview,mapproj,ggthemes,reshape2,grid,rnaturalearth,rnaturalearthdata,ggtext,purrr)          
 ```  
