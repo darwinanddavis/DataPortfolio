@@ -48,7 +48,7 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)   
 (Best viewed in Safari and full screen)            
   
-![coffee](30daymap2020/day1_.jpg)   
+![coffee](30daymap2020/day1.jpg)   
 
 ### Tools  
 
