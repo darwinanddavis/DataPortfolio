@@ -41,9 +41,8 @@ Part of a larger project where I'm mapping my favourite food places around the w
 Not an exhaustive list of places and updated regularly as I find them. The total list of places for the overall project is close to 100 spanning different categories and the code is automated to pull the data with new updates.
 
 ### Process    
-* Data were georeferenced from mobile location data using Open Street Map   
-* Mapped with `mapdeck` in `R`  
-* Map design from Mapbox Studio                         
+* Data were georeferenced from mobile location data using Open Street Map      
+* Map design from Mapbox Studio                           
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)   
 (Best viewed in Safari and full screen)            
@@ -344,6 +343,18 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)    
   
 ****** 
+
+
+<!-- connections - export data?   
+islands - akira  
+historical map = darwin or hitler  
+null - elevation/terrain above certain values  
+population - 
+movement - animal movement   
+elevation - joy division? 
+covid - use geojson data/polygons 
+new tool - framer  -->
+
 
 
 <br>
