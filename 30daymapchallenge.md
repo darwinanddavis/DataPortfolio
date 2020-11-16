@@ -42,7 +42,7 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 
 ### Process    
 * Data were georeferenced from mobile location data using Open Street Map      
-* Map design from Mapbox Studio                           
+* Map designed in Mapbox Studio                           
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)   
 (Best viewed in Safari and full screen)            
@@ -342,8 +342,37 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 ### Data      
 [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)    
   
-****** 
+******  
 
+<br>
+<a id="day14"></a>  
+[](#day14)  
+# Day 14: Climate change
+
+### The climate risk of crops in Vietnam.     
+
+Exploring exposure of coffee, cashew, and cassava crops in Vietnam to climate risk.       
+
+There are tonnes of open data on climate change impacts and I've worked a lot with gridded climate, microclimate, environment, and habitat data in the past. I originally planned on doing a risk map for coffee plantations in Colombia (maybe down the track), but the good stuff is paywalled by UNESCO under heritage listing and I wanted to do somethign quick for this challenge.   
+
+I stumbled across these data on Vietnam, including shp files, and I had to dive in. The risk indices are defined by summed values of climate change representative concentration pathway (8.5 2050), which is an international standard, county exposure to natural hazards, poverty rate (measured by the Gini coefficient), health care, infrastructure, organisational capacity, and education.        
+
+  
+![day14](30daymap2020/day14.jpg)             
+  
+### Tools       
+  
+R               
+```{r}    
+pacman::p_load(ggfortify,dplyr,here,foreign,rgdal,sp,sf,mapdata,patchwork,readr,purrr,ggplot2,ggthemes,ggnetwork,elevatr,raster,colorspace,ggtext,ggsn,ggspatial,showtext)
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+### Data        
+[CIAT - International Center for Tropical Agriculture Dataverse (CGIAR)](https://ciat.cgiar.org/datasets/)           
+Parker, Louis; Bourgoin, Clement; Martinez Valle, Armando; Läderach, Peter, 2018, "VN_CRVA.zip", Climate Risk Vulnerability Assessment to inform sub-national decision making in Vietnam, Nicaragua and Uganda, [https://doi.org/10.7910/DVN/O8GOHP/QZT3YQ, Harvard Dataverse, V2](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/O8GOHP/QZT3YQ)    
 
 <!-- connections - export data?   
 islands - akira  
