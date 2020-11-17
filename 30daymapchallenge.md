@@ -359,8 +359,23 @@ I stumbled across these data from the International Center for Tropical Agricult
   
 ### [Click for full map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day14.jpg)      
   
-![day14](30daymap2020/day14.jpg)                
-  
+![day14](30daymap2020/day14.jpg)                  
+<br>  
+
+![day141](30daymap2020/day14_1.jpg)                
+<br>  
+
+![day142](30daymap2020/day14_2.jpg)                
+<br>    
+
+![day143](30daymap2020/day14_3.jpg)                  
+<br>    
+
+Here's a deeper dive into the data isolating exposure of crops to natural hazards.        
+
+![day14z](30daymap2020/day14_haz.jpg)                  
+<br>    
+
 ### Tools       
   
 R               
