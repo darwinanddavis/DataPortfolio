@@ -405,7 +405,9 @@ My maps are usually data-driven because there are never enough data, but this wa
 
 I also figured out how to plot images/arrays within polygons for different map projections. I may do a write up on this in the future. For now, this is a useful tool to have in my arsenal.  
   
-![day16](30daymap2020/day16.jpg)           
+### [Click for full map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day16.png)      
+
+![day16](30daymap2020/day16.png)           
   
 ### Tools     
   
