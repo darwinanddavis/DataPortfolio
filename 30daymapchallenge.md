@@ -359,21 +359,21 @@ I stumbled across these data from the International Center for Tropical Agricult
   
 ### [Click for full map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day14.jpg)      
   
-![day14](30daymap2020/day14.jpg)                  
+![day14](30daymap2020/day14.jpg)                    
 <br>  
 
-![day141](30daymap2020/day14_1.jpg)                
+![day141](30daymap2020/day14_1.jpg)                    
 <br>  
 
-![day142](30daymap2020/day14_2.jpg)                
+![day142](30daymap2020/day14_2.jpg)                    
 <br>    
 
-![day143](30daymap2020/day14_3.jpg)                  
+![day143](30daymap2020/day14_3.jpg)                      
 <br>    
 
-Here's a deeper dive into the data isolating exposure of crops to natural hazards.        
+Here's a deeper dive into the data looking at exposure of cassava crops to natural hazards.          
 
-![day14z](30daymap2020/day14_haz.jpg)                  
+![day14z](30daymap2020/day14_haz.jpg)                    
 <br>    
 
 ### Tools       
@@ -388,7 +388,37 @@ pacman::p_load(ggfortify,dplyr,here,foreign,rgdal,sp,sf,mapdata,patchwork,readr,
 
 ### Data        
 [CIAT - International Center for Tropical Agriculture Dataverse (CGIAR)](https://ciat.cgiar.org/datasets/)           
-Parker, Louis; Bourgoin, Clement; Martinez Valle, Armando; Läderach, Peter, 2018, "VN_CRVA.zip", Climate Risk Vulnerability Assessment to inform sub-national decision making in Vietnam, Nicaragua and Uganda, [https://doi.org/10.7910/DVN/O8GOHP/QZT3YQ, Harvard Dataverse, V2](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/O8GOHP/QZT3YQ)    
+Parker, Louis; Bourgoin, Clement; Martinez Valle, Armando; Läderach, Peter, 2018, "VN_CRVA.zip", Climate Risk Vulnerability Assessment to inform sub-national decision making in Vietnam, Nicaragua and Uganda, [https://doi.org/10.7910/DVN/O8GOHP/QZT3YQ, Harvard Dataverse, V2](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/O8GOHP/QZT3YQ)   
+
+******   
+
+<br>
+<a id="day16"></a>  
+[](#day16)  
+# Day 16: Islands    
+
+### Japan 
+
+For the Miyazaki fans AKA seeing if I could bend `R` to my will.      
+
+My maps are usually data-driven because there are never enough data, but this was a simpler design one where I set the challenge of plotting images/arrays within geom polygons in `R`. An easy enough task in design and image software, but not so trivial in `R`. Turns out it can be done. Shout out to user [@inscaven](https://stackoverflow.com/questions/28206611/adding-custom-image-to-geom-polygon-fill-in-ggplot) on Stackoverflow for the code base.    
+
+I also figured out how to plot images/arrays within polygons for different map projections. I may do a write up on this in the future. For now, this is a useful tool to have in my arsenal.  
+  
+![day16](30daymap2020/day16.jpg)           
+  
+### Tools     
+  
+R             
+```{r}    
+pacman::p_load(dplyr,readr,rnaturalearth,rnaturalearthdata,sf,raster,png,plyr,cowplot,mapdata,sp,ggplot2,ggtext)
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+
+******  
 
 <!-- connections - export data?   
 islands - akira  
