@@ -442,7 +442,9 @@ Here's the picture summary.
 
 ![chickens](30daymap2020/day20_chickens.jpg)  
 
-I found these data online from [Northern Territory's Department of the Environment and Natural Resources](https://data.gov.au/data/dataset/9e807c7f-bc64-47ea-a1f2-87a4609ea69c) and the original research paper from Saalfeld & Edwards (2010). Low density (magenta) represents approx. 0.25 camels, high density (white) represents ~2 camels. Lots of camels.         
+I found these data online from [Northern Territory's Department of the Environment and Natural Resources](https://data.gov.au/data/dataset/9e807c7f-bc64-47ea-a1f2-87a4609ea69c) and the original research paper from Saalfeld & Edwards (2010).   
+  
+These data are from aerial observations and the boundary line is expected dispersal (old data, so they're probably in your backyard by now). Low density (magenta) represents approx. 0.25 camels, high density (white) represents ~2 camels. Lots of camels.           
 
 ### [Click for full map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day20.jpg)          
      
