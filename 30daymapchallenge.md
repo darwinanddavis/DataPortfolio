@@ -427,14 +427,14 @@ pacman::p_load(dplyr,readr,rnaturalearth,rnaturalearthdata,sf,raster,png,plyr,co
 [](#day20)  
 # Day 20: Population
 
-### The Great Feral Camel Crater of Australiasup>*</sup>  
-###### sup>*</sup> not an actual landmark     
+### The Great Feral Camel Crater of Australia<sup>2</sup>
+###### <sup>2</sup> not an actual landmark       
 
 Did you know Australia has camels? Millions of feral ones, roaming the deserts like big, roaming, feral camels. There are so many camels, the data almost blew up my laptop trying to map them. Here are some fun facts about Australia's feral camels:  
 
 * Largest global population of feral, dromedary (one-humped) camels  
-* 3.3 million kmsup>2</sup> total dispersal range (about 40% of rural Australia)    
-* About 0.5–2 camels / kmsup>2</sup>       
+* 3.3 million km<sup>2</sup> total dispersal range (about 40% of rural Australia)    
+* About 0.5–2 camels / km<sup>2</sup>       
 * First introduced in 1840, so that's a long time for camels to settle    
 * Compunded annual growth at an enviable 8% pa over the last 70 years      
 
