@@ -425,26 +425,26 @@ pacman::p_load(dplyr,readr,rnaturalearth,rnaturalearthdata,sf,raster,png,plyr,co
 <br>
 <a id="day20"></a>  
 [](#day20)  
-# Day 20: Populations  
+# Day 20: Population
 
-### The Great Feral Camel Crater of Australia  
+### The Great Feral Camel Crater of Australia^*^ 
+###### ^*^not an actual landmark     
 
-Did you know Australia has camels? Millions of them. Here are some fun facts about Australia's feral camels:
+Did you know Australia has camels? Millions of feral ones, roaming the deserts like big, roaming, feral camels. There are so many camels, the data almost blew up my laptop trying to map them. Here are some fun facts about Australia's feral camels:  
 
 * Largest global population of feral, dromedary (one-humped) camels  
-* 3.3 million km^{2} total dispersal range (about 40% of rural Australia)    
-* About 0.5–2 camels / km^{2}    
-* First introduced in 1840, so that's a long time for camels to settle down        
-* Compunded annual growth at an enviable 8% pa over the last 70 years    
+* 3.3 million km^2^ total dispersal range (about 40% of rural Australia)    
+* About 0.5–2 camels / km^2^    
+* First introduced in 1840, so that's a long time for camels to settle    
+* Compunded annual growth at an enviable 8% pa over the last 70 years      
 
-Here's the picture summary.  
+Here's the picture summary.      
 
 ![chickens](30daymap2020/day20_chickens.jpg)  
 
-I found these data online from [Northern Territory's Department of the Environment and Natural Resources](https://data.gov.au/data/dataset/9e807c7f-bc64-47ea-a1f2-87a4609ea69c) and the original research paper from Saalfeld & Edwards (2010). Each point represents about 0.25 camels. Lots of camels.       
+I found these data online from [Northern Territory's Department of the Environment and Natural Resources](https://data.gov.au/data/dataset/9e807c7f-bc64-47ea-a1f2-87a4609ea69c) and the original research paper from Saalfeld & Edwards (2010). Low density (magenta) represents approx. 0.25 camels, high density (white) represents ~2 camels. Lots of camels.         
 
-### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day20)    
-(Best viewed in Safari and full screen)         
+### [Click for full map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day20.jpg)          
      
 ![day20](30daymap2020/day20.jpg)             
 <br>  
@@ -452,6 +452,7 @@ I found these data online from [Northern Territory's Department of the Environme
 ### Tools     
   
 R             
+Mapbox  
 ```{r}    
 pacman::p_load(dplyr,readr,rnaturalearth,rnaturalearthdata,sf,raster,png,plyr,cowplot,mapdata,sp,ggplot2,ggtext)
 ```  
@@ -462,6 +463,8 @@ pacman::p_load(dplyr,readr,rnaturalearth,rnaturalearthdata,sf,raster,png,plyr,co
 ### Data  
 Department of the Environment and Natural Resources – Northern Territory of Australia.    
 Saalfeld W. K., Edwards G. P. (2010) Distribution and abundance of the feral camel (_Camelus dromedarius_) in Australia. The Rangeland Journal 32, 1-9, [https://doi.org/10.1071/RJ09058](https://www-publish-csiro-au.eu1.proxy.openathens.net/RJ/RJ09058)  
+
+ 
 
 ******  
 
