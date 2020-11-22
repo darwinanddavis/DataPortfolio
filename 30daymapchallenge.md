@@ -399,7 +399,7 @@ Parker, Louis; Bourgoin, Clement; Martinez Valle, Armando; Läderach, Peter, 201
 
 ### Japan 
 
-For the Miyazaki fans AKA seeing if I could bend `R` to my will.      
+For the Miyazaki/anime fans AKA seeing if I could bend `R` to my will.      
 
 My maps are usually data-driven because there are never enough data, but this was a simpler design one where I set the challenge of plotting images/arrays within geom polygons in `R`. An easy enough task in design and image software, but not so trivial in `R`. Turns out it can be done. Shout out to user [@inscaven](https://stackoverflow.com/questions/28206611/adding-custom-image-to-geom-polygon-fill-in-ggplot) on Stackoverflow for the code base.    
 
@@ -408,12 +408,19 @@ I also figured out how to plot images/arrays within polygons for different map p
 ### [Click for full map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day16.png)      
 
 ![day16](30daymap2020/day16.png)           
+<br>  
+
+AKIRA  
+
+### [Click for full map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day16_2.png)        
+
+![day162](30daymap2020/day16_2.png)           
   
 ### Tools     
   
 R             
 ```{r}    
-pacman::p_load(dplyr,readr,rnaturalearth,rnaturalearthdata,sf,raster,png,plyr,cowplot,mapdata,sp,ggplot2,ggtext)
+pacman::p_load(dplyr,readr,tidyr,rnaturalearth,rnaturalearthdata,sf,raster,png,plyr,cowplot,mapdata,sp,ggplot2,ggtext)
 ```  
     
 ### Links            
