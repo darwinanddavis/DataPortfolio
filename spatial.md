@@ -195,7 +195,7 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 
 <!--  project break__________________________________________________________________________________________  -->
 
-
+<br>  
 ## Mapping Lyft ride activity from passenger user data    
 
 ### People    
@@ -337,7 +337,7 @@ pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,
 
 <!--  project break__________________________________________________________________________________________  -->
 
-
+<br>
 ## Mapping user mobility geolocation and POI data  
 
 ### People    
@@ -450,18 +450,23 @@ mp
 mp %>% htmlwidgets::saveWidget(here::here("worldmaps","30daymap2020","day1.html"))  
 ```                       
 
+Bucharest, Romania    
 ![day4_1](30daymap2020/day1/day1_2.jpg) 
 <br>  
 
+New York City, USA  
 ![day4_1](30daymap2020/day1/day1_3.jpg) 
 <br>  
 
+New Orleans, USA  
 ![day4_1](30daymap2020/day1/day1_4.jpg) 
 <br>    
 
+Atlanta, USA  
 ![day4_1](30daymap2020/day1/day1_5.jpg) 
 <br>  
 
+St Louis, USA  
 ![day4_1](30daymap2020/day1/day1_6.jpg) 
 <br>  
 
@@ -476,30 +481,7 @@ pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,
 ### Links      
 [`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)    
 
-
-******    
-
-<!--  project break__________________________________________________________________________________________  -->
-
-<br>
-## 30 Day Map Challenge for November 2020     
-
-### People    
-
-**Matt Malishev**     
-
-### Tasks  
-
-An excuse to dive into the vault of maps I never bothered to post at the time of making them, as well as test some new concepts and perhaps tools. There's always more to map, so this is a good opportunity and show some of the cool things I like to create in the spatial world.               
-
-### Outcomes  
-
-[Check out the #30DayMapChallenge 2020 page](./30daymapchallenge.md) for my entries.              
-
-![30day](spatial/30day.jpg)       
-
-
-******    
+******  
 
 <!--  project break__________________________________________________________________________________________  -->
 
@@ -512,8 +494,8 @@ An excuse to dive into the vault of maps I never bothered to post at the time of
 
 ### Tasks
 
-# Map online open data of large geographic dispersal limits of an animal population   
-# Use Mapbox's screengrid function to plot density and range limits       
+* Map online open data of large geographic dispersal limits of an animal population     
+* Use Mapbox's screengrid function to plot density and range limits         
 
 Did you know Australia has camels? Millions of feral ones, roaming the deserts like big, roaming, feral camels. There are so many camels, the data almost blew up my laptop trying to map them. Here are some fun facts about Australia's feral camels:    
 
@@ -533,10 +515,6 @@ These data are from aerial observations and the boundary line is expected disper
      
 ![day20](30daymap2020/day20.jpg)             
 <br>  
-
-### Process  
-
-
   
 ### Tools     
   
@@ -554,8 +532,121 @@ Department of the Environment and Natural Resources – Northern Territory of Au
 Saalfeld W. K., Edwards G. P. (2010) Distribution and abundance of the feral camel (_Camelus dromedarius_) in Australia. The Rangeland Journal 32, 1-9, [https://doi.org/10.1071/RJ09058](https://www-publish-csiro-au.eu1.proxy.openathens.net/RJ/RJ09058)  
 
    
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+
+<br>
+## Mapping and analysing Airbnb’s global property listings      
+
+### People    
+
+**Matt Malishev**       
+
+### Tasks
+
+* Build a web app that maps property listings from open Airbnb data based on user experience categories    
+* Build a UI that compares property criteria among cities around the world              
+# Create an automated script that updates listings with newly available data   
+
+Inside Airbnb has open Airbnb listing data for cities around the world. The datasets contain latlon location, listing details, urls to the listing on Airbnb, price, bedrooms, ratings for multiple catergories, such as cleanliness and communication, plus a suite of criteria based on what users may seek when looking for booking a listing.       
+
+My aim was to create a web app that mimics that Airbnb site, but uses data analysis to map available listings to comapre cities around the world based on user criteria rather than simply listing price and availability. 
+
+For example, you can choose a city, set a price range, set number of bedrooms, then choose to map available listings based on cancellation policy. The app will plot listing locations, profile ID, rating info, and links to the listing on Airbnb based on the chosen criteria. You can then keep the criteria and choose another city to directly compare listings between the cities based on cancellation policy.        
   
-******    
+The criteria users can select to compare among cities  
+
+* Bed type    
+* Room type    
+* Property type  
+* Bathrooms       
+* Cancellation policy  
+* Reviews per month  
+* Review scores rating  
+* Security deposit  
+* Cleaning fee   
+* Accommodates  
+
+### [Click to launch app](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day20.jpg)          
+
+Example of the user interface that shows criteria to plot and compare. Users can select criteria, such as Property type, then switch between cities around the world to compare prices, location, and ratings of available listings.     
+
+![](spatial/airbnb/a0.jpg)             
+<br>    
+
+Example outputs  
+     
+Sydney, Australia  
+Security deposit   
+2 bedrooms  
+Price: $100–$1000 p/n  
+![](spatial/airbnb/a1.jpg)             
+<br>    
+  
+Amsterdam, Netherlands  
+Room type  
+1 bedroom  
+Price: $100–$600 p/n  
+![](spatial/airbnb/a2.jpg)             
+<br>  
+
+South Angean Islands, Greece    
+Cancellation policy       
+1 bedroom  
+Price: $200–$500 p/n    
+![](spatial/airbnb/a3.jpg)             
+<br>  
+
+Vancouver, Canada    
+Accommodates     
+1 bedroom  
+Price: $150–$1000 p/n  
+![](spatial/airbnb/a4.jpg)             
+<br>  
+  
+### Tools     
+  
+R
+Shiny               
+Leaflet  
+HTML  
+CSS  
+```{r}    
+pacman::p_load(shiny,shinythemes,dplyr,here,leaflet,rgdal,sp,sf,raster,colorspace,mapdata,ggmap,jpeg)  
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+### Data  
+[Inside Airbnb](http://insideairbnb.com/get-the-data.html) open data    
+   
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+
+<br>
+## 30 Day Map Challenge for November 2020     
+
+### People    
+
+**Matt Malishev**     
+
+### Tasks  
+
+An excuse to dive into the vault of maps I never bothered to post at the time of making them, as well as test some new concepts and perhaps tools. There's always more to map, so this is a good opportunity and show some of the cool things I like to create in the spatial world.               
+
+### Outcomes  
+
+[Check out the #30DayMapChallenge 2020 page](./30daymapchallenge.md) for my entries.              
+
+![30day](spatial/30day.jpg)       
+
+
+******      
 
 <!--  project break__________________________________________________________________________________________  -->
 
