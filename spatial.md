@@ -32,6 +32,15 @@ Some interesting things to explore:
 * What kinds of vegetation remains by 2050 if nothing new is planted?       
 * What species are least vulnerable to attack (disease, climate, pollution) and are these species prioritised in future urban planning?     
 
+### Outcomes      
+
+Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
+
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)  
+(Best viewed in Safari and full screen)     
+     
+![day11](30daymap2020/day11.jpg)             
+
 ### Process  
 
 First, loading the necessary packages in `R` and read in the data from the web
@@ -139,16 +148,6 @@ Save the map to a local drive, then commit the changes to git and push to Github
 mp11 %>% htmlwidgets::saveWidget(here::here("worldmaps","30daymap2020","day11.html")) # saved without heading 
 
 ```  
-
-### Outcomes      
-
-Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
-
-### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)  
-(Best viewed in Safari and full screen)     
-     
-![day11](30daymap2020/day11.jpg)             
-<br>  
 
 ### Snapshot analysis     
 
