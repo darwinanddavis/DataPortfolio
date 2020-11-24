@@ -573,7 +573,7 @@ The criteria users can select to compare among cities
 * Review scores rating  
 * Security deposit  
 * Cleaning fee   
-* Accommodates  
+* Accommodates (no. of people)     
 
 For example, you can choose a city, set a price range, set number of bedrooms, then choose to map available listings based on cancellation policy. The app will plot listing locations, profile ID, rating info, and links to the listing on Airbnb based on the chosen criteria. You can then keep the criteria and choose another city to directly compare listings between the cities based on cancellation policy.  
 
@@ -586,35 +586,21 @@ Example of the user interface that shows criteria to plot and compare. Users can
 
 **Example outputs**  
      
-Sydney, Australia  
-Security deposit   
-2 bedrooms  
-Price: $100–$1000 p/n  
+Sydney, Australia. Security deposit, 2 bedrooms, $100–$1000 p/n    
 ![](spatial/airbnb/a1.jpg)             
 <br>    
   
-Amsterdam, Netherlands  
-Room type  
-1 bedroom  
-Price: $100–$600 p/n  
+Amsterdam, Netherlands. Room type, 1 bedroom, $100–$600 p/n  
 ![](spatial/airbnb/a2.jpg)             
 <br>  
 
-South Angean Islands, Greece    
-Cancellation policy       
-1 bedroom  
-Price: $200–$500 p/n    
+South Angean Islands, Greece. Cancellation policy, 1 bedroom, $200–$500 p/n    
 ![](spatial/airbnb/a3.jpg)             
 <br>  
 
-Vancouver, Canada    
-Accommodates     
-1 bedroom  
-Price: $150–$1000 p/n  
+Vancouver, Canada. Accommodates, 1 bedroom, $150–$1000 p/n    
 ![](spatial/airbnb/a4.jpg)             
 <br>  
-
-**Zoom detail**  
 
 Barcelona, Spain    
 ![](spatial/airbnb/a5.jpg)             
