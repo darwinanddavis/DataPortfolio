@@ -43,7 +43,7 @@ Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees
 
 ### Process  
 
-First, loading the necessary packages in `R` and read in the data from the web
+First, load the necessary packages in `R` and read in the data from the web 
 
 ```r
 pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmltools)
@@ -111,7 +111,7 @@ pitch <- 60
 bearing <- -30
 
 mp11 <- mapdeck(
-  # location = c(tree$Lon %>% median,tree$Lat %>% median),
+  location = c(tree$Lon %>% median,tree$Lat %>% median),
   zoom = zoom, 
   pitch = pitch, bearing = bearing,
   min_zoom = zoom, max_zoom = zoom,
@@ -196,6 +196,291 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 <!--  project break__________________________________________________________________________________________  -->
 
 
+## Mapping Lyft ride activity from passenger user data    
+
+### People    
+
+**Matt Malishev**     
+
+### Tasks     
+
+* Map rideshare user activity over two years  
+* Build and integrate the map design from Mapbox Studio         
+
+Using geolocation data for my Lyft rides as a passenger to build an interactive map that shows my Lyft user activity, including origin pickup and destination dropoff points. The data cover the USA.  
+
+These data are really cool, so I just wanted to make use of them. Hexagons are good for visualising frequency and mobility spatial data. My data here ended up being too coarse (obviously I didn't take enough Lyft rides) to leverage this, but it tells a story about where my ride activity is weighted. There is also a time component, which I'll definitely use for another analysis.                 
+
+### Outcomes  
+
+Zoom out to see the cities where I used Lyft to get around. Cities with labels contain data, sometimes only a few points.     
+
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)        
+(Best viewed in Safari and full screen)        
+
+Atlanta, USA (where I lived during this time)      
+![day4_1](30daymap2020/day4_1.jpg) 
+<br>
+
+### Process  
+
+* Data were obtained from my Lyft ride report.    
+* Data were first georeferenced to get geolocations.       
+* Hexagons are good for large scale coarse and clustered data, like heatmaps. The data here are too sparse to make full use of this.    
+* There is a higher density of destination sites because I primarily used Lyft to get home, which is concentrated on one latlon point.   
+* Georeferencing the data didn't find all locations, so some points are missing.              
+
+Load packages and read in data       
+```r
+require(pacman)
+p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,colorspace)
+
+# read data 
+od <- paste0("https://github.com/darwinanddavis/worldmaps/blob/gh-pages/data/day4_od.Rda?raw=true") %>% url %>% readRDS
+dd <- paste0("https://github.com/darwinanddavis/worldmaps/blob/gh-pages/data/day4_dd.Rda?raw=true") %>% url %>% readRDS
+
+```
+
+Load geodata and polygon shapefiles for USA  
+```r  
+# labels 
+latlon_data <- with(world.cities, data.frame( # //maps
+  "city" = name,"country" = country.etc,"lat" = lat,"lon" = long,"population" = pop)
+)
+city_labels <- c("San Francisco","Memphis","New Orleans","Saint Louis","Chicago","Atlanta","Asheville","Raleigh","Washington","New York")
+city_text <- latlon_data %>% filter(country == "USA" & city %in% city_labels ) %>% select(city,lat,lon)
+
+```
+
+Add title and credentials for map interface    
+```r
+title_text <- list(title = 
+              "<strong>Mapping Lyft ride data</strong> <br/>
+              Author: <a href=https://darwinanddavis.github.io/DataPortfolio/> Matt Malishev </a> <br/>
+               Github: <a href=https://github.com/darwinanddavis/worldmaps> @darwinanddavis </a> <br/>
+               Spot an error? <a href=https://github.com/darwinanddavis/worldmaps/issues> Submit an issue </a> <br/>" ,
+              css = "font-size: 8px; background-color: rgba(255,255,255,0.5);"
+)
+```
+
+Build the map by reading in the dataset, loading the map style from Mapbox, and adding the font and titles.      
+```r
+# map 
+my_style <- "mapbox://styles/darwinanddavis/ckh4kmfdn0u6z19otyhapiui3" # style  
+mp4 <- mapdeck(
+  location = c(od$lon[1],od$lat[1]), 
+  zoom = 10,
+  pitch =  30,
+  style = my_style
+) %>%
+  add_hexagon(data = dd, lat = "lat", lon = "lon", 
+              radius = 100,
+              digits = 3,
+              elevation = "lat",
+              elevation_scale = 15,
+              elevation_function = "sum",
+              layer_id = "dest",
+              legend = T, update_view = F,
+              legend_options = list(title="Destination"),
+              auto_highlight = T, highlight_colour = "#FFFFFFFF",
+              colour_range = colorspace::sequential_hcl(6,"OrYel")) %>%
+  add_hexagon(data = od, lat = "lat", lon = "lon", 
+              radius = 100,
+              digits = 3,
+              elevation = "lat",
+              elevation_scale = 5, 
+              elevation_function = "sum",
+              layer_id = "origin",
+              legend = T, update_view = F,
+              legend_options = list(title="Origin"),
+              auto_highlight = T, highlight_colour = "#FFFFFFFF",
+              colour_range = colorspace::sequential_hcl(6,"Purp")) %>% 
+  add_text(data=city_text,lon = "lon", lat = "lat",
+           layer_id = "label", text = "city",
+           alignment_baseline = "top",anchor = "end",
+           fill_colour = "black",
+           billboard = T,update_view = F,
+           font_family = "Lato Regular",
+           size=15
+  ) %>% 
+  add_title(title = title_text, layer_id = "title")
+mp4
+mp4 %>% saveWidget(here::here("worldmaps","30daymap2020","day4.html"))  
+
+
+```
+  
+Washington DC, USA     
+![day4_1](30daymap2020/day4_2.jpg) 
+<br>  
+
+St Louis, USA  
+![day4_1](30daymap2020/day4_3.jpg) 
+<br>  
+
+Chicago, USA  
+![day4_1](30daymap2020/day4_4.jpg) 
+<br>  
+  
+### Tools     
+  
+R    
+Mapbox           
+```{r}  
+pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,colorspace)  
+```  
+              
+### Links      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)    
+
+******    
+
+<!--  project break__________________________________________________________________________________________  -->
+
+
+## Mapping user mobility geolocation and POI data  
+
+### People    
+
+**Matt Malishev**     
+
+### Tasks  
+
+* Map geolocation and point of interest (POI) from user mobile data     
+* Integrate custom font and popup features in Mapbox  
+* Build and integrate the map design from Mapbox Studio       
+
+An interactive map of my favourite places and POI from my mobile data. Part of a larger project where I'm mapping my favourite food places around the world to create a centralised repository so I can more easily address the following conversation:      
+
+> Friend: 'Do you know any good _INSERT FOOD_ places in _INSERT CITY_?'          
+> Me: 'Sure thing, I collated all my favourite places and put it all in this site. Enjoy.'                  
+
+This map shows my favourite coffee places around the world.   
+
+### Outcomes  
+
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)   
+(Best viewed in Safari and full screen)            
+  
+![coffee](30daymap2020/day1.jpg)      
+
+### Process 
+
+* Data were georeferenced from mobile location data using Open Street Map        
+* Map designed in Mapbox Studio      
+
+Load packages and data  
+```r
+# pcks 
+require(pacman)
+p_load(mapdeck,readr,purrr,stringr,dplyr,tibble,htmltools,sf,sfheaders,data.table,stringr,tigris,sp,here,htmlwidgets)
+
+# read in current data
+id_df <- "https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/data/id_df.csv" %>% read_csv
+```
+
+Select user-defined category to map  
+```r
+fh <- "coffee"
+m <- paste0("https://github.com/darwinanddavis/worldmaps/blob/gh-pages/data/",fh,".Rda?raw=true") %>% url %>% readRDS
+m$name <- m$name %>% paste0("\n \n \n") # add linebreaks to names
+m_ttl <- tibble(lon=-43,lat=31, # add title
+                name=paste0(fh %>% stringr::str_to_upper(),"\nSNACKMAP")
+)
+```
+
+Create style elements for map  
+```r  
+# labels 
+family <- "Chalkboard"
+colv <- "#E1B69B"
+
+style <- list( # css label style 
+  "font-weight" = "normal",
+  "padding" = "8px",
+  "color" = colv
+)
+
+point_label <- paste0( # add label tooltip  
+  "<div style=\"color:",style$color,"; padding:",style$padding,"; font-family:",family,";\">
+  <b>",m$name,"<b><br><br>
+  <b>Address: <b><br>", m$address %>% str_to_upper(),"<br><br> 
+  <b>Type: <b><br>", m$type %>% str_to_upper() %>% str_replace_all("_"," "), 
+  "</div>") %>% map(htmltools::HTML)
+
+m$label <- point_label # add css text tooltip to df
+```
+
+Build map using dataset and add geolocation data as a tooltip       
+```r
+# map 
+mp <- mapdeck(data=m,
+        location = c(m$lon[1],m$lat[1]), 
+        zoom = 2,
+        pitch =  0,
+        style = id_df %>% filter(Name == fh) %>% pull(Style)
+) %>%
+  add_pointcloud(lon = "lon",lat = "lat", 
+                 layer_id = "latlon",id = "latlon",
+                 fill_colour = id_df %>% filter(Name == fh) %>% pull(Col),
+                 auto_highlight = T, 
+                 highlight_colour = paste0(colv,"00"),
+                 elevation = 0,
+                 radius = 10, 
+                 update_view = F,
+                 tooltip = "label"
+  ) %>% 
+  mapdeck::add_text(lon = "lon", lat = "lat", # location names 
+                    layer_id = "label", text = "name",
+                    alignment_baseline = "top",anchor = "end",
+                    fill_colour = id_df %>% filter(Name == fh) %>% pull(Col),
+                    billboard = T,update_view = F,
+                    font_family = family,
+                    size=15
+  ) %>% 
+  mapdeck::add_text(m_ttl,lon = "lon", lat = "lat", # title
+                    layer_id = "title", text = "name",
+                    alignment_baseline = "top",anchor = "end",
+                    fill_colour = id_df %>% filter(Name == fh) %>% pull(Col),
+                    billboard = F, update_view = F,
+                    font_family = family, font_weight = "bold",
+                    size=35
+  )
+mp
+mp %>% htmlwidgets::saveWidget(here::here("worldmaps","30daymap2020","day1.html"))  
+```                       
+
+![day4_1](30daymap2020/day1/day1_2.jpg) 
+<br>  
+
+![day4_1](30daymap2020/day1/day1_3.jpg) 
+<br>  
+
+![day4_1](30daymap2020/day1/day1_4.jpg) 
+<br>    
+
+![day4_1](30daymap2020/day1/day1_5.jpg) 
+<br>  
+
+![day4_1](30daymap2020/day1/day1_6.jpg) 
+<br>  
+
+### Tools     
+  
+R    
+Mapbox           
+```{r}  
+pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,colorspace)  
+```  
+              
+### Links      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)    
+
+
+******    
+
+<!--  project break__________________________________________________________________________________________  -->
+
 <br>
 ## 30 Day Map Challenge for November 2020     
 
@@ -217,6 +502,63 @@ An excuse to dive into the vault of maps I never bothered to post at the time of
 ******    
 
 <!--  project break__________________________________________________________________________________________  -->
+
+<br>
+## The spatial range of Australia’s wild camel population  
+
+### People    
+
+**Matt Malishev**     
+
+### Tasks
+
+# Map online open data of large geographic dispersal limits of an animal population   
+# Use Mapbox's screengrid function to plot density and range limits       
+
+Did you know Australia has camels? Millions of feral ones, roaming the deserts like big, roaming, feral camels. There are so many camels, the data almost blew up my laptop trying to map them. Here are some fun facts about Australia's feral camels:    
+
+* Largest global population of feral, dromedary (one-humped) camels  
+* 3.3 million km<sup>2</sup> total dispersal range (about 40% of rural Australia)    
+* About 0.5–2 camels / km<sup>2</sup>       
+* First introduced in 1840, so that's a long time for camels to settle    
+* Compounded annual growth at an enviable 8% pa over the last 70 years      
+
+AKA the Great Feral Camel Crater of Australia  
+
+I found these data online from [Northern Territory's Department of the Environment and Natural Resources](https://data.gov.au/data/dataset/9e807c7f-bc64-47ea-a1f2-87a4609ea69c) and the original research paper from Saalfeld & Edwards (2010).   
+  
+These data are from aerial observations and the boundary line is expected dispersal (old data, so they're probably in your backyard by now). Low density (magenta) represents approx. 0.25 camels, high density (white) represents ~2 camels. Lots of camels.           
+
+### [Click for full map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day20.jpg)          
+     
+![day20](30daymap2020/day20.jpg)             
+<br>  
+
+### Process  
+
+
+  
+### Tools     
+  
+R             
+Mapbox  
+```{r}    
+pacman::p_load(dplyr,here,mapdeck,rgdal,sp,sf,raster,colorspace,mapdata,ggmap,jpeg)  
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+### Data  
+Department of the Environment and Natural Resources – Northern Territory of Australia.    
+Saalfeld W. K., Edwards G. P. (2010) Distribution and abundance of the feral camel (_Camelus dromedarius_) in Australia. The Rangeland Journal 32, 1-9, [https://doi.org/10.1071/RJ09058](https://www-publish-csiro-au.eu1.proxy.openathens.net/RJ/RJ09058)  
+
+   
+  
+******    
+
+<!--  project break__________________________________________________________________________________________  -->
+
 
 <br>
 ## Realtime interactive map of COVID19 coronavirus global distribution  
