@@ -180,6 +180,8 @@ NE of city, facing south. The highest density of the tallest (diameter at breast
   
 R             
 Mapbox  
+HTML    
+CSS    
 ```{r}    
 pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmltools)  
 ```  
@@ -325,7 +327,9 @@ Chicago, USA
 ### Tools     
   
 R    
-Mapbox           
+Mapbox  
+HTML  
+CSS           
 ```{r}  
 pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,colorspace)  
 ```  
@@ -473,7 +477,9 @@ St Louis, USA
 ### Tools     
   
 R    
-Mapbox           
+Mapbox     
+HTML  
+CSS        
 ```{r}  
 pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,colorspace)  
 ```  
@@ -520,6 +526,8 @@ These data are from aerial observations and the boundary line is expected disper
   
 R             
 Mapbox  
+HTML  
+CSS  
 ```{r}    
 pacman::p_load(dplyr,here,mapdeck,rgdal,sp,sf,raster,colorspace,mapdata,ggmap,jpeg)  
 ```  
@@ -546,15 +554,13 @@ Saalfeld W. K., Edwards G. P. (2010) Distribution and abundance of the feral cam
 
 ### Tasks
 
-* Build a web app that maps property listings from open Airbnb data based on user experience categories    
+* Build a web app with RShiny that maps property listings from open Airbnb data based on user experience categories    
 * Build a UI that compares property criteria among cities around the world              
-# Create an automated script that updates listings with newly available data   
+* Create an automated script that updates listings with newly available data     
 
-Inside Airbnb has open Airbnb listing data for cities around the world. The datasets contain latlon location, listing details, urls to the listing on Airbnb, price, bedrooms, ratings for multiple catergories, such as cleanliness and communication, plus a suite of criteria based on what users may seek when looking for booking a listing.       
+Inside Airbnb has open Airbnb listing data for cities around the world. The datasets contain latlon location, listing details, urls to the listing on Airbnb, price, bedrooms, ratings for multiple categories, such as cleanliness and communication, plus a suite of criteria based on what users may seek when looking for booking a listing.       
 
-My aim was to create a web app that mimics that Airbnb site, but uses data analysis to map available listings to comapre cities around the world based on user criteria rather than simply listing price and availability. 
-
-For example, you can choose a city, set a price range, set number of bedrooms, then choose to map available listings based on cancellation policy. The app will plot listing locations, profile ID, rating info, and links to the listing on Airbnb based on the chosen criteria. You can then keep the criteria and choose another city to directly compare listings between the cities based on cancellation policy.        
+My aim was to create a web app that mimics that Airbnb site, but uses data analysis to map available listings to comapre cities around the world based on user criteria rather than simply listing price and availability.         
   
 The criteria users can select to compare among cities  
 
@@ -569,14 +575,16 @@ The criteria users can select to compare among cities
 * Cleaning fee   
 * Accommodates  
 
-### [Click to launch app](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day20.jpg)          
+For example, you can choose a city, set a price range, set number of bedrooms, then choose to map available listings based on cancellation policy. The app will plot listing locations, profile ID, rating info, and links to the listing on Airbnb based on the chosen criteria. You can then keep the criteria and choose another city to directly compare listings between the cities based on cancellation policy.  
+
+### [Launch Shiny app](https://darwinanddavis.shinyapps.io/airbnb/)          
 
 Example of the user interface that shows criteria to plot and compare. Users can select criteria, such as Property type, then switch between cities around the world to compare prices, location, and ratings of available listings.     
 
-![](spatial/airbnb/a0.jpg)             
+![](spatial/airbnb/a0.jpg)               
 <br>    
 
-Example outputs  
+**Example outputs**  
      
 Sydney, Australia  
 Security deposit   
@@ -604,6 +612,24 @@ Accommodates
 1 bedroom  
 Price: $150–$1000 p/n  
 ![](spatial/airbnb/a4.jpg)             
+<br>  
+
+**Zoom detail**  
+
+Barcelona, Spain    
+![](spatial/airbnb/a5.jpg)             
+<br>  
+
+Copenhagen, Denmark  
+![](spatial/airbnb/a6.jpg)             
+<br>  
+
+Geneva, Switzerland  
+![](spatial/airbnb/a7.jpg)             
+<br>  
+
+Istanbul, Turkey  
+![](spatial/airbnb/a8.jpg)             
 <br>  
   
 ### Tools     
@@ -664,9 +690,21 @@ An excuse to dive into the vault of maps I never bothered to post at the time of
 
 ### Outcomes   
 
-[Coronavirus 2019-nCov global distribution map](https://darwinanddavis.github.io/worldmaps/coronavirus.html)  
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/coronavirus.html)              
 
-![coronavirus](spatial/spatial8.jpg)     
+![coronavirus](spatial/spatial8.jpg)       
+
+Global cases (plus cases ranked)   
+![](spatial/cv/cv1.jpg)             
+<br>  
+
+Global deaths (plus deaths ranked)   
+![](spatial/cv/cv2.jpg)             
+<br>  
+  
+Global cases in last 15 days     
+![](spatial/cv/cv3.jpg)             
+<br>  
 
 ### Links    
 
