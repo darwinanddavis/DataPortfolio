@@ -13,14 +13,18 @@ permalink: /30daymapchallenge/
 
 <br>  
 
-What's the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge)? It's an annual mapping challenge for the month of November where anyone can partake by posting a creation in the spatial world. Here's the official tag taken from the website.    
+What's the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge)? Here's the official tag taken from the website.    
 
 > A daily mapping/cartography/data visualization challenge aimed at the spatial community  
 
-The rules are pretty simple: create a map or spatial-related output using any means, as long as it's your own work and that you credit data sources. As I mostly use `R`, this is my bread and butter for this challenge. 
+The rules are pretty simple: create a map or spatial-related output using any means, as long as it's your own work and that you credit data sources. 
 
-This year I'm challenging myself by using a new tool, software, design, or data source for each entry. I just have to learn something new each time, rather than recycle familiar tools.  Creating 30 new maps in 30 days is tough, so I think half of this is a decent target.     
+Here were my self-inflicted challenges this year. 
 
+* Learn something new for every project—new data, new mapping element, new map projection, etc     
+* Make data-driven maps when possible (time permitting)  
+* Use diverse data sources and types and choose widely, i.e. search data, wrangle data, map data 
+* Do at least half (15 days)    
     
 ![](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)  
 

@@ -11,6 +11,194 @@ permalink: /spatial/
 ![](spatial/spatial_header.jpg)      
 
 <br>
+## Visualising the vulnerability of Melbourne’s urban forest  
+
+### People    
+
+**Matt Malishev**     
+
+### Tasks  
+
+* Map location, traits, species, and density of tree canopy coverage in the city of Melbourne      
+* Build and integrate the map design from Mapbox Studio  
+* As always, use open data and learn a new tool      
+
+I found some comprehensive data on tree canopy coverage in Melbourne from 2019 on the [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/) site and tree traits are always fun to plot in 3D.    
+
+The data cover species, genera, height (DBH), life expectancy, latlons, year and date planted, precinct location, to name a few. I plotted tree locations and height to show some spatial patterns, e.g. you can see where tall trees have been cleared in areas that are known to have high rise apartments buildings. I added life expectancy as the colour factor to get a snapshot idea of planting activity by the city council and choice of species over time. Lots more to explore.             
+
+Some interesting things to explore:      
+* How often do invulnerable species need to be re-planted?    
+* What kinds of vegetation remains by 2050 if nothing new is planted?       
+* What species are least vulnerable to attack (disease, climate, pollution) and are these species prioritised in future urban planning?     
+
+### Process  
+
+First, loading the necessary packages in `R` and read in the data from the web
+
+```{r}
+pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmltools)
+url <- "https://data.melbourne.vic.gov.au/api/views/fp38-wiyy/rows.csv?accessType=DOWNLOAD"
+tree <- url %>% read_csv()
+tree %>% rename(DBH = `Diameter Breast Height`,
+                Expectancy = `Useful Life Expectency Value`,
+                Lon = Longitude,
+                Lat = Latitude,
+                Species = `Common Name`) -> tree
+# data 
+tree$Expectancy[is.na(tree$Expectancy)] <- 0 # available data 
+
+```
+
+Build the stylistic components for the map design 
+
+```{r}
+# get font 
+newfonts <- "Fonts/BREVE2.ttf"
+fontlib <- "breve"
+font_add(fontlib,regular = newfonts,bold = newfonts)
+showtext_auto(enable = T) # auto showtext
+
+# style
+my_style <- "mapbox://styles/darwinanddavis/ckhe7nocp0euc19oeehfy713s" # style  
+my_style_public <- "https://api.mapbox.com/styles/v1/darwinanddavis/ckhe7nocp0euc19oeehfy713s.html?fresh=true&title=copy&access_token="
+ttl <- "Life expectancy (years)"  
+colv <- paste0(c("#004616",sequential_hcl(5,"YlOrBr")),"B3")
+colvl <- colv[1] # link col
+
+```
+
+Then create the titles, subtitles, and legends
+
+```{r}
+
+main <- data.frame("Y"=tree$Lat %>% min + 0.005,"X"=tree$Lon %>% max + 0.0005,
+                   "title"= paste0("Vulnerability of\nMelbourne's\nUrban Forest"))
+
+main2 <- data.frame("Y"=tree$Lat %>% min + 0.02,"X"=tree$Lon %>% max + 0.01,
+                   "title"= paste0("No. of trees: ", tree %>% nrow() %>% format(big.mark=",",scientific = F,trim = T),"\n",
+                                   "Tree species: ", tree %>% pull(Species) %>% str_to_title() %>% unique %>% length,"\n",
+                                   "Avg lifespan: ", tree %>% summarise(Expectancy %>% mean) %>% pull %>% plyr::round_any(1)," years"))
+
+title_text <- list(title = 
+                     paste0("<strong style=color:#004616;>Vulnerability of Melbourne's<br> Urban Forest</strong> <br/>
+                            Tree locations and heights <br> (DBH) looking at life <br> expectancy of species. <br>
+                            <span style=color:#004616;>Green </span> = No available data. <br> <br>
+                            Author: <a style=color:",colvl,"; href=https://darwinanddavis.github.io/DataPortfolio/> Matt Malishev </a> <br/>
+                            Github: <a style=color:",colvl,"; href=https://github.com/darwinanddavis/worldmaps/tree/gh-pages> @darwinanddavis </a> <br/>
+                            Data source: <a style=color:",colvl,"; href=https://data.melbourne.vic.gov.au/> City of Melbourne </a> <br/>
+                            Map style: <a style=color:",colvl,"; href=", my_style_public,"MAPBOX_ACCESS_TOKEN> Mapbox </a> <br/>
+                            Spot an error? <a style=color:",colvl,"; href=https://github.com/darwinanddavis/worldmaps/issues> Submit an issue </a> <br/>"),
+                   css = "font-size: 10px; background-color: rgba(255,255,255,0.5);"
+                     )
+
+```
+
+Finally, build the map by reading in the dataset, loading the map style from Mapbox, and adding the font and titles  
+
+```{r}
+# map ---------------------------------------------------------------------
+zoom <- 20
+pitch <- 60
+bearing <- -30
+
+mp11 <- mapdeck(
+  # location = c(tree$Lon %>% median,tree$Lat %>% median),
+  zoom = zoom, 
+  pitch = pitch, bearing = bearing,
+  min_zoom = zoom, max_zoom = zoom,
+  min_pitch = pitch, max_pitch = pitch,
+  style = my_style
+) %>%
+  add_grid(data = tree, lat = "Lat", lon = "Lon", 
+           elevation = "DBH", elevation_scale = 1,
+           elevation_function = "max",
+           colour_function = "max",
+           colour = "Expectancy",
+           layer_id = "tree",
+           extruded = T, cell_size = 3,
+           update_view = F, focus_layer = T,
+           legend = T, #mll,
+           legend_options = list(title = ttl),
+           colour_range = colv) %>% 
+  add_text(data=main,lat = "Y", lon = "X", 
+           text = "title", layer_id = "m1",
+           alignment_baseline = "top",anchor = "start",
+           fill_colour = colv[1], angle = 82,
+           billboard = F,update_view = F,
+           font_weight = "bold",
+           font_family = "Avenir"
+           ) %>% 
+  add_title(title = title_text,layer_id = "heading")
+mp11
+
+```
+
+Save the map to a local drive, then commit the changes to git and push to Github  
+
+```{r}
+mp11 %>% htmlwidgets::saveWidget(here::here("worldmaps","30daymap2020","day11.html")) # saved without heading 
+
+```  
+
+### Outcomes      
+
+Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
+
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)  
+(Best viewed in Safari and full screen)     
+     
+![day11](30daymap2020/day11.jpg)             
+<br>  
+
+### Snapshot analysis     
+
+SW of city, facing NE. The Central Business District (CBD, centre grid), showing low canopy and short-lived vegetation. The central downtown probably aims for seasonal, high turnover species to match the rapid development pace of the area. 
+
+![day112](30daymap2020/day11_2.jpg)   
+<br>
+
+West of city, facing SE. Low canopy or young long-lived species lining the Docklands, the major port area of the city, which also has high-rise apartment buildings.     
+
+![day113](30daymap2020/day11_3.jpg)   
+<br>
+
+North of city, facing SSE. Royal Park remains open and free of tall species. The larger, open green space is Melbourne Zoo and the National State and Hocket Centre. The bottom right pocket dominated by low canopy or young long-lived species may be due to the type of soil or bedrock adjacent to Moonee Ponds Creek.   
+
+![day114](30daymap2020/day11_4.jpg)   
+<br>
+
+North of city, facing south (aerial view). Tree density and location hugs Melbourne's city grid structure.   
+
+![day116](30daymap2020/day11_6.jpg)       
+<br>  
+
+NE of city, facing south. The highest density of the tallest (diameter at breast height, DBH) trees in the city. The large, open green spaces to the left is Melbourne/Olympic Park, Yarra Park, and AAMI Park, which house the five major state sports ovals.        
+
+![day115](30daymap2020/day11_5.jpg)       
+<br>  
+  
+### Tools     
+  
+R             
+Mapbox  
+```{r}    
+pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmltools)  
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+
+### Data      
+[City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)    
+
+******    
+
+<!--  project break__________________________________________________________________________________________  -->
+
+
+<br>
 ## 30 Day Map Challenge for November 2020     
 
 ### People    
@@ -85,7 +273,7 @@ Data: [San Francisco open Airbnb data.](http://insideairbnb.com/get-the-data.htm
 <!--  project break__________________________________________________________________________________________  -->
   
 <br>
-## Using simulation models to forecast species dispersal potential from environmental and geolocation data                
+## Building simulation models to forecast species dispersal potential from environment, climate, and movement data                
 
 ### Location
 
