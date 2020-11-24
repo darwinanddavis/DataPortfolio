@@ -36,7 +36,7 @@ Some interesting things to explore:
 
 First, loading the necessary packages in `R` and read in the data from the web
 
-```{r}
+```r
 pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmltools)
 url <- "https://data.melbourne.vic.gov.au/api/views/fp38-wiyy/rows.csv?accessType=DOWNLOAD"
 tree <- url %>% read_csv()
@@ -52,7 +52,7 @@ tree$Expectancy[is.na(tree$Expectancy)] <- 0 # available data
 
 Build the stylistic components for the map design 
 
-```{r}
+```r
 # get font 
 newfonts <- "Fonts/BREVE2.ttf"
 fontlib <- "breve"
@@ -70,8 +70,7 @@ colvl <- colv[1] # link col
 
 Then create the titles, subtitles, and legends
 
-```{r}
-
+```r
 main <- data.frame("Y"=tree$Lat %>% min + 0.005,"X"=tree$Lon %>% max + 0.0005,
                    "title"= paste0("Vulnerability of\nMelbourne's\nUrban Forest"))
 
@@ -96,8 +95,8 @@ title_text <- list(title =
 
 Finally, build the map by reading in the dataset, loading the map style from Mapbox, and adding the font and titles  
 
-```{r}
-# map ---------------------------------------------------------------------
+```r
+# map 
 zoom <- 20
 pitch <- 60
 bearing <- -30
@@ -136,7 +135,7 @@ mp11
 
 Save the map to a local drive, then commit the changes to git and push to Github  
 
-```{r}
+```r
 mp11 %>% htmlwidgets::saveWidget(here::here("worldmaps","30daymap2020","day11.html")) # saved without heading 
 
 ```  
