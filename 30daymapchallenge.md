@@ -487,7 +487,7 @@ Saalfeld W. K., Edwards G. P. (2010) Distribution and abundance of the feral cam
 
 ### 70 years of Russian refugee resettlement  
 
-Less boundaries and through the lense of no boundaries. No boundaries between country borders for refugees, economically-displaced peoples, migrants, and new horizon seekers. 
+More of a take on no boundaries through the lense of no boundaries between country borders for refugees, economically-displaced peoples, migrants, and new horizon seekers.   
 
 I found these human migration data online from the [UN Refugee Agency](https://data.world/unhcr) and being close to my own Russian heritage, I wanted to see what patterns in Russian refugee and emigration numbers emerged over the decades. The original dataset is broken up into individual years, but it looked super messy when I first mapped it, so I instead collapsed the data into decades to make for a neater map.    
  
@@ -497,7 +497,7 @@ Notes
 * Hover over the lines to view the refugee migration numbers for that country 
 * Zoom and tilt (hold CMD/CTRL) around the map to explore   
 
-### [Click for full interactive map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day23.html)           
+### [Click for full interactive map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day23)  
 (Best viewed in Safari and full screen)       
      
 ![day23](30daymap2020/day23_1.jpg)             
