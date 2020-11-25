@@ -477,7 +477,54 @@ pacman::p_load(dplyr,here,mapdeck,rgdal,sp,sf,raster,colorspace,mapdata,ggmap,jp
 Department of the Environment and Natural Resources – Northern Territory of Australia.    
 Saalfeld W. K., Edwards G. P. (2010) Distribution and abundance of the feral camel (_Camelus dromedarius_) in Australia. The Rangeland Journal 32, 1-9, [https://doi.org/10.1071/RJ09058](https://www-publish-csiro-au.eu1.proxy.openathens.net/RJ/RJ09058)  
 
+
+******  
+
+<br>
+<a id="day23"></a>  
+[](#day23)  
+# Day 23: Boundaries   
+
+### 70 years of Russian refugee resettlement  
+
+Less boundaries and through the lense of no boundaries. No boundaries between country borders for refugees, economically-displaced peoples, migrants, and new horizon seekers. 
+
+I found these human migration data online from the [UN Refugee Agency](https://data.world/unhcr) and being close to my own Russian heritage, I wanted to see what patterns in Russian refugee and emigration numbers emerged over the decades. The original dataset is broken up into individual years, but it looked super messy when I first mapped it, so I instead collapsed the data into decades to make for a neater map.    
  
+Notes  
+* Width of lines = decade of migration scaled relatively from 1950 to 2010    
+* Frequency of line movement = proxy for the quantity (number of refugees)   
+* Hover over the lines to view the refugee migration numbers for that country 
+* Zoom and tilt (hold CMD/CTRL) around the map to explore   
+
+### [Click for full interactive map](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/day23.html)           
+(Best viewed in Safari and full screen)       
+     
+![day23](30daymap2020/day23_1.jpg)             
+<br>  
+
+![day23](30daymap2020/day23_2.jpg)             
+<br>  
+
+![day23](30daymap2020/day23_3.jpg)             
+<br>  
+
+![day23](30daymap2020/day23_4.jpg)             
+<br>  
+  
+### Tools     
+  
+R             
+Mapbox  
+```r 
+pacman::p_load(here,dplyr,rworldmap,mapdeck,sf,sfheaders,data.table,readr,rgeos,purrr,stringr,ggthemes,showtext,geosphere,htmlwidgets)
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+### Data  
+[UN Refugee Agency](https://data.world/unhcr)    
 
 ******  
 
