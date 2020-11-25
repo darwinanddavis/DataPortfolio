@@ -15,7 +15,7 @@ permalink: /spatial/
 
 ### People    
 
-**Matt Malishev**     
+Matt Malishev       
 
 ### Tasks  
 
@@ -202,7 +202,7 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 
 ### People    
 
-**Matt Malishev**     
+Matt Malishev      
 
 ### Tasks     
 
@@ -645,7 +645,7 @@ pacman::p_load(shiny,shinythemes,dplyr,here,leaflet,rgdal,sp,sf,raster,colorspac
 
 ### People    
 
-**Matt Malishev**     
+Matt Malishev
 
 ### Tasks  
 
@@ -653,9 +653,9 @@ An excuse to dive into the vault of maps I never bothered to post at the time of
 
 ### Outcomes  
 
-[Check out the #30DayMapChallenge 2020 page](./30daymapchallenge.md) for my entries.              
+### [Check out the #30DayMapChallenge 2020 page](./30daymapchallenge.md) for my entries.              
 
-![30day](spatial/30day.jpg)       
+![day10m](30daymap2020/day10.jpg)                
 
 
 ******      
@@ -668,7 +668,7 @@ An excuse to dive into the vault of maps I never bothered to post at the time of
 
 ### People    
 
-**Matt Malishev**     
+Matt Malishev     
 
 ### Tasks
 
@@ -705,7 +705,7 @@ Global cases in last 15 days
 
 ### People  
 
-**Matt Malishev**       
+Matt Malishev        
 
 ### Tasks
 
