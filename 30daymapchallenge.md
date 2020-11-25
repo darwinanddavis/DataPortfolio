@@ -489,7 +489,7 @@ Saalfeld W. K., Edwards G. P. (2010) Distribution and abundance of the feral cam
 
 More of a take on no boundaries through the lense of no boundaries between country borders for refugees, economically-displaced peoples, migrants, and new horizon seekers.   
 
-I found these human migration data online from the [UN Refugee Agency](https://data.world/unhcr) and being close to my own Russian heritage, I wanted to see what patterns in Russian refugee and emigration numbers emerged over the decades. The original dataset is broken up into individual years, but it looked super messy when I first mapped it, so I instead collapsed the data into decades to make for a neater map.    
+I found these human migration data online from the [UN Refugee Agency](https://data.world/unhcr) and being close to my own Russian heritage, I wanted to see what patterns in Russian refugee and emigration numbers emerged over the decades. The data span 1950 to 2017. The original dataset is broken up into individual years, but it looked super messy when I first mapped it, so I instead collapsed the data into decades to create a neater design.      
  
 Notes  
 * Width of lines = decade of migration scaled relatively from 1950 to 2010    

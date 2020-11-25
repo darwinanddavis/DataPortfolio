@@ -193,6 +193,174 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 ### Data      
 [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)    
 
+<!--  project break__________________________________________________________________________________________  -->
+
+******  
+
+<br>
+## ### 70 years of Russian refugee resettlement    
+
+### People    
+
+Matt Malishev       
+
+### Tasks  
+
+* Map global emigration pathways to show patterns in space and time  
+* Use animated arcs to capture data variables visually  
+
+I found these human migration data online from the [UN Refugee Agency](https://data.world/unhcr) and being close to my own Russian heritage, I wanted to see what patterns in Russian refugee and emigration numbers emerged over the decades. The data span 1950 to 2017. The original dataset is broken up into individual years, but it looked super messy when I first mapped it, so I instead collapsed the data into decades to create a neater design.    
+
+Notes    
+* Width of lines = decade of migration scaled relatively from 1950 to 2010    
+* Frequency of line movement = proxy for the quantity (number of refugees)   
+* Hover over the lines to view the refugee migration numbers for that country 
+* Zoom and tilt (hold CMD/CTRL) around the map to explore   
+
+### Outcomes    
+
+### [Click for full interactive map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day23)  
+(Best viewed in Safari and full screen)         
+     
+![day23](30daymap2020/day23_1.jpg)             
+<br>  
+
+![day23](30daymap2020/day23_2.jpg)             
+<br>  
+
+![day23](30daymap2020/day23_3.jpg)             
+<br>  
+
+![day23](30daymap2020/day23_4.jpg)             
+<br>  
+  
+### Process  
+ 
+Full code found in the link below.   
+
+Load packages and data     
+```r
+# pkgs 
+pacman::p_load(here,dplyr,rworldmap,mapdeck,sf,sfheaders,data.table,readr,rgeos,purrr,stringr,ggthemes,showtext,geosphere,htmlwidgets)
+
+# data 
+rus <- "https://query.data.world/s/5mx46siuiq62l6y4m6che6ute47iys" %>% read_csv(trim_ws = T,skip = 1)
+rus <- rus %>% select(c(1,3,4)) %>% 
+  rename("Country" = 1,"Year" = 2,"Number" = 3) %>% 
+  mutate_at(vars(Number), funs(as.numeric(Number))) # convert to num
+rus <- rus[complete.cases(rus),]
+```
+
+After getting latlon coords for destinations, collapse the time component into decades    
+```r
+# summarise df
+rusdf <- rusdf %>% mutate_at(vars(Year), funs(
+  case_when(Year %>% str_detect("195") ~ 1950, # collapse years 
+            Year %>% str_detect("196") ~ 1960,
+            Year %>% str_detect("197") ~ 1970,
+            Year %>% str_detect("198") ~ 1980,
+            Year %>% str_detect("199") ~ 1990,
+            Year %>% str_detect("200") ~ 2000,
+            Year %>% str_detect("201") ~ 2010
+  ))) %>% 
+  group_by(Country,Year,Lon,Lat,oLon,oLat) %>% # create new df
+  summarise_at(vars(Number), funs(Number %>% sum)) %>% # get summed n
+  arrange(Year) 
+```
+
+Define the map variables to show visually. 
+* Width of lines = decade of migration scaled relatively from 1950 to 2010      
+* Frequency of line movement = proxy for the quantity (number of refugees)     
+
+```r
+# add map vars to df
+v1 <- "Country" # var for colvec 
+v2 <- "Year" # var for stroke 
+colv <- sequential_hcl(rusdf[,v1] %>% unique %>% lengths,"Burg")
+stroke <- seq_along(rusdf[,v2] %>% unique %>% unlist)
+cc <- data.frame(colv,rusdf[,v1] %>% unique) # create unique dfs 
+ss <- data.frame(stroke,rusdf[,v2] %>% unique)
+colnames(cc) <- c("Colour",v1)
+colnames(ss) <- c("Stroke",v2)
+rusdf <- merge(rusdf,cc,by=v1) # match colours to cc
+rusdf <- merge(rusdf,ss,by=v2) # match stroke to ss
+# height <- rnorm(rusdf %>% nrow,1,0.2) # scatter height 
+height <- rusdf$Stroke/10 # stagger height
+freq <- rusdf$Number/500 # lag
+```
+
+Create map style elements and build map
+
+```r
+my_style <- "mapbox://styles/darwinanddavis/ckhxh9u580u8819noa3ucl3q1" # style  
+my_style_public <- "https://api.mapbox.com/styles/v1/darwinanddavis/ckhxh9u580u8819noa3ucl3q1.html?fresh=true&title=copy&access_token="
+ttl <- paste("70 years of\nRussian refugee\nresettlement") 
+subttl <- paste0("___________________ \n",
+                 "Width = Decade \n  ",
+                 "Frequency = No. of refugees \n")
+dttl <- "UN Refugee Agency" 
+durl <- "https://data.world/unhcr"
+colvl <- colv[1] # link col
+
+# map
+mapdeck(
+  location = c(rusdf$Lon[1],rusdf$Lat[1]),
+  zoom = zoom,
+  style = my_style
+) %>% 
+  add_animated_arc(data = rusdf,
+                   layer_id = "year",
+                   origin = c("oLon","oLat"),
+                   destination = c("Lon","Lat"),
+                   stroke_from = "Colour",
+                   stroke_to = "Colour",
+                   stroke_width = "Stroke",
+                   frequency = "Freq",
+                   height = "Height",
+                   animation_speed = s,
+                   trail_length = tl,
+                   tilt = ti,
+                   update_view = F, focus_layer = T,
+                   auto_highlight = T,
+                   highlight_colour = "#000000E6",
+                   tooltip = "Label",
+                   legend = F
+  ) %>% add_text(data=main,lat = "Y", lon = "X",
+                 text = "title", layer_id = "m1",
+                 alignment_baseline = "top",anchor = "start",
+                 fill_colour = colvl,
+                 size = "size", # angle = "angle",
+                 billboard = F,update_view = F,
+                 font_weight = "bold",
+                 font_family = family
+  ) %>%
+  add_text(data=main2,lat = "Y", lon = "X",
+           text = "title", layer_id = "m2",
+           alignment_baseline = "top",anchor = "start",
+           fill_colour = colvl,
+           size = "size", #angle = "angle",
+           billboard = F,update_view = F,
+           font_family = family
+  ) %>%
+  add_title(title = title_text,layer_id = "heading") %>% 
+  htmlwidgets::saveWidget(here::here("worldmaps","30daymap2020","day23.html"))
+
+```
+
+### Tools     
+  
+R             
+Mapbox  
+```r 
+pacman::p_load(here,dplyr,rworldmap,mapdeck,sf,sfheaders,data.table,readr,rgeos,purrr,stringr,ggthemes,showtext,geosphere,htmlwidgets)
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+### Data  
+[UN Refugee Agency](https://data.world/unhcr)    
+
 ******    
 
 <!--  project break__________________________________________________________________________________________  -->
