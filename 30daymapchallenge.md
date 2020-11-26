@@ -316,7 +316,7 @@ West of city, facing SE. Low canopy or young long-lived species lining the Dockl
 ![day113](30daymap2020/day11_3.jpg)   
 <br>
 
-North of city, facing SSE. Royal Park remains open and free of tall species. The larger, open green space is Melbourne Zoo and the National State and Hocket Centre. The bottom right pocket dominated by low canopy or young long-lived species may be due to the type of soil or bedrock adjacent to Moonee Ponds Creek.   
+North of city, facing SSE. Royal Park remains open and free of tall species. The larger, open green space is Melbourne Zoo and the National State and Hockey Centre. The bottom right pocket dominated by low canopy or young long-lived species may be due to the type of soil or bedrock adjacent to Moonee Ponds Creek.   
 
 ![day114](30daymap2020/day11_4.jpg)   
 <br>
