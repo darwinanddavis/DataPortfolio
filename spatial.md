@@ -911,7 +911,7 @@ C. Michael Bull, Flinders University, Australia
 
 * Built a spatial and bioenergetic simulation model for animal dispersal and movement integrated with weather, microclimate, LIDAR, and geolocation data.         
 * Developed a simulation framework grounded in metabolic theory of energy and mass exchange.           
-
+ 
 ### Outcomes
 
 _Research_  
