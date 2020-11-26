@@ -492,10 +492,11 @@ More of a take on no boundaries through the lense of no boundaries between count
 I found these human migration data online from the [UN Refugee Agency](https://data.world/unhcr) and being close to my own Russian heritage, I wanted to see what patterns in Russian refugee and emigration numbers emerged over the decades. The data span 1950 to 2017. The original dataset is broken up into individual years, but it looked super messy when I first mapped it, so I instead collapsed the data into decades to create a neater design.      
  
 Notes  
-* Width of lines = decade of migration scaled relatively from 1950 to 2010    
-* Frequency of line movement = proxy for the quantity (number of refugees)   
+* Width of lines = decade of migration scaled relatively from 1950s to 2010s        
+* Frequency of line movement = proxy for the quantity (number of refugees)     
 * Hover over the lines to view the refugee migration numbers for that country 
 * Zoom and tilt (hold CMD/CTRL) around the map to explore   
+
 
 ### [Click for full interactive map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day23)  
 (Best viewed in Safari and full screen)       

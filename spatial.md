@@ -198,7 +198,7 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 ******  
 
 <br>
-## ### 70 years of Russian refugee resettlement    
+### 70 years of Russian refugee resettlement      
 
 ### People    
 
@@ -207,12 +207,12 @@ Matt Malishev
 ### Tasks  
 
 * Map global emigration pathways to show patterns in space and time  
-* Use animated arcs to capture data variables visually  
+* Use animated arcs to capture data variables visually in Mapbox    
 
 I found these human migration data online from the [UN Refugee Agency](https://data.world/unhcr) and being close to my own Russian heritage, I wanted to see what patterns in Russian refugee and emigration numbers emerged over the decades. The data span 1950 to 2017. The original dataset is broken up into individual years, but it looked super messy when I first mapped it, so I instead collapsed the data into decades to create a neater design.    
 
 Notes    
-* Width of lines = decade of migration scaled relatively from 1950 to 2010    
+* Width of lines = decade of migration scaled relatively from 1950s to 2010s    
 * Frequency of line movement = proxy for the quantity (number of refugees)   
 * Hover over the lines to view the refugee migration numbers for that country 
 * Zoom and tilt (hold CMD/CTRL) around the map to explore   
@@ -284,12 +284,11 @@ colnames(cc) <- c("Colour",v1)
 colnames(ss) <- c("Stroke",v2)
 rusdf <- merge(rusdf,cc,by=v1) # match colours to cc
 rusdf <- merge(rusdf,ss,by=v2) # match stroke to ss
-# height <- rnorm(rusdf %>% nrow,1,0.2) # scatter height 
 height <- rusdf$Stroke/10 # stagger height
 freq <- rusdf$Number/500 # lag
 ```
 
-Create map style elements and build map
+Create Mapbox style elements and build map
 
 ```r
 my_style <- "mapbox://styles/darwinanddavis/ckhxh9u580u8819noa3ucl3q1" # style  
