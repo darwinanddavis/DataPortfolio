@@ -29,11 +29,11 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-11-13 20:53:05 AEDT_                   
+_Last updated: 2020-11-26 23:26:47 AEDT_                   
 
-Map series for the #30dayMapChallenge on Twitter for November 2020.    
+Mapping 70 years of Russian refugee resettlement    
 
-[30 Day Map Challenge](./30daymapchallenge.md)    
+[Check out project](./spatial.md)    
 
 <!-- Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
