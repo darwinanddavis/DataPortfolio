@@ -540,7 +540,7 @@ pacman::p_load(here,dplyr,rworldmap,mapdeck,sf,sfheaders,data.table,readr,rgeos,
 
 I've been meaning to dive into Framer ever since I watched a webinar a few months ago. It's really fun and intuitive. You can integrate Mapbox's features and preload data using imported tilesets, then prototype the interface in Framer.
 
-Lots of things to map for a first project, so here are biking directions from Framer HQ in Amsterdam to my favourite brewery.   
+Lots of things to map for a first project, so here are biking directions from Framer HQ in Amsterdam to my favourite brewery modelled on an iPhone 11.      
 
 ### [Click for interactive mobile prototype](https://framer.com/share/day26--gX1W1or5rDdqG3Rm93n2/ajGqv8pI7?fullscreen=1)       
      
@@ -551,10 +551,11 @@ If you don't know what Framer is, it's a prototyping tool. Tons of features, int
 
 Here's the process:  
 
-* Import the directional KML data into Mapbox Studio  
+* Import the geolocation KML data and create a tileset in Mapbox Studio  
 * Design the map in Mapbox Studio  
-* Link the Mapbox API into Framer and use features such as SequentialLocationMap from the Mapbox components package
-* Design the interface (layout, transitions, buttons, etc) in Framer using an iPhone 11 as a template    
+* In Framer, link the Mapbox API and use features from the Mapbox components package, such as `SequentialLocationMap` 
+* Design the interface, including layout, transitions, buttons, icons, colour palettes, in Framer using any device/media interface as a template    
+* Share the project with collaborators    
 
 The cool thing is you can open the prototype on your own mobile and use regular gestures to navigate the interface.  
 
