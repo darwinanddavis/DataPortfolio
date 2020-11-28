@@ -547,17 +547,17 @@ Lots of things to map for a first project, so here are biking directions from Fr
 ![day26](30daymap2020/day26_1.jpg)               
 <br>  
 
-If you don't know what Framer is, it's a prototyping tool. Tons of features, interactions, device platforms, graphics, icon sets.  
+If you're unfamiliar with Framer, it's a prototyping tool. Tons of features, interactions, device platforms, graphics, and icon sets.   
 
-Here's the process:  
+Here's the process for this project.    
 
 * Import the geolocation KML data and create a tileset in Mapbox Studio  
 * Design the map in Mapbox Studio  
-* In Framer, link the Mapbox API and use features from the Mapbox components package, such as `SequentialLocationMap` 
-* Design the interface, including layout, transitions, buttons, icons, colour palettes, in Framer using any device/media interface as a template    
+* In Framer, link the Mapbox API and apply features from the Mapbox components package, such as `SequentialLocationMap`   
+* Design the interface, including layout, buttons, transitions, icons, and colour palettes, in Framer using any device/media interface as a template      
 * Share the project with collaborators    
 
-The cool thing is you can open the prototype on your own mobile and use regular gestures to navigate the interface.  
+One cool aspect is you can open the prototype on your own mobile and use regular gestures to navigate the interface.    
 
 ![day261](30daymap2020/day26_flow.jpg)             
 <br>  
@@ -571,6 +571,11 @@ The cool thing is you can open the prototype on your own mobile and use regular 
 ![day263](30daymap2020/day26_4.jpg)             
 <br>  
   
+From here, it's pretty simple to switch to different device skins, as well as integrate a newly created design and palette from Mapbox Studio.       
+
+![day265](30daymap2020/day26_5.jpg) ![day264](30daymap2020/day26_6.jpg)             
+<br>    
+
 ### Tools     
   
 Framer  

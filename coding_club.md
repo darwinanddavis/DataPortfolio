@@ -9,7 +9,61 @@ permalink: /coding_club/
 
 ![](coding_club_header.png)  
 
-******    
+******  
+
+<br>
+
+## Prototyping with Framer using Mapbox APIs    
+
+I've been meaning to dive into Framer ever since I watched a webinar a few months ago. It's really fun and intuitive. You can integrate Mapbox's features and preload data using imported tilesets, then prototype the interface in Framer.
+
+As a fun project, here are biking directions from Framer HQ (I think) in Amsterdam to my favourite brewery Brouwerij 't IJ.        
+
+### [Click for interactive mobile prototype](https://framer.com/share/day26--gX1W1or5rDdqG3Rm93n2/ajGqv8pI7?fullscreen=1)       
+     
+![day26](30daymap2020/day26_1.jpg)                 
+<br>  
+
+If you're unfamiliar with Framer, it's a prototyping tool. Tons of features, interactions, device platforms, graphics, and icon sets.   
+
+Here's the process for this project.      
+
+* Import the geolocation KML data and create a tileset in Mapbox Studio  
+* Design the map in Mapbox Studio  
+* In Framer, link the Mapbox API and apply features from the Mapbox components package, such as `SequentialLocationMap`   
+* Design the interface, including layout, buttons, transitions, icons, and colour palettes, in Framer using any device/media interface as a template      
+* Share the project with collaborators    
+
+### Mobile
+
+One cool aspect is you can open the prototype on your own mobile and use regular gestures to navigate the interface.    
+![day261](30daymap2020/day26_flow.jpg)             
+<br>  
+
+![day262](30daymap2020/day26_2.jpg)             
+<br>  
+
+![day263](30daymap2020/day26_3.jpg)             
+<br>  
+
+![day264](30daymap2020/day26_4.jpg)             
+<br>  
+
+
+From here, it's pretty simple to switch to different device skins, as well as integrate a newly created design and palette from Mapbox Studio.    
+
+![day265](30daymap2020/day26_5.jpg) ![day264](30daymap2020/day26_6.jpg)             
+<br>  
+  
+### Tools     
+  
+Framer  
+Mapbox    
+    
+### Links            
+[Framer](https://www.framer.com/)            
+
+******  
   
 <br>
 ## Interactive trivia site for the Netflix series DARK       
