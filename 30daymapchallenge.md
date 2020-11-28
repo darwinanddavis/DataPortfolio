@@ -559,6 +559,9 @@ Here's the process:
 
 The cool thing is you can open the prototype on your own mobile and use regular gestures to navigate the interface.  
 
+![day261](30daymap2020/day26_flow.jpg)             
+<br>  
+
 ![day261](30daymap2020/day26_2.jpg)             
 <br>  
 
