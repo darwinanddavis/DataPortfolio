@@ -540,7 +540,7 @@ pacman::p_load(here,dplyr,rworldmap,mapdeck,sf,sfheaders,data.table,readr,rgeos,
 
 I've been meaning to dive into Framer ever since I watched a webinar a few months ago. It's really fun and intuitive. You can integrate Mapbox's features and preload data using imported tilesets, then prototype the interface in Framer.
 
-Lots of things to map for a first project, so here are biking directions from Framer HQ in Amsterdam to my favourite brewery modelled on an iPhone 11.      
+As a toy project, here are biking directions from Framer HQ (I think) in Amsterdam to my favourite brewery, Brouwerij 't IJ, modelled on an iPhone 11.        
 
 ### [Click for interactive mobile prototype](https://framer.com/share/day26--gX1W1or5rDdqG3Rm93n2/ajGqv8pI7?fullscreen=1)       
      

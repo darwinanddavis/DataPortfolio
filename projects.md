@@ -21,7 +21,7 @@ permalink: /projects/
   
 ******    
 
-![](coding_club/cc2.jpg)  
+![](30daymap2020/day26_flow.jpg)               
   
 <br>  
 

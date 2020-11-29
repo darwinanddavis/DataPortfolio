@@ -12,12 +12,26 @@ permalink: /coding_club/
 ******  
 
 <br>
+## Prototyping with Framer using Mapbox APIs      
 
-## Prototyping with Framer using Mapbox APIs    
+### Location  
+
+Melbourne, Australia  
+
+### People  
+
+**Matt Malishev**  
+
+### Tasks    
+
+* Build a geolocation mapping prototype in Framer for a mobile device  
+* Use Mapbox APIs to link data, tilesets, and styles from Mapbox Studio for the design              
+
+### Outcomes  
 
 I've been meaning to dive into Framer ever since I watched a webinar a few months ago. It's really fun and intuitive. You can integrate Mapbox's features and preload data using imported tilesets, then prototype the interface in Framer.
 
-As a fun project, here are biking directions from Framer HQ (I think) in Amsterdam to my favourite brewery Brouwerij 't IJ.        
+As a toy project, here are biking directions from Framer HQ (I think) in Amsterdam to my favourite brewery Brouwerij 't IJ.        
 
 ### [Click for interactive mobile prototype](https://framer.com/share/day26--gX1W1or5rDdqG3Rm93n2/ajGqv8pI7?fullscreen=1)       
      
@@ -79,8 +93,7 @@ Nicole Malishev
 
 ### Tasks    
 
-* Make an online and interactive trivia quiz for the Netflix series DARK  
-
+* Make an online and interactive trivia quiz for the Netflix series DARK    
 
 ### Outcomes  
 
