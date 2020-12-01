@@ -529,6 +529,37 @@ pacman::p_load(here,dplyr,rworldmap,mapdeck,sf,sfheaders,data.table,readr,rgeos,
 
 ******  
 
+<br>
+<a id="day25"></a>  
+[](#day25)  
+# Day 25: COVID19  
+
+### Realtime interactive map of COVID19 coronavirus global distribution  
+
+Create an interactive map of COVID19 coronavirus global distribution using live webscraped [data from the European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases).     
+
+### [Click for interactive map](https://darwinanddavis.github.io/worldmaps/coronavirus.html)              
+
+![coronavirus](spatial/spatial8.jpg)      
+
+### Tools     
+  
+R             
+Leaflet   
+HTML   
+CSS  
+```r 
+pacman::p_load(maps,dplyr,leaflet,xml2,rvest,ggmap,geosphere,htmltools,mapview,purrr,rworldmap,rgeos,stringr,here,htmlwidgets,readxl,httr,readr,stringi)  
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+
+### Data  
+[European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases).       
+ 
+<!--  project break__________________________________________________________________________________________  -->
+  
 ******  
 
 <br>
@@ -586,6 +617,51 @@ Mapbox
 
 ******  
 
+<!--  project break__________________________________________________________________________________________  -->
+
+<br>
+<a id="day30"></a>  
+[](#day30)  
+# Day 30: A map
+
+### Mapping and analysing Airbnb’s global property listings          
+
+Part of a larger project I recently finished. The aim was to create a web app that mimics that Airbnb site, but uses data analysis to map available listings to comapre cities around the world based on user criteria rather than simply listing price and availability.  
+
+[Check out the project page](https://darwinanddavis.github.io/DataPortfolio/spatial/#airbnb) for the full writeup.            
+
+### [Launch Shiny app](https://darwinanddavis.shinyapps.io/airbnb/)          
+
+![](spatial/airbnb/a0.jpg)               
+<br>    
+
+**Example outputs**  
+     
+Sydney, Australia. Security deposit, 2 bedrooms, $100–$1000 p/n    
+![](spatial/airbnb/a1.jpg)               
+
+Istanbul, Turkey  
+![](spatial/airbnb/a8.jpg)             
+<br>  
+  
+### Tools     
+  
+R
+Shiny               
+Leaflet  
+HTML  
+CSS  
+```{r}    
+pacman::p_load(shiny,shinythemes,dplyr,here,leaflet,rgdal,sp,sf,raster,colorspace,mapdata,ggmap,jpeg)  
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/shiny/airbnb)          
+
+### Data  
+[Inside Airbnb](http://insideairbnb.com/get-the-data.html) open data      
+   
+******     
 
 
 <br>

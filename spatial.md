@@ -659,6 +659,8 @@ pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,
 <!--  project break__________________________________________________________________________________________  -->
 
 <br>
+<a id="airbnb"></a>  
+[](#airbnb)  
 ## Mapping and analysing Airbnb’s global property listings      
 
 ### People    
