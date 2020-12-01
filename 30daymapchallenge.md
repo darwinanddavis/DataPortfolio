@@ -626,7 +626,7 @@ Mapbox
 
 ### Mapping and analysing Airbnb’s global property listings          
 
-Part of a larger project I recently finished. The aim was to create a web app that mimics that Airbnb site, but uses data analysis to map available listings to comapre cities around the world based on user criteria rather than simply listing price and availability.  
+An R Shiny app exploring spatial patterns in Airbnb listings to compare property listing criteria around the world. Part of a larger project I recently finished. The aim was to create a web app that mimics that Airbnb site, but uses data analysis to map available listings to comapre cities around the world based on user criteria rather than simply listing price and availability.  
 
 [Check out the project page](https://darwinanddavis.github.io/DataPortfolio/spatial/#airbnb) for the full writeup.            
 
