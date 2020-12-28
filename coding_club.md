@@ -20,7 +20,7 @@ Melbourne, Australia
 
 ### People  
 
-**Matt Malishev**  
+Matt Malishev  
 
 ### Tasks    
 

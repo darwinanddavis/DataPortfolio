@@ -197,7 +197,7 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 
 ******  
 
-<br>
+<br>  
 ## 70 years of Russian refugee resettlement         
 
 ### People    

@@ -542,6 +542,18 @@ Create an interactive map of COVID19 coronavirus global distribution using live 
 
 ![coronavirus](spatial/spatial8.jpg)      
 
+Global cases (plus cases ranked)   
+![](spatial/cv/cv1.jpg)               
+<br>  
+
+Global deaths (plus deaths ranked)   
+![](spatial/cv/cv2.jpg)               
+<br>  
+  
+Global cases in last 15 days     
+![](spatial/cv/cv3.jpg)               
+<br>  
+
 ### Tools     
   
 R             
