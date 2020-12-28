@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Works in progress      
 
-![](img/qlh.jpg)   
+![](img/qlh.png)   
 
 <!--  project break__________________________________________________________________________________________  -->
 
