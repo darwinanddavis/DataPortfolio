@@ -30,11 +30,11 @@
 	Latest post
 </p>     
 
-_Last updated: 2020-11-26 23:26:47 AEDT_                   
+_Last updated: 2020-12-06 23:26:47 AEDT_                   
 
-Mapping 70 years of Russian refugee resettlement    
+Prototyping with Framer using Mapbox APIs  
 
-[Check out project](./spatial.md)    
+[Check out project](./coding_club.md)    
 
 <!-- Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 

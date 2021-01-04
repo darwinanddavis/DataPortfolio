@@ -62,7 +62,7 @@ Malishev M & Kearney MR Individual Dynamic Energy Budget Movement (IDEBM) model
 Individual Dynamic Energy Budget Movement (IDEBM) model with body mass constraints   
 [Model code](https://github.com/darwinanddavis/adultjuv)             
   
-## Presentations             
+## Workshops               
 
 'Using git for research and life' [workshop material](https://github.com/darwinanddavis/githubpres)        
 
