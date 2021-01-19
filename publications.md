@@ -24,6 +24,8 @@ permalink: /publications/
 
 **Malishev M** & Civitello DJ. When should we expect predator biocontrol of human schistosomes to backfire? _In review._ [doi: 10.22541/au.159363335.59711205](https://www.authorea.com/users/151128/articles/465169-when-should-we-expect-predator-biocontrol-of-human-schistosomes-to-backfire?commit=322f091742e2adfdd4d3b9abd16123afdf17d92d).         
 
+Koltz AM, Civitello DJ, Becker DJ, Deem SL, Classen AT, Barton BT, Brenn-White M, Johnson ZE, Kutz S, **Malishev M**,  Preston DL, Vannatta JT, Penczykowski RM^ & Ezenwa VO^. Parasitic infections by helminths have sublethal effects on free-living ruminant hosts with cascading consequences for ecosystems. _In prep._   
+
 **Malishev M** & Kramer-Schadt S (2021) Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement outcomes across scales. _Ecological Modelling,_ 441: 109413. [https://doi.org/10.1016/j.ecolmodel.2020.109413](https://doi.org/10.1016/j.ecolmodel.2020.109413).    
   
 Ezenwa VO, Civitello DJ, Barton BT^, Becker DJ^, Brenn-White M^, Classen AT^, Deem SL^, Johnson ZE^, Kutz S^, **Malishev M^**, Penczykowski RM^, Preston DL^, Vannatta JT^ & Koltz AM (2020) Infectious diseases, livestock, and climate: a vicious cycle? _Trends in Ecology and Evolution,_ 35(11): P959-962 [https://doi.org/10.1016/j.tree.2020.08.012](https://doi.org/10.1016/j.tree.2020.08.012).  
