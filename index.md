@@ -30,7 +30,7 @@
 	Topics
 </p>     
 
-data, analysis, rstats, models, research, opensci, maps, rmarkdown, workshops, shiny, publications, workflow, coding club, software    
+data analysis, data viz, rstats, models, research, opensci, maps, API, spatial, rmarkdown, workshops, shiny, publications, workflow, coding club, software    
 
 
 <br>   
