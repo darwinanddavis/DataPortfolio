@@ -27,6 +27,19 @@
 <br>  
 
 <p style="color: #FF7E7E; font-size:150%">
+	Topics
+</p>     
+
+data, analysis, rstats, models, research, opensci, maps, rmarkdown, workshops, shiny, publications, workflow, coding club, software    
+
+
+<br>   
+  
+******   
+
+<br>  
+
+<p style="color: #FF7E7E; font-size:150%">
 	Latest post
 </p>     
 
