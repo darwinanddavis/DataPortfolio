@@ -41,11 +41,9 @@ data analysis, data viz, rstats, models, research, opensci, maps, API, spatial, 
 
 <p style="color: #FF7E7E; font-size:150%">
 	Latest post
-</p>     
+</p>                    
 
-_Last updated: 2020-12-06 23:26:47 AEDT_                   
-
-Prototyping with Framer using Mapbox APIs  
+Prototyping with Framer using Mapbox APIs    
 
 [Check out project](./coding_club.md)    
 
