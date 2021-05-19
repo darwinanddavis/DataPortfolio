@@ -197,6 +197,102 @@ pacman::p_load(here,mapdeck,dplyr,purrr,readr,showtext,stringr,colorspace,htmlto
 
 ******  
 
+<br>
+<a id="airbnb"></a>  
+[](#airbnb)  
+## Mapping and analysing Airbnb’s global property listings      
+
+### People    
+
+Matt Malishev    
+
+### Tasks
+
+* Build a web app with RShiny that maps property listings from open Airbnb data based on user experience categories    
+* Build a UI that compares property criteria among cities around the world              
+* Create an automated script that updates listings with newly available data     
+
+Inside Airbnb has open Airbnb listing data for cities around the world. The datasets contain latlon location, listing details, urls to the listing on Airbnb, price, bedrooms, ratings for multiple categories, such as cleanliness and communication, plus a suite of criteria based on what users may seek when looking for booking a listing.       
+
+My aim was to create a web app that mimics that Airbnb site, but uses data analysis to map available listings to comapre cities around the world based on user criteria rather than simply listing price and availability.         
+  
+The criteria users can select to compare among cities  
+
+* Bed type    
+* Room type    
+* Property type  
+* Bathrooms       
+* Cancellation policy  
+* Reviews per month  
+* Review scores rating  
+* Security deposit  
+* Cleaning fee   
+* Accommodates (no. of people)     
+
+For example, you can choose a city, set a price range, set number of bedrooms, then choose to map available listings based on cancellation policy. The app will plot listing locations, profile ID, rating info, and links to the listing on Airbnb based on the chosen criteria. You can then keep the criteria and choose another city to directly compare listings between the cities based on cancellation policy.  
+
+### [Launch Shiny app](https://darwinanddavis.shinyapps.io/airbnb/)          
+
+Example of the user interface that shows criteria to plot and compare. Users can select criteria, such as Property type, then switch between cities around the world to compare prices, location, and ratings of available listings.     
+
+![](spatial/airbnb/a0.jpg)               
+<br>    
+
+**Example outputs**  
+     
+Sydney, Australia. Security deposit, 2 bedrooms, $100–$1000 p/n    
+![](spatial/airbnb/a1.jpg)             
+<br>    
+  
+Amsterdam, Netherlands. Room type, 1 bedroom, $100–$600 p/n  
+![](spatial/airbnb/a2.jpg)             
+<br>  
+
+South Angean Islands, Greece. Cancellation policy, 1 bedroom, $200–$500 p/n    
+![](spatial/airbnb/a3.jpg)             
+<br>  
+
+Vancouver, Canada. Accommodates, 1 bedroom, $150–$1000 p/n    
+![](spatial/airbnb/a4.jpg)             
+<br>  
+
+Barcelona, Spain    
+![](spatial/airbnb/a5.jpg)             
+<br>  
+
+Copenhagen, Denmark  
+![](spatial/airbnb/a6.jpg)             
+<br>  
+
+Geneva, Switzerland  
+![](spatial/airbnb/a7.jpg)             
+<br>  
+
+Istanbul, Turkey  
+![](spatial/airbnb/a8.jpg)             
+<br>  
+  
+### Tools     
+  
+R
+Shiny               
+Leaflet  
+HTML  
+CSS  
+```{r}    
+pacman::p_load(shiny,shinythemes,dplyr,here,leaflet,rgdal,sp,sf,raster,colorspace,mapdata,ggmap,jpeg)  
+```  
+    
+### Links            
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/shiny/airbnb)          
+
+### Data  
+[Inside Airbnb](http://insideairbnb.com/get-the-data.html) open data    
+   
+<!--  project break__________________________________________________________________________________________  -->
+
+******     
+
 <br>  
 ## 70 years of Russian refugee resettlement         
 
@@ -655,102 +751,6 @@ pacman::p_load(mapdeck,readr,ggmap,dplyr,sf,sfheaders,data.table,tigris,sp,maps,
 [`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)    
 
 ******  
-
-<!--  project break__________________________________________________________________________________________  -->
-
-<br>
-<a id="airbnb"></a>  
-[](#airbnb)  
-## Mapping and analysing Airbnb’s global property listings      
-
-### People    
-
-Matt Malishev    
-
-### Tasks
-
-* Build a web app with RShiny that maps property listings from open Airbnb data based on user experience categories    
-* Build a UI that compares property criteria among cities around the world              
-* Create an automated script that updates listings with newly available data     
-
-Inside Airbnb has open Airbnb listing data for cities around the world. The datasets contain latlon location, listing details, urls to the listing on Airbnb, price, bedrooms, ratings for multiple categories, such as cleanliness and communication, plus a suite of criteria based on what users may seek when looking for booking a listing.       
-
-My aim was to create a web app that mimics that Airbnb site, but uses data analysis to map available listings to comapre cities around the world based on user criteria rather than simply listing price and availability.         
-  
-The criteria users can select to compare among cities  
-
-* Bed type    
-* Room type    
-* Property type  
-* Bathrooms       
-* Cancellation policy  
-* Reviews per month  
-* Review scores rating  
-* Security deposit  
-* Cleaning fee   
-* Accommodates (no. of people)     
-
-For example, you can choose a city, set a price range, set number of bedrooms, then choose to map available listings based on cancellation policy. The app will plot listing locations, profile ID, rating info, and links to the listing on Airbnb based on the chosen criteria. You can then keep the criteria and choose another city to directly compare listings between the cities based on cancellation policy.  
-
-### [Launch Shiny app](https://darwinanddavis.shinyapps.io/airbnb/)          
-
-Example of the user interface that shows criteria to plot and compare. Users can select criteria, such as Property type, then switch between cities around the world to compare prices, location, and ratings of available listings.     
-
-![](spatial/airbnb/a0.jpg)               
-<br>    
-
-**Example outputs**  
-     
-Sydney, Australia. Security deposit, 2 bedrooms, $100–$1000 p/n    
-![](spatial/airbnb/a1.jpg)             
-<br>    
-  
-Amsterdam, Netherlands. Room type, 1 bedroom, $100–$600 p/n  
-![](spatial/airbnb/a2.jpg)             
-<br>  
-
-South Angean Islands, Greece. Cancellation policy, 1 bedroom, $200–$500 p/n    
-![](spatial/airbnb/a3.jpg)             
-<br>  
-
-Vancouver, Canada. Accommodates, 1 bedroom, $150–$1000 p/n    
-![](spatial/airbnb/a4.jpg)             
-<br>  
-
-Barcelona, Spain    
-![](spatial/airbnb/a5.jpg)             
-<br>  
-
-Copenhagen, Denmark  
-![](spatial/airbnb/a6.jpg)             
-<br>  
-
-Geneva, Switzerland  
-![](spatial/airbnb/a7.jpg)             
-<br>  
-
-Istanbul, Turkey  
-![](spatial/airbnb/a8.jpg)             
-<br>  
-  
-### Tools     
-  
-R
-Shiny               
-Leaflet  
-HTML  
-CSS  
-```{r}    
-pacman::p_load(shiny,shinythemes,dplyr,here,leaflet,rgdal,sp,sf,raster,colorspace,mapdata,ggmap,jpeg)  
-```  
-    
-### Links            
-[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/shiny/airbnb)          
-
-### Data  
-[Inside Airbnb](http://insideairbnb.com/get-the-data.html) open data    
-   
-******     
 
 <!--  project break__________________________________________________________________________________________  -->
 
