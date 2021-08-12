@@ -21,9 +21,13 @@ permalink: /publications/
 
 ## Essays  
 
-**Malishev M** ’旅行‘ - 文化体验, 北美中文学生习作选刊, JUHE Supplement, 第17期, 2021年5月。   
+**Malishev M** *’旅行‘ - 文化体验*, 北美中文学生习作选刊, JUHE Supplement, [第17期, 2021年5月](https://asian-slavic.uiowa.edu/sites/asian-slavic.uiowa.edu/files/asll/JUHE%202021%20magazine.pdf?fbclid=IwAR2l3IaAj80mfb4RQpsY1YyFWwaItnnGiqbrQEJYkUcvQo3anXb4iIW8kLA)。     
     
-<br>   
+<!--  project break__________________________________________________________________________________________  -->
+
+******          
+    
+<br>       
      
 ## Peer review papers  
 (*Awarded article, ^Equal contribution)       
