@@ -13,12 +13,12 @@
 	</p>
 </center>
 
-### I like my data diverse, my methods (somewhat) clean, my analyses reproducible, and my outputs open access.    
+I like my data diverse, my methods (somewhat) clean, my analyses reproducible, and my outputs open access.    
 
-### I’m a computational modeller using open source programming, mapping, and my own research tools to crack diverse data analysis problems, from simulation modelling of human disease risk to spatial risk mapping.          
+I’m a computational modeller using open source programming, mapping, and my own research tools to crack diverse data analysis problems, from simulation modelling of human disease to biosecurity and spatial risk mapping. I also freelance in dataviz, data analysis, and copy-editing/proofing, teach programming and analysis in 'R', co-run a visual design studio, and dabble in e-commerce.     
 
-### The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint.         
-### Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.   
+The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint.         
+Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.   
 
 <br>   
   
@@ -30,7 +30,7 @@
 	Topics
 </p>     
 
-data analysis, data viz, rstats, models, research, opensci, maps, API, spatial, rmarkdown, workshops, shiny, publications, workflow, coding club, software    
+data analysis, data viz, rstats, models, data pipelines, research, maps, API, spatial, opensci, rmarkdown, workshops, shiny, publications, workflow, coding club, software    
 
 
 <br>   
