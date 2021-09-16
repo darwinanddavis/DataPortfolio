@@ -25,6 +25,14 @@ permalink: /projects/
   
 <br>  
 
+## [Open data/APIs](./opendata.md)          
+  
+******    
+
+![](spatial/airbnb/a8.jpg)               
+  
+<br>  
+
 ## [Disease](./disease.md)  
   
 ******    

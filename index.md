@@ -17,8 +17,8 @@ I like my data diverse, my methods (somewhat) clean, my analyses reproducible, a
 
 I’m a computational modeller using open source programming, mapping, and my own research tools to crack diverse data analysis problems, from simulation modelling of human disease to biosecurity and spatial risk mapping. I also freelance in data viz/analysis and copy-editing/proofing, teach programming in 'R', co-run a digital design studio, and dabble in e-commerce.     
 
-The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint.           
-Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.     
+The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint.             
+Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.       
 
 <br>   
   
@@ -43,9 +43,9 @@ data analysis, data viz, rstats, models, data pipelines, research, maps, API, sp
 	Latest post
 </p>                    
 
-Prototyping with Framer using Mapbox APIs    
+Dissecting Tokyo 2020 Olympics medal tally data by country and medal count per event.    
 
-[Check out project](./coding_club.md)    
+[Check out project](./opendata.md)    
 
 <!-- Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 
