@@ -30,9 +30,9 @@ Step-by-step instructions and code are detailed in the below link. All code, dat
 
 Tokyo 2020 Olympics medal tally infographic   
 
-### [Click for blog post and code](https://darwinanddavis.github.io/misc/olympics/olympics.html)              
+### [Click for writeup and code](https://darwinanddavis.github.io/misc/olympics/olympics.html)              
 
-### [View hi-res infographic](https://github.com/darwinanddavis/misc/tree/gh-pages/olympics)      
+### [View hi-res infographic](https://darwinanddavis.github.io/misc/olympics/img/olympics.pdf)      
 
 ![](opendata/olympics1.png)  
 <br>
@@ -55,10 +55,10 @@ pacman::p_load(here,rvest,xml2,dplyr,circlize,tidyr,stringr,purrr,magick,reshape
 ```  
     
 ### Links            
-[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020)        
+[`R` code](https://github.com/darwinanddavis/misc/tree/gh-pages/olympics/r)        
 
 ### Data      
-[Tokyo 2020 Olympics official website](https://www.theolympicdesign.com/olympic-design/pictograms/tokyo-2020/)      
+[Tokyo 2020 Olympics official website](https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm)      
    
 ******     
 
