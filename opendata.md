@@ -30,7 +30,7 @@ Step-by-step instructions and code are detailed in the below link. All code, dat
 
 Tokyo 2020 Olympics medal tally infographic   
 
-### [Click for writeup and code](https://darwinanddavis.github.io/misc/olympics/olympics.html)              
+### [Writeup and analysis](https://darwinanddavis.github.io/misc/olympics/olympics.html)              
 
 ### [View hi-res infographic](https://darwinanddavis.github.io/misc/olympics/img/olympics.pdf)      
 
