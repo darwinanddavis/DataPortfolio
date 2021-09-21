@@ -18,13 +18,13 @@ Matt Malishev
 
 ### Tasks  
 
-* Webscrape live medal tally data from the Tokyo Olympics site      
+* Webscrape live medal tally data from the Tokyo 2020 Olympics site      
 * Wrangle and analyse the data to create digestible datasets and generate data viz        
 * Build an infographic using the data/plots         
 
 This project uses webscraping, data analysis/viz, and plotting tools in `R` to access, wrangle, analyse, and plot Tokyo Olympics 2020 medal tally data to generate the graphics used in the below infographic.      
 
-Step-by-step instructions and code are detailed in the below link. All code, datasets, and source files are also available on [Github](https://github.com/darwinanddavis/misc/tree/gh-pages/olympics).                 
+Step-by-step instructions and code are detailed in the below link. All code, compiled datasets, and source files are also available on [Github](https://github.com/darwinanddavis/misc/tree/gh-pages/olympics).                 
 
 ### Outcomes      
 
