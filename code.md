@@ -9,7 +9,9 @@ permalink: /code/
     
 <br>     
 
-## R code         
+## R code    
+
+Chord plots and {`circlize`} `R` package ([repo](https://github.com/darwinanddavis/misc/tree/gh-pages/olympics))             
 
 Repository for my [#30DayMapChallenge](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2020) entries for 2020    
 
