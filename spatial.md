@@ -235,14 +235,13 @@ For example, you can choose a city, set a price range, set number of bedrooms, t
 
 Example of the user interface that shows criteria to plot and compare. Users can select criteria, such as Property type, then switch between cities around the world to compare prices, location, and ratings of available listings.     
 
-![](spatial/airbnb/a0.jpg)               
+<div align="center"; text-align:center>
+  <img src="img/a0.jpg", width = "100%", height = "200%">  
+</div>  
+
 <br>    
 
 **Example outputs**  
-     
-Sydney, Australia. Security deposit, 2 bedrooms, $100–$1000 p/n    
-![](spatial/airbnb/a1.jpg)             
-<br>    
   
 Amsterdam, Netherlands. Room type, 1 bedroom, $100–$600 p/n  
 ![](spatial/airbnb/a2.jpg)             
