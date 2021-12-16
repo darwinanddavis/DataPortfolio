@@ -10,6 +10,8 @@ permalink: /spatial/
 <!-- ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)   -->
 ![](spatial/spatial_header.jpg)      
 
+******        
+
 <br>
 ## Avian Airstrike: Aircraft-bird strikes across Australia (2012–2017)      
 
@@ -22,11 +24,12 @@ Matt Malishev
 * Integrate open data with R and Mapbox  
 * Wrangle data for deeper analysis using tricontour plot and hexbin heatmap  
 
-<center>
-  <img href="https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day11_1.jpeg" width = "100%" height = "25%">  
-</center>    
+![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day11_1.jpg)          
 
-### Tools   
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2021/day11)    
+(Best viewed in Safari and full screen)       
+
+### Tools     
 
 R    
 Mapbox    
@@ -56,6 +59,8 @@ Matt Malishev
 
 * Map open data from the City of Melbourne data portal on human recreational hotspots  
 * Build and integrate Mapbox Studio map design      
+
+![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day4_2.jpg)     
 
 ### Tools        
 
@@ -90,6 +95,8 @@ Matt Malishev
 * Analysis Natural Earth data to classify major biodiversity ecosystems in Brazil  
 * Apply new map projection to sf and raster data    
 
+![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day7.png)            
+
 ### Tools          
 
 R    
@@ -110,6 +117,8 @@ pacman::p_load(here,mapdeck,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlit
 <div align="center"; text-align:center>
   <img src="https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day22.png", width = "100%", height = "200%">  
 </div>  
+
+![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day22.png)    
 
 ### Tools   
 
