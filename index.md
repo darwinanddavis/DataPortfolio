@@ -44,9 +44,9 @@ data analysis, data viz, rstats, models, data pipelines, research, maps, API, sp
 	Latest post
 </p>                    
 
-Dissecting Tokyo 2020 Olympics medal tally data by country and medal count per event.    
+My First Year: Exploring daily life of a 1-year-old using [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app activity data (client project)       
 
-[Check out project](./opendata.md)    
+[Check out project](./infographics.md)    
 
 <!-- Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
 

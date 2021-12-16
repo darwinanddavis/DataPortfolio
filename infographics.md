@@ -1,13 +1,44 @@
 ---
 layout: page
-title: Open data/APIs
-permalink: /opendata/
+title: Infographics  
+permalink: /infographics/
 ---
 <a id="top"></a>
 
 ******    
 
-![](spatial/airbnb/a8.jpg)       
+![](infographics/header.jpg)    
+
+
+## My First Year: Exploring daily life of a 1-year-old using [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app activity data (client project) 
+
+### People      
+
+Matt Malishev           
+
+### Tasks    
+
+Daily life for the first year of a 1-year-old using client data from the [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app. Data covers activity time, sleeping, feeding and meal type, breast/bottle feeding, bath/play time, pee/poo activity, body temperature and medicine intake measurements, and growth over time. Client info within infographic is masked.       
+
+### [Click for full infographic](https://github.com/darwinanddavis/infographics/blob/master/myfirstyear/img/myfirstyear.pdf)       
+
+<center>
+	<img src="infographics/baby1.png" width="50%" height="100%" >
+</center>  
+<br>
+
+<br>
+
+![](infographics/baby2.png)      
+<br>
+
+![](infographics/baby3.png)      
+<br>
+
+![](infographics/baby4.png)       
+<br>  
+
+******    
 
 <br>
 ## Dissecting Tokyo 2020 Olympics medal tally data by country and medal count per event          
@@ -34,13 +65,13 @@ Tokyo 2020 Olympics medal tally infographic
 
 ### [View hi-res infographic](https://darwinanddavis.github.io/misc/olympics/img/olympics.pdf)      
 
-![](opendata/olympics1.png)  
+![](infographics/olympics1.png)  
 <br>
   
-![](opendata/olympics2.png) 
+![](infographics/olympics2.png) 
 <br>
 
-![](opendata/olympics3.png) 
+![](infographics/olympics3.png) 
 <br>
   
 ### Tools     
