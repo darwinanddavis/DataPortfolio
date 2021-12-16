@@ -31,10 +31,10 @@ Matt Malishev
 
 ### Tools     
 
-R    
-Mapbox    
-HTML  
-CSS  
+R      
+Mapbox      
+HTML    
+CSS    
   
 ### Links      
 [`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2021)   
@@ -45,11 +45,6 @@ CSS
 
 <br>
 ## Where do Melburnians eat? Exploring restaurant seating capacity per area        
-
-
-<div align="center"; text-align:center>
-  <img href="https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day4_2.jpeg", width = "100%", height = "25%">  
-</div>  
 
 ### People    
 
@@ -65,9 +60,10 @@ Matt Malishev
 ### Tools        
 
 R  
-Mapbox  
-HTML
-CSS  
+Mapbox    
+HTML  
+CSS    
+
 ```{r}    
 pacman::p_load(here,mapdeck,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlite,readr,devtools,colorspace,mapdata,ggsn,mapview,mapproj,ggthemes,reshape2,grid,rnaturalearth,rnaturalearthdata,purrr)          
 ```  
@@ -82,17 +78,13 @@ pacman::p_load(here,mapdeck,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlit
 <br>
 ## Classifying major ecoregions in Brazil        
 
-<div align="center"; text-align:center>
-  <img src="https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day7.png", width = "100%", height = "100%">  
-</div>  
-
 ### People    
 
 Matt Malishev       
 
 ### Tasks  
 
-* Analysis Natural Earth data to classify major biodiversity ecosystems in Brazil  
+* Analyse Natural Earth data to classify major biodiversity ecosystems in Brazil  
 * Apply new map projection to sf and raster data    
 
 ![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day7.png)            
@@ -113,10 +105,6 @@ pacman::p_load(here,mapdeck,dplyr,ggmap,sp,maptools,scales,rgdal,ggplot2,jsonlit
 
 <br>  
 ## The Human Lifeline        
-
-<div align="center"; text-align:center>
-  <img src="https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day22.png", width = "100%", height = "200%">  
-</div>  
 
 ![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day22.png)    
 

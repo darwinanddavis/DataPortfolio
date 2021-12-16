@@ -7,7 +7,7 @@ permalink: /infographics/
 
 ******    
 
-![](infographics/header.jpg)    
+![](infographics/header1.jpg)    
 
 ******      
 
@@ -20,12 +20,18 @@ Matt Malishev
 
 ### Tasks    
 
+* Build an printable infographic from client mobile app data        
+* Analyse and wrangle data to test different data viz and plot ideas   
+* Build code templates to easily integrate future data from app (potential for API)   
+
 Daily life for the first year of a 1-year-old using client data from the [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app. Data covers activity time, sleeping, feeding and meal type, breast/bottle feeding, bath/play time, pee/poo activity, body temperature and medicine intake measurements, and growth over time. Client info within infographic is masked.       
 
 ### [View hi-res infographic](https://github.com/darwinanddavis/infographics/blob/master/myfirstyear/img/myfirstyear.pdf)         
 
 ![](infographics/baby1.png)      
 <br>
+
+Snapshot analysis and decision making on data viz outputs when confronted with different types of data.      
 
 ![](infographics/baby2.png)      
 <br>
