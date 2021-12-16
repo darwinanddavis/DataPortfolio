@@ -22,9 +22,9 @@ Matt Malishev
 * Integrate open data with R and Mapbox  
 * Wrangle data for deeper analysis using tricontour plot and hexbin heatmap  
 
-<div align="center"; text-align:center>
-  <img href="https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day11_1.jpeg", width = "100%", height = "25%">  
-</div>  
+<center>
+  <img href="https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day11_1.jpeg" width = "100%" height = "25%">  
+</center>    
 
 ### Tools   
 

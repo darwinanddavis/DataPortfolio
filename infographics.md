@@ -9,7 +9,7 @@ permalink: /infographics/
 
 ![](infographics/header.jpg)    
 
-
+<br>
 ## My First Year: Exploring daily life of a 1-year-old using [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app activity data (client project) 
 
 ### People      
@@ -20,10 +20,10 @@ Matt Malishev
 
 Daily life for the first year of a 1-year-old using client data from the [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app. Data covers activity time, sleeping, feeding and meal type, breast/bottle feeding, bath/play time, pee/poo activity, body temperature and medicine intake measurements, and growth over time. Client info within infographic is masked.       
 
-### [Click for full infographic](https://github.com/darwinanddavis/infographics/blob/master/myfirstyear/img/myfirstyear.pdf)       
+### [View hi-res infographic](https://github.com/darwinanddavis/infographics/blob/master/myfirstyear/img/myfirstyear.pdf)         
 
 <center>
-	<img src="infographics/baby1.png" width="50%" height="100%" >
+	<img href="infographics/baby1.png" width="50%" height="100%" >
 </center>  
 <br>
 
@@ -72,6 +72,12 @@ Tokyo 2020 Olympics medal tally infographic
 <br>
 
 ![](infographics/olympics3.png) 
+<br>
+
+![](infographics/olympics4.jpg) 
+<br>
+
+![](infographics/olympics5.jpg) 
 <br>
   
 ### Tools     

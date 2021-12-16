@@ -25,7 +25,7 @@ permalink: /projects/
   
 <br>  
 
-## [Open data/APIs](./opendata.md)          
+## [Infographics](./infographics.md)            
   
 ******    
 
