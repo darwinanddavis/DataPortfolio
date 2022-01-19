@@ -13,13 +13,7 @@ permalink: /30daymapchallenge/
 
 <br>  
 
-What's the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge)? Here's the official tag taken from the website.    
-
-> A daily mapping/cartography/data visualization challenge aimed at the spatial community  
-
-The rules are pretty simple: create a map or spatial-related output using any means, as long as it's your own work and that you credit data sources. 
-
-Here were my self-inflicted challenges this year. 
+The [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge): A daily mapping/cartography/data visualization challenge aimed at the spatial, mapping, and cartography community. Here were my self-inflicted challenges this year.   
 
 * Learn something new for every project—new data, new mapping element, new map projection, etc     
 * Make data-driven maps when possible (time permitting)  

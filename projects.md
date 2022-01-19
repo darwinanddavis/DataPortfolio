@@ -29,7 +29,7 @@ permalink: /projects/
   
 ******    
 
-![](spatial/airbnb/a8.jpg)               
+![](infographics/header1.jpg)                    
   
 <br>  
 
