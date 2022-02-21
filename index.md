@@ -31,8 +31,30 @@ Hit me on any of my channels for consulting, collabs, source code, or to chat ab
 	Topics
 </p>     
 
-data analysis, data viz, rstats, models, data pipelines, research, maps, API, spatial, opensci, rmarkdown, workshops, shiny, publications, workflow, coding club, software    
+data analysis, data science, data viz, stats, models, simulations, data pipelines, dashboards, UI/UX, rstats, research, maps, geospatial, API, opensci, rmarkdown, workshops, shiny, coding club, software      
 
+ 
+<br>     
+  
+******     
+
+<br>    
+
+<div align="center">  
+<p>  
+	<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+	<img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
+	<img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white" />
+	<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+	<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+	<img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" />
+	<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+	<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  	<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  	<img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+</p>
+</div>  
 
 <br>   
   

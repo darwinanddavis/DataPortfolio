@@ -9,6 +9,16 @@ permalink: /presentations/
 
 <br>
 
+## Workshops  
+
+[Welcome to the Tidyverse: An Introduction to R for Data Science](https://web.cvent.com/event/d99160b2-4b34-4513-a001-58e0e93e13e2/summary?environment=P2) _Tech consultant_, RStudio workshop, October 14–15, 2019, Atlanta, USA (tech consultant).        
+
+[Python and version control with git](https://data-science-for-scientists-atl.github.io/2019-02-09-emory/), _Tech consultant_, Software Carpentry, Emory University, February 9–10, 2019, Atlanta, USA (tech consultant).       
+
+[DataFest2019 Hackathon](https://quantitative.emory.edu/news/datathons/datafest-2019.html) _Tech consultant_, April 5–7, 2019, Atlanta, USA.    
+
+[Using git for research and life](https://github.com/darwinanddavis/githubpres), Emory University, Atlanta, USA.        
+
 ## Presentations and invited talks    
 
 **Malishev M** (2019) Using git for research and life, Department of Biology, Emory University, USA.    
