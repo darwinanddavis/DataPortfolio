@@ -15,9 +15,9 @@ permalink: /presentations/
 
 [Python and version control with git](https://data-science-for-scientists-atl.github.io/2019-02-09-emory/), _Tech consultant_, Software Carpentry, Emory University, February 9–10, 2019, Atlanta, USA (tech consultant).       
 
-[DataFest2019 Hackathon](https://quantitative.emory.edu/news/datathons/datafest-2019.html) _Tech consultant_, April 5–7, 2019, Atlanta, USA.    
+[DataFest2019 Hackathon](https://quantitative.emory.edu/news/datathons/datafest-2019.html), _Tech consultant_, April 5–7, 2019, Atlanta, USA.    
 
-[Using git for research and life](https://github.com/darwinanddavis/githubpres), Emory University, Atlanta, USA.        
+[Using git for research and life](https://github.com/darwinanddavis/githubpres), _Instructor_, Emory University, Atlanta, USA.          
 
 ## Presentations and invited talks    
 

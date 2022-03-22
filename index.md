@@ -19,13 +19,7 @@ I’m a computational modeller using open source programming, mapping, and my ow
 
 The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint.    
 
-Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.         
-
-<br>   
-  
-******   
-
-<br>  
+Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.           
 
 <p style="color: #FF7E7E; font-size:150%">
 	Topics
@@ -33,12 +27,9 @@ Hit me on any of my channels for consulting, collabs, source code, or to chat ab
 
 data analysis, data science, data viz, stats, models, simulations, data pipelines, dashboards, UI/UX, rstats, research, maps, geospatial, API, opensci, rmarkdown, workshops, shiny, coding club, software      
 
- 
-<br>     
-  
-******     
-
-<br>    
+<p style="color: #FF7E7E; font-size:150%">
+	Tools  
+</p>     
 
 <div align="center">  
 <p>  
@@ -68,12 +59,7 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 
 My First Year: Exploring daily life of a 1-year-old using [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app activity data (client project)       
 
-[Check out project](./infographics.md)    
-
-<!-- Interactive map of COVID19 coronavirus global distribution using live webscraped data from the European Centre for Disease Prevention and Control.  
-
-### [COVID19 coronavirus global distribution map](./spatial.md)   -->         
-
+[Check out project](./infographics.md)           
   
 <br>  
 <br>  
