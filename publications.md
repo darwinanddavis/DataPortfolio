@@ -29,7 +29,7 @@ permalink: /publications/
     
 <br>       
      
-## Peer review papers  
+## Peer review research   
 (*Awarded articles, ^Equal contribution)       
 
 **Malishev M** & Civitello DJ. When should we expect predator biocontrol of human schistosomes to backfire? _In review._ [doi: 10.22541/au.159363335.59711205](https://www.authorea.com/users/151128/articles/465169-when-should-we-expect-predator-biocontrol-of-human-schistosomes-to-backfire?commit=322f091742e2adfdd4d3b9abd16123afdf17d92d).         
