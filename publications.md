@@ -34,9 +34,9 @@ permalink: /publications/
 
 **Malishev M** & Civitello DJ. When should we expect predator biocontrol of human schistosomes to backfire? _In review._ [doi: 10.22541/au.159363335.59711205](https://www.authorea.com/users/151128/articles/465169-when-should-we-expect-predator-biocontrol-of-human-schistosomes-to-backfire?commit=322f091742e2adfdd4d3b9abd16123afdf17d92d).         
 
-Koltz AM, Civitello DJ, Becker DJ, Deem SL, Classen AT, Barton BT, Brenn-White M, Johnson ZE, Kutz S, **Malishev M**,  Preston DL, Vannatta JT, Penczykowski RM^ & Ezenwa VO^ (2022) Sublethal effects of parasitism on ruminants can have cascading consequences for ecosystems. _PNAS. In press._      
+Koltz AM, Civitello DJ, Becker DJ, Deem SL, Classen AT, Barton BT, Brenn-White M, Johnson ZE, Kutz S, **Malishev M**,  Preston DL, Vannatta JT, Penczykowski RM^ & Ezenwa VO^ (2022) Sublethal effects of parasitism on ruminants can have cascading consequences for ecosystems. _PNAS,_ 119(20): e2117381119 [https://doi.org/10.1073/pnas.2117381119](https://doi.org/10.1073/pnas.2117381119).              
 
-**Malishev M** & Kramer-Schadt S (2021) Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement outcomes across scales. _Ecological Modelling,_ 441: 109413. [https://doi.org/10.1016/j.ecolmodel.2020.109413](https://doi.org/10.1016/j.ecolmodel.2020.109413).     
+**Malishev M** & Kramer-Schadt S (2021) Movement, models, and metabolism: Individual-based energy budgets as next-generation extensions for modelling animal movement outcomes across scales. _Ecological Modelling,_ 441: 109413 [https://doi.org/10.1016/j.ecolmodel.2020.109413](https://doi.org/10.1016/j.ecolmodel.2020.109413).     
 
 Ezenwa VO, Civitello DJ, Classen AT, Barton BT, Becker DJ, Brenn-White M, Deem SL, Kutz S, **Malishev M**, Penczykowski RM, Preston DL, Vannatta JT & Koltz AM (2021) Response to Charlier et al.: Climate-disease feedbacks mediated by livestock methane emissions are plausible. _Trends in Ecology and Evolution,_ S0169-5347(21): 00105-1 [https://doi.org/10.1016/j.tree.2021.04.005](https://doi.org/10.1016/j.tree.2021.04.005).          
   
@@ -116,6 +116,8 @@ Community Fundraising: 'Race Against Depression', November 2011 e-newsletter, [w
 <br>   
 
 ## Media and blog posts    
+
+Nonlethal parasites reduce how much their wild hosts eat, leading to ecosystem effects, [_The Source_](https://source.wustl.edu/2022/05/nonlethal-parasites-reduce-how-much-their-wild-hosts-eat-leading-to-ecosystem-effects/), Washington University, May 9, 2022.        
 
 Climate change has a cow and worm problem, [_The Verge_](https://www.theverge.com/21505736/climate-change-cattle-livestock-infectious-disease-methane), Oct 7, 2020.      
 
