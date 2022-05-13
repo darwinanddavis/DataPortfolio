@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <center>
-	<img src="img/mm.png" width="300" height="300" >
+	<img src="img/mmm.png" width="300" height="300" >
 	<p style="font-size:60%">
 		<!-- Calle de buena mesa, Envigado, Medellin, Colombia -->
 	</p>
