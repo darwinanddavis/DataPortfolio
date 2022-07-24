@@ -13,6 +13,46 @@ permalink: /spatial/
 ******        
 
 <br>
+## NSW flood disaster: Leveraging hi-res data and mapping to understand natural disaster events  
+
+### People    
+
+Matt Malishev     
+Visual Stories Team, The Age, Australia      
+
+### Tasks  
+
+* Combine hi-res spatial, terrain, flood, weather, hydrology, and built environment data to build a data-driven story for a major natural disaster event    
+* Use 3d terrain modelling (digital surface models) to accurately recreate the natural landscape and flooding extent       
+
+![](spatial/lismore1.png)   
+<br>   
+
+![](spatial/lismore2.png)  
+<br>
+
+![](spatial/lismore3.jpg)  
+<br>
+
+![](spatial/lismore4.png)  
+<br>
+
+### Tools     
+
+R   
+
+```{r}    
+pacman::p_load(raster,maps,sf,rnaturalearth,rayshader,mapzen)            
+```                 
+  
+### Links      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2021)   
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+<br>
 ## Avian Airstrike: Aircraft-bird strikes across Australia (2012–2017)      
 
 ### People    
@@ -27,7 +67,7 @@ Matt Malishev
 ![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day11_1.jpg)          
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2021/day11)    
-(Best viewed in Safari and full screen)       
+(Best viewed full screen; switch browsers if loading time is slow)       
 
 ### Tools     
 
@@ -149,7 +189,7 @@ Some interesting things to explore:
 Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)  
-(Best viewed in Safari and full screen)     
+(Best viewed full screen; switch browsers if loading time is slow)        
      
 ![day11](30daymap2020/day11.jpg)             
 
@@ -425,7 +465,7 @@ Notes
 ### Outcomes    
 
 ### [Click for full interactive map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day23)  
-(Best viewed in Safari and full screen)         
+(Best viewed full screen; switch browsers if loading time is slow)      
      
 ![day23](30daymap2020/day23_1.jpg)             
 <br>  
@@ -590,7 +630,7 @@ These data are really cool, so I just wanted to make use of them. Hexagons are g
 Zoom out to see the cities where I used Lyft to get around. Cities with labels contain data, sometimes only a few points.     
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)        
-(Best viewed in Safari and full screen)        
+(Best viewed full screen; switch browsers if loading time is slow)         
 
 Atlanta, USA (where I lived during this time)      
 ![day4_1](30daymap2020/day4_1.jpg) 
@@ -736,7 +776,7 @@ This map shows my favourite coffee places around the world.
 ### Outcomes  
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)   
-(Best viewed in Safari and full screen)            
+(Best viewed full screen; switch browsers if loading time is slow)            
   
 ![coffee](30daymap2020/day1.jpg)      
 

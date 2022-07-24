@@ -15,9 +15,9 @@
 
 I like my data diverse, my methods (somewhat) clean, my analyses reproducible, and my outputs open access.      
 
-I'm project manager for data and visualisation within the Visual Stories Team at The Age in Melbourne, Australia, where I apply data analysis, open source programming, dataviz, and mapping to build data-driven stories and digital content in the media landscape spanning environmental to politics to economics.     
+I'm project manager for data and visualisation within the Visual Stories Team at The Age in Melbourne, Australia, where I use data analysis/viz, open source programming, and mapping to build data-driven stories and digital content in the media landscape spanning environmental to politics to economics.     
 
-As a past research scientist and computational modeller at Emory in Atlanta, USA, and the Centre of Excellence for Biosecurity Risk Analysis, Melbourne, I worked on diverse research problems from simulation modelling of human disease to biosecurity and spatial risk mapping.   
+I'm a former research scientist and computational modeller working in simulation modelling of infectious diseases (Emory, Atlanta, USA) and energetics, biophysical ecology, biosecurity, and spatial risk mapping (Centre of Excellence for Biosecurity Risk Analysis, Melbourne, Australia).    
 
 I also freelance in data viz/analysis and copy-editing/proofing, teach programming in 'R', co-run a digital design studio, and dabble in e-commerce.       
 
@@ -59,9 +59,9 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 	Latest post
 </p>                    
 
-My First Year: Exploring daily life of a 1-year-old using [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app activity data (client project)       
+Data insight into Australia's largest flood event – Lismore NSW flood disaster, Visual Stories Team, The Age, Australia.          
 
-[Check out project](./infographics.md)           
+[Check out project](./spatial.md)           
   
 <br>  
 <br>  

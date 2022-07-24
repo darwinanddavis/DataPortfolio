@@ -13,7 +13,7 @@ permalink: /projects/
 
 ******  
 
-![](spatial/spatial_h.jpg)   
+![](spatial/spatial_h.png)   
 
 <br>  
 

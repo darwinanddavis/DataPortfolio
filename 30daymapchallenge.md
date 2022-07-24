@@ -43,7 +43,7 @@ Not an exhaustive list of places and updated regularly as I find them. The total
 * Map designed in Mapbox Studio                           
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day1)   
-(Best viewed in Safari and full screen)            
+(Best viewed full screen; switch browsers if loading time is slow)             
   
 ![coffee](30daymap2020/day1.jpg)   
 
@@ -115,7 +115,7 @@ These data are really cool, so I just wanted to make use of them. Hexagons are g
 * Georeferencing the data didn't find all locations, so some points are missing.            
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day4)        
-(Best viewed in Safari and full screen)        
+(Best viewed full screen; switch browsers if loading time is slow)    
 
 Atlanta, USA (where I lived during this time)      
 ![day4_1](30daymap2020/day4_1.jpg) 
@@ -163,7 +163,7 @@ Press the down arrow or use the up/down webpage scroll bar if the legend is chop
 
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day6)      
-(Best viewed in Safari and full screen)      
+(Best viewed full screen; switch browsers if loading time is slow)        
   
 ![day6](30daymap2020/day6.jpg) 
 <br>
@@ -293,7 +293,7 @@ Some interesting things to explore:
 Zoom and tilt (hold CMD/CTRL) around the map to explore hotspots for given trees based on height and age. Press the down arrow or use the up/down webpage scroll bar if the legend is chopped off.        
 
 ### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day11)  
-(Best viewed in Safari and full screen)     
+(Best viewed full screen; switch browsers if loading time is slow)     
      
 ![day11](30daymap2020/day11.jpg)             
 <br>  
@@ -493,7 +493,7 @@ Notes
 
 
 ### [Click for full interactive map](https://darwinanddavis.github.io/worldmaps/30daymap2020/day23)  
-(Best viewed in Safari and full screen)       
+(Best viewed full screen; switch browsers if loading time is slow)       
      
 ![day23](30daymap2020/day23_1.jpg)             
 <br>  
