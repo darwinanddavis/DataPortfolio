@@ -60,6 +60,8 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 </p>                    
 
 Data insight into Australia's largest flood event – Lismore NSW flood disaster, Visual Stories Team, The Age, Australia.          
+![](spatial/lismore1.png)      
+<br>   
 
 [Check out project](./spatial.md)           
   
