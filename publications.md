@@ -25,6 +25,43 @@ permalink: /publications/
     
 <!--  project break__________________________________________________________________________________________  -->
 
+******        
+    
+<br>   
+
+## Data visualisation and journalism       
+
+How Putin will weaponise winter, [_The Age_](https://www.theage.com.au/interactive/2022/ukraine-winter/index.html), Dec 19, 2022.     
+
+Deck the homes: Where to find the best Christmas lights in Melbourne, [_The Age_](https://www.theage.com.au/interactive/2022/melbourne-christmas-lights/index.html), Dec 9, 2022.     
+
+Where to find Sydney’s best Christmas lights, [_Sydney Morning Herald_](https://www.smh.com.au/interactive/2022/sydney-christmas-lights/index.html), Dec 9, 2022. 
+
+52 News Makers 2022, [_The Age_](https://www.theage.com.au/interactive/2022/news-makers-2022/index.html), Nov 26, 2022.        
+Swings and roundabouts: The key seats that could change hands at the state election, [_The Age_](https://www.theage.com.au/politics/victoria/swings-and-roundabouts-the-key-seats-that-could-change-hands-at-the-state-election-20221109-p5bwuo.html), Nov 15, 2022.        
+
+Find out how your neighbours voted and how your electorate has changed, [_The Age_](https://www.theage.com.au/interactive/2022/victorias-changing-electorates/stage/index.html?exp=MTY2NzM1MDgyNjUyOA==), Nov 1, 2022.          
+
+Line in the sand: How a makeshift levee divided a country town, [_Sydney Morning Herald_](https://www.smh.com.au/interactive/2022/echuca-levee/index.html), Nov 2, 2022.          
+
+Victoria distict seats to watch 2022, [_The Age_](https://www.theage.com.au/interactive/2022/seats-to-watch/index.html?resizable=true&seats=), Oct 30, 2022.            
+
+Blood gold: In Africa's gold country an Australian mining firm is embroiled in a bitter and deadly $395 million dispute, [_The Age_](https://www.theage.com.au/interactive/2022/blood-gold/index.html), Aug 25, 2022.      
+
+The return of Sydney’s seals, [_Sydney Morning Herald_](https://www.smh.com.au/interactive/2022/sydney-seals/index.html), Aug 5, 2022.        
+
+How the cost of your drive to work has changed, [_The Age_](https://www.theage.com.au/national/victoria/how-the-cost-of-your-drive-to-work-has-changed-20220714-p5b1qi.html), Jul 26, 2022.   
+
+Nikki clung to the gutter in rising floodwater for hours. A kayaker was her only hope for survival, [_Sydney Morning Herald_](https://www.smh.com.au/national/nsw/nikki-clung-to-the-gutter-in-rising-floodwater-for-hours-a-kayaker-was-her-only-hope-for-survival-20220701-p5ayc8.html), Jul 2, 2022.       
+
+Anatomy of the Lismore disaster, [_Sydney Morning Herald_](https://www.smh.com.au/interactive/2022/lismore-flooding/), Jun 30, 2022.       
+
+The traditional owners taking on NT’s billion-dollar fracking industry, [_The Age_](https://www.theage.com.au/interactive/2022/gaslighting-nt/index.html), May 19, 2022.       
+
+Gaslighting Australia, [_The Age_](https://www.theage.com.au/interactive/2022/gaslighting-australia/index.html), Apr 19, 2022.             
+
+<!--  project break__________________________________________________________________________________________  -->
+
 ******          
     
 <br>       
@@ -115,7 +152,7 @@ Community Fundraising: 'Race Against Depression', November 2011 e-newsletter, [w
     
 <br>   
 
-## Media and blog posts    
+## Marketing and blog posts    
 
 Nonlethal parasites reduce how much their wild hosts eat, leading to ecosystem effects, [_The Source_](https://source.wustl.edu/2022/05/nonlethal-parasites-reduce-how-much-their-wild-hosts-eat-leading-to-ecosystem-effects/), Washington University, May 9, 2022.        
 
