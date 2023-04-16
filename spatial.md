@@ -30,7 +30,7 @@ Rachael Dexter
 ![](spatial/melb2.png)  
 <br>
 
-![](spatial/melb3.jpg)  
+![](spatial/melb3.png)    
 <br>
 
 ![](spatial/melb4.png)  
