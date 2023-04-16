@@ -10,7 +10,50 @@ permalink: /spatial/
 <!-- ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)   -->
 ![](spatial/spatial_header.jpg)      
 
-******        
+******                
+
+<br>
+## Ten buildings that changed Melbourne while you were at home
+
+### People    
+
+Matt Malishev       
+Rachael Dexter   
+
+### Tasks  
+
+* Build a 3D cityscape using City of Melbourne open building data with Mapbox and R          
+
+![](spatial/melb1.png)   
+<br>   
+
+![](spatial/melb2.png)  
+<br>
+
+![](spatial/melb3.jpg)  
+<br>
+
+![](spatial/melb4.png)  
+<br>
+
+### Tools     
+
+R       
+Mapbox Studio    
+City of Melbourne Open Database      
+
+```{r}    
+pacman::p_load(raster,maps,sf,mapdeck,here,dplyr)              
+```                 
+  
+### Links      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2021)       
+Ten buildings that changed Melbourne while you were at home, [_The Age_](https://www.theage.com.au/national/victoria/ten-buildings-that-changed-melbourne-while-you-were-at-home-20230104-p5cabx.html), March 12, 2023.  
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
 
 <br>
 ## NSW flood disaster: Leveraging hi-res data and mapping to understand natural disaster events  
