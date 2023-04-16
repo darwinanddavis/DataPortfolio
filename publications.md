@@ -33,6 +33,8 @@ permalink: /publications/
 
 Ten buildings that changed Melbourne while you were at home, [_The Age_](https://www.theage.com.au/national/victoria/ten-buildings-that-changed-melbourne-while-you-were-at-home-20230104-p5cabx.html), March 12, 2023.       
 
+Inside Australia’s worst toxic waste dump, [_The Age_](https://www.theage.com.au/interactive/2023/kaniva/index.html), March 3, 2023.   
+
 How Putin will weaponise winter, [_The Age_](https://www.theage.com.au/interactive/2022/ukraine-winter/index.html), Dec 19, 2022.     
 
 Deck the homes: Where to find the best Christmas lights in Melbourne, [_The Age_](https://www.theage.com.au/interactive/2022/melbourne-christmas-lights/index.html), Dec 9, 2022.     
