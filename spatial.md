@@ -79,6 +79,15 @@ Visual Stories Team, The Age, Australia
 
 ![](spatial/lismore4.png)  
 <br>
+<br>   
+
+### Media releases    
+
+![](spatial/lismore/l2.png) ![](spatial/lismore/l3.png) ![](spatial/lismore/l4.png)    
+
+![](spatial/lismore/l1.png)    
+
+<br>
 
 ### Tools     
 
