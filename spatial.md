@@ -48,7 +48,7 @@ pacman::p_load(raster,maps,sf,mapdeck,here,dplyr)
   
 ### Links      
 [`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2021)       
-Ten buildings that changed Melbourne while you were at home, [_The Age_](https://www.theage.com.au/national/victoria/ten-buildings-that-changed-melbourne-while-you-were-at-home-20230104-p5cabx.html), March 12, 2023.  
+[Ten buildings that changed Melbourne while you were at home](https://www.theage.com.au/national/victoria/ten-buildings-that-changed-melbourne-while-you-were-at-home-20230104-p5cabx.html), _The Age_, March 12, 2023.    
 
 ******     
 
@@ -104,12 +104,27 @@ Matt Malishev
 * Compare the overlap, volume of fishing vessel behaviour, and activity based on catch type of Australian versus Chinese fleets, the country with the largest commercial fishing footprint          
 
 ![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day14.png)          
-![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day19.png)          
+
+China fishing vessel activity    
 ![](spatial/30day2022/fish3.png)   
-![](spatial/30day2022/fish4.png)   
-![](spatial/30day2022/fish5.png)   
-![](spatial/30day2022/fish6.png)   
-![](spatial/30day2022/fish7.png)     
+
+Australia fishing vessel activity          
+![](spatial/30day2022/fish4.png)       
+
+<br>   
+
+![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day19.png)          
+
+<br>   
+
+China's pole and line fishing vessel activity throughout the year        
+![](spatial/30day2022/fish5.png)     
+
+China's troller activity throughout the year       
+![](spatial/30day2022/fish6.png)     
+
+China's trawler activity throughout the year         
+![](spatial/30day2022/fish7.png)       
        
    
 ### Tools     
@@ -130,6 +145,42 @@ pacman::p_load(raster,maps,sf,rnaturalearth,sfheaders)
 
 
 <br>
+## Treescape – Urban tree canopy networks by area    
+
+### People    
+
+Matt Malishev        
+
+### Tasks    
+* Create an infographic of urban tree canopy coverage of major cities around the world using tree canopy, urban vegetation, and green index data from MIT's Senseable Lab.          
+
+<br>             
+
+![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day26.png)            
+       
+   
+### Tools     
+
+R    
+
+```{r}    
+pacman::p_load(raster,maps,sf,rnaturalearth)                  
+```                 
+
+### Links      
+
+[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2022)            
+
+### Data    
+
+[MIT Senseable Lab](http://senseable.mit.edu/treepedia)      
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+
+<br>
 ## Human rights protection scores by country (1980–2017)  
 
 ### People    
@@ -141,7 +192,7 @@ Matt Malishev
 
 <br>  
 
-### [Launch map](https://darwinanddavis.github.io/worldmaps/jips)     
+### [Launch interactive map](https://darwinanddavis.github.io/worldmaps/jips)     
 
 <br>             
 
