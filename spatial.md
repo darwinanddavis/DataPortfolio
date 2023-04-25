@@ -56,6 +56,80 @@ Ten buildings that changed Melbourne while you were at home, [_The Age_](https:/
 
 
 <br>
+## City sprawling – isochrones of Australia's major cities  
+
+### People    
+
+Matt Malishev        
+
+### Tasks    
+* Create isochrones and reproducible functions to calculate distance travelled from major cities around Australia and the world.     
+
+<br>  
+
+![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day2.png)        
+
+![](spatial/30day2022/isochrone2.png)        
+
+![](spatial/30day2022/isochrone3.png)        
+
+![](spatial/30day2022/isochrone1.png)        
+   
+### Tools     
+
+R  
+Open Street Map         
+
+```{r}    
+pacman::p_load(raster,maps,sf,rnaturalearth,osmdata)              
+```                 
+
+### Links    
+
+[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2022)    
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+<br>
+## Human rights protection scores by country (1980–2017)  
+
+### People    
+
+Matt Malishev        
+
+### Tasks    
+* Build an interactive map showing major countries with highest human displacement indices using non-profit data    
+
+<br>  
+
+#### [Launch map](https://darwinanddavis.github.io/worldmaps/jips)   
+
+<br>             
+
+![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day3.jpg)          
+       
+   
+### Tools     
+
+R  
+Leaflet          
+
+```{r}    
+pacman::p_load(raster,maps,sf,rnaturalearth,leaflet,leafletextras)              
+```                 
+
+### Links    
+
+[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2022)          
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+
+<br>
 ## NSW flood disaster: Leveraging hi-res data and mapping to understand natural disaster events  
 
 ### People    
@@ -82,9 +156,10 @@ Visual Stories Team, The Age, Australia
 <br>   
 
 ### Media releases  
+<br>  
 
 ![](spatial/lismore/l2.png)![](spatial/lismore/l3.png)  
-![](spatial/lismore/l4.png)![](spatial/lismore/l1.png)      
+![](spatial/lismore/l4.png)  
 
 <br>  
 
