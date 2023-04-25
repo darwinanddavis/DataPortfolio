@@ -601,7 +601,7 @@ For example, you can choose a city, set a price range, set number of bedrooms, t
 
 Example of the user interface that shows criteria to plot and compare. Users can select criteria, such as Property type, then switch between cities around the world to compare prices, location, and ratings of available listings.     
 
-![](spatial/airbnb/a_gui.jpg)                 
+![](spatial/airbnb/a_gui.png)                 
 
 <br>    
 
