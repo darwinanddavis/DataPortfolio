@@ -13,7 +13,7 @@ permalink: /spatial/
 ******                
 
 <br>
-## Ten buildings that changed Melbourne while you were at home
+## Ten buildings that changed Melbourne while you were in Covid19 lockdown   
 
 ### People    
 
@@ -81,13 +81,12 @@ Visual Stories Team, The Age, Australia
 <br>
 <br>   
 
-### Media releases    
+### Media releases  
 
-![](spatial/lismore/l2.png) ![](spatial/lismore/l3.png) ![](spatial/lismore/l4.png)    
+![](spatial/lismore/l2.png)![](spatial/lismore/l3.png)  
+![](spatial/lismore/l4.png)![](spatial/lismore/l1.png)      
 
-![](spatial/lismore/l1.png)    
-
-<br>
+<br>  
 
 ### Tools     
 

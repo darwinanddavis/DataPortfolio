@@ -17,7 +17,7 @@ I like my data diverse, my methods (somewhat) clean, my analyses reproducible, a
 
 I'm project manager for data and visualisation within the Visual Stories Team at The Age in Melbourne, Australia, where I use data analysis/viz, open source programming, and mapping to build data-driven stories and digital content in the media landscape spanning environmental to politics to economics.     
 
-I'm a former research scientist and computational modeller working in simulation modelling of infectious diseases (Emory, Atlanta, USA) and energetics, biophysical ecology, biosecurity, and spatial risk mapping (Centre of Excellence for Biosecurity Risk Analysis, Melbourne, Australia).    
+I'm also a former research scientist and computational modeller working in simulation modelling of infectious diseases (Emory, Atlanta, USA) and energetics, biophysical ecology, biosecurity, and spatial risk mapping (Centre of Excellence for Biosecurity Risk Analysis, Melbourne, Australia).    
 
 I also freelance in data viz/analysis and copy-editing/proofing, teach programming in 'R', co-run a digital design studio, and dabble in e-commerce.       
 
