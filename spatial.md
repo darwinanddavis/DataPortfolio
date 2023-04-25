@@ -93,6 +93,43 @@ pacman::p_load(raster,maps,sf,rnaturalearth,osmdata)
 <!--  project break__________________________________________________________________________________________  -->
 
 <br>
+## Fishprint — Major fishing vessel activity of China vs Australia    
+
+### People    
+
+Matt Malishev        
+
+### Tasks    
+* Explore fishing vessel activity and the commercial footprint of major fish stock around the world  
+* Compare the overlap, volume of fishing vessel behaviour, and activity based on catch type of Australian versus Chinese fleets, the country with the largest commercial fishing footprint          
+
+![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day14.png)          
+![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day19.png)          
+![](spatial/30day2022/fish3.png)   
+![](spatial/30day2022/fish4.png)   
+![](spatial/30day2022/fish5.png)   
+![](spatial/30day2022/fish6.png)   
+![](spatial/30day2022/fish7.png)     
+       
+   
+### Tools     
+
+R    
+
+```{r}    
+pacman::p_load(raster,maps,sf,rnaturalearth,sfheaders)                
+```                 
+
+### Links    
+
+[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2022)          
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+
+<br>
 ## Human rights protection scores by country (1980–2017)  
 
 ### People    
@@ -104,7 +141,7 @@ Matt Malishev
 
 <br>  
 
-#### [Launch map](https://darwinanddavis.github.io/worldmaps/jips)   
+### [Launch map](https://darwinanddavis.github.io/worldmaps/jips)     
 
 <br>             
 
