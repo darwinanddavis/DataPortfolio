@@ -101,7 +101,8 @@ Matt Malishev
 
 ### Tasks    
 * Explore fishing vessel activity and the commercial footprint of major fish stock around the world  
-* Compare the overlap, volume of fishing vessel behaviour, and activity based on catch type of Australian versus Chinese fleets, the country with the largest commercial fishing footprint          
+* Compare the overlap, volume of fishing vessel behaviour, and activity based on catch type of Australian versus Chinese fleets, the country with the largest commercial fishing footprint            
+* Build reproducible functions for hexbin maps using projected data and basemaps  
 
 ![](https://raw.githubusercontent.com/darwinanddavis/worldmaps/gh-pages/img/30daymap2022/day14.png)          
 
