@@ -65,7 +65,8 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 ![](infographics/avianairstrike/avianairstrike1.jpg)          
 <br>   
 
-#### [Check out project](./infographics.md)               
+#### [Check out project](./infographics.md)                 
+
   
 <br>  
 <br>  

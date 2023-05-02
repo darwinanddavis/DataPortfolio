@@ -45,7 +45,7 @@ The tech challenge for this task was building a heatmap of lat/lon aircraft-bird
 ![](infographics/avianairstrike/avianairstrike3.jpg)      
 <br>    
 
-![](inforgraphics/avianairstrike/avianairstrike4.jpg)      
+![](infographics/avianairstrike/avianairstrike4.jpg)        
 <br>    
 
 Below is the original interactive map using R and Mapbox.   
