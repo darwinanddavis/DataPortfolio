@@ -39,7 +39,10 @@ Given the data depth, I decided to dive further and create an infographic to sho
 ![](spatial/avianairstrike/avianairstrike2.jpg)      
 <br>  
 
-The tech challenge for this task was building a heatmap of lat/lon aircraft-bird strikes across Australia using hi-res satellite data as a basemap rather than a conventional vector map, which has been done to death. I ended up adding a colour overlay with a low transparency to a grayscale satellite basemap that matched the lower colour used for the colour palette in the plots you see in the infographic. This gave a subtle colour wash to the basemap that looked for intense than the standard grayscale and the data were dense enough to contrast nicely against this basemap.     
+The tech challenge for this task was building a heatmap of lat/lon aircraft-bird strikes across Australia using hi-res satellite data as a basemap rather than a conventional vector map, which has been done to death. I ended up adding a colour overlay with a low transparency to a grayscale satellite basemap that matched the lower colour used for the colour palette in the plots you see in the infographic. This gave a subtle colour wash to the basemap that looked more intense than the standard grayscale and the data were dense enough to contrast nicely against this basemap.       
+
+![](spatial/avianairstrike/avianairstrike5.jpg)        
+<br>    
 
 ![](spatial/avianairstrike/avianairstrike3.jpg)      
 <br>    
