@@ -21,23 +21,25 @@ Matt Malishev
 
 ### Tasks  
 
-* Create a density heatmap using satellite data as a basemap over a conventional vector basemap  
-* Build an infographic exploring the full aircraft–bird strikes dataset          
+* Create a 2D density distribution heatmap with satellite data as a basemap over a conventional vector basemap    
+* Build an infographic exploring the Australian aviation wildlife strike statistics dataset from the Australian Transport Safety Bureau            
 
-### [Click to view hi-res infographic](https://github.com/darwinanddavis/infographics/blob/master/avianairstrike/avianairstrike.pdf)       
+### [View hi-res infographic](https://github.com/darwinanddavis/infographics/blob/master/avianairstrike/avianairstrike.pdf)         
 <br>      
   
 ![](infographics/avianairstrike/avianairstrike1.jpg)      
 <br>        
 
-I originally created an [interactive map integrating R and Mapbox Studio](https://darwinanddavis.github.io/worldmaps/30daymap2021/day11) to view these data covering aircraft and bird strikes across Australia from 2008 to 2017. Lots of nice data and variables to explore from the aircraft (`AircraftDamageLevel`, `AircraftType`, `PhaseOfFlight`, `Part damaged`) and avian angle (`SpeciesFamily`, `bird_size`, `bird_mass`).      
+Apparently a lot of birds and flying creatures collide with a lot of aircraft around Australia. And there are data covering it all, down to the lat/lon location, aircraft type and purpose, and extent and aircraft segment damage, to name a few variables.      
 
-Given the data depth, I decided to dive further and create an infographic to showcase these neat variables and present the interesting outcomes in one snapshot, which is why I like making infographics.       
+I originally built an [interactive map integrating R and Mapbox Studio](https://darwinanddavis.github.io/worldmaps/30daymap2021/day11) to view these data covering aircraft and bird strikes across Australia from 2008 to 2017. Lots of nice data and variables to explore from the aircraft (`AircraftDamageLevel`, `AircraftType`, `PhaseOfFlight`, `Part damaged`) and avian angle (`SpeciesFamily`, `bird_size`, `bird_mass`).      
+
+Given the data depth, I gave the dataset another run to dive further and this time create an infographic showcasing these neat variables and presenting the interesting patterns in one snapshot, which is why I like making infographics.           
 
 ![](infographics/avianairstrike/avianairstrike2.jpg)      
 <br>  
 
-The tech challenge for this task was building a heatmap of lat/lon aircraft-bird strikes across Australia using hi-res satellite data as a basemap rather than a conventional vector map, which has been done to death. I ended up adding a colour overlay with a low transparency to a grayscale satellite basemap that matched the lower colour used for the colour palette in the plots you see in the infographic. This gave a subtle colour wash to the basemap that looked more intense than the standard grayscale and the data were dense enough to contrast nicely against this basemap.       
+On the tech side, I wanted to build a heatmap of lat/lon aircraft-bird strikes across Australia using hi-res satellite data as a basemap rather than a conventional vector map, which has been done to death. I sourced the satellite data from Google queries and ended up adding a colour overlay with a low transparency to a grayscale satellite basemap that matched the lower colour variable used for the colour palette in the plots you see throughout the infographic. This gave a subtle colour wash to the basemap that looked more intense than the standard grayscale and the data were dense enough to contrast nicely against this basemap.           
 
 ![](infographics/avianairstrike/avianairstrike5.jpg)        
 <br>    
@@ -78,7 +80,7 @@ Matt Malishev
 
 ### Tasks    
 
-* Build an printable infographic from client mobile app data        
+* Build a printable infographic from client mobile app data        
 * Analyse and wrangle data to test different data viz and plot ideas   
 * Build code templates to easily integrate future data from app (potential for API)   
 
