@@ -12,65 +12,6 @@ permalink: /spatial/
 
 ******                
 
-<br>    
-
-## Avian Airstrike: Aircraft-bird strikes across Australia (2012–2017)        
-
-### People    
-
-Matt Malishev       
-
-### Tasks  
-
-* Create a density heatmap using satellite data as a basemap over a conventional vector basemap  
-* Build an infographic exploring the full aircraft–bird strikes dataset    
-* Integrate open data with R and Mapbox (interactive map)          
-
-### [Click to view hi-res infographic](https://github.com/darwinanddavis/infographics/blob/master/avianairstrike/avianairstrike.pdf)       
-<br>      
-  
-![](spatial/avianairstrike/avianairstrike1.jpg)      
-<br>        
-
-I originally created an [interactive map integrating R and Mapbox Studio](https://darwinanddavis.github.io/worldmaps/30daymap2021/day11) to view these data covering aircraft and bird strikes across Australia from 2008 to 2017. Lots of nice data and variables to explore from the aircraft (`AircraftDamageLevel`, `AircraftType`, `PhaseOfFlight`, `Part damaged`) and avian angle (`SpeciesFamily`, `bird_size`, `bird_mass`).      
-
-Given the data depth, I decided to dive further and create an infographic to showcase these neat variables and present the interesting outcomes in one snapshot, which is why I like making infographics.       
-
-![](spatial/avianairstrike/avianairstrike2.jpg)      
-<br>  
-
-The tech challenge for this task was building a heatmap of lat/lon aircraft-bird strikes across Australia using hi-res satellite data as a basemap rather than a conventional vector map, which has been done to death. I ended up adding a colour overlay with a low transparency to a grayscale satellite basemap that matched the lower colour used for the colour palette in the plots you see in the infographic. This gave a subtle colour wash to the basemap that looked more intense than the standard grayscale and the data were dense enough to contrast nicely against this basemap.       
-
-![](spatial/avianairstrike/avianairstrike5.jpg)        
-<br>    
-
-![](spatial/avianairstrike/avianairstrike3.jpg)      
-<br>    
-
-![](spatial/avianairstrike/avianairstrike4.jpg)      
-<br>    
-
-Below is the original interactive map using R and Mapbox.   
-
-![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day11_1.jpg)          
-
-### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2021/day11)    
-(Best viewed full screen; switch browsers if loading time is slow)         
-
-### Tools     
-
-R      
-Mapbox      
-HTML    
-CSS    
-  
-### Links      
-[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2021)   
-
-******     
-
-<!--  project break__________________________________________________________________________________________  -->
-
 <br>
 ## Ten buildings that changed Melbourne while you were in Covid19 lockdown   
 
@@ -326,6 +267,36 @@ pacman::p_load(raster,maps,sf,rnaturalearth,rayshader,mapzen)
 
 <!--  project break__________________________________________________________________________________________  -->
 
+<br>    
+
+## Avian Airstrike: Aircraft-bird strikes across Australia (2012–2017)        
+
+### People    
+
+Matt Malishev       
+
+### Tasks  
+
+* Build an interactive map integrating R and Mapbox         
+
+![](https://github.com/darwinanddavis/worldmaps/raw/gh-pages/img/30daymap2021/day11_1.jpg)          
+
+### [Click for full map](https://darwinanddavis.github.io/worldmaps/30daymap2021/day11)    
+(Best viewed full screen; switch browsers if loading time is slow)         
+
+### Tools     
+
+R      
+Mapbox      
+HTML    
+CSS    
+  
+### Links      
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2021)   
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
 
 <br>
 ## Where do Melburnians eat? Exploring restaurant seating capacity per area        
