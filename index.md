@@ -59,11 +59,11 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 	Latest post
 </p>                    
 
-Data insight into Australia's largest flood event – Lismore NSW flood disaster, Visual Stories Team, The Age, Australia.          
-![](spatial/lismore1.png)      
+Avian Airstrike: Aircraft-bird strikes across Australia (2012–2017) (infographic)    
+![](spatial/avianairstrike/avianairstrike1.jpg)          
 <br>   
 
-[Check out project](./spatial.md)           
+[Check out project](./spatial.md)             
   
 <br>  
 <br>  
