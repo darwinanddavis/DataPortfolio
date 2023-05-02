@@ -32,7 +32,7 @@ Matt Malishev
 ![](spatial/avianairstrike/avianairstrike1.jpg)      
 <br>        
 
-I originally created an interactive map integrating R and Mapbox Studio to view these data covering aircraft and bird strikes across Australia from 2008 to 2017. Lots of nice data and variables to explore from the aircraft (`AircraftDamageLevel`, `AircraftType`, `PhaseOfFlight`, `Part damaged`) and avian angle (`SpeciesFamily`, `bird_size`, `bird_mass`).      
+I originally created an [interactive map integrating R and Mapbox Studio](https://darwinanddavis.github.io/worldmaps/30daymap2021/day11) to view these data covering aircraft and bird strikes across Australia from 2008 to 2017. Lots of nice data and variables to explore from the aircraft (`AircraftDamageLevel`, `AircraftType`, `PhaseOfFlight`, `Part damaged`) and avian angle (`SpeciesFamily`, `bird_size`, `bird_mass`).      
 
 Given the data depth, I decided to dive further and create an infographic to showcase these neat variables and present the interesting outcomes in one snapshot, which is why I like making infographics.       
 
