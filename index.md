@@ -59,11 +59,13 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 	Latest post
 </p>                    
 
-Avian Airstrike: Aircraft-bird strikes across Australia (2012–2017) (infographic)    
+#### Avian Airstrike: Aircraft-bird strikes across Australia (2012–2017) (infographic)     
+<br>  
+
 ![](spatial/avianairstrike/avianairstrike1.jpg)          
 <br>   
 
-[Check out project](./spatial.md)             
+#### [Check out project](./spatial.md)               
   
 <br>  
 <br>  
