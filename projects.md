@@ -13,7 +13,7 @@ permalink: /projects/
 
 ******  
 
-![](spatial/spatial_h.png)   
+![](spatial/lismore1.png)   
 
 <br>  
 
@@ -45,7 +45,7 @@ permalink: /projects/
 
 ******    
 
-![](meta/metae6.jpg)  
+![](meta/metae7.jpg)  
  
 <br>  
 
@@ -53,7 +53,7 @@ permalink: /projects/
 
 ******  
 
-![](time_series/ts3.png)    
+![](time_series/ausopen/ao_header.png)    
 
 <br>  
 <br>  

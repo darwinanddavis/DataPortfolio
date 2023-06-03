@@ -12,6 +12,29 @@ permalink: /time_series/
 ******  
 
 <br>
+## AusOpen player stat analysis             
+
+### Location    
+
+Melbourne, Australia  
+
+### People    
+
+Matt Malishev    
+
+### Tasks   
+
+* Analyse AusOpen historical player stats using the AusOpen API  
+
+
+![](time_series/ausopen/ao1.png)  
+
+![](time_series/ausopen/ao2.png)           
+
+
+******   
+
+<br>
 ## Time series analysis of field temperature data and human disturbance events in human schistosome hotspots            
 
 ### Location  

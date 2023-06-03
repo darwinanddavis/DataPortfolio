@@ -29,11 +29,15 @@ permalink: /publications/
     
 <br>   
 
-## Data visualisation and journalism  
+## Data visualisation and journalism    
 
-Ten buildings that changed Melbourne while you were at home, [_The Age_](https://www.theage.com.au/national/victoria/ten-buildings-that-changed-melbourne-while-you-were-at-home-20230104-p5cabx.html), March 12, 2023.       
+The science of Eurovision [_The Age_](https://www.smh.com.au/interactive/2023/the-science-of-eurovision/), May 9, 2023.      
 
-Inside Australia’s worst toxic waste dump, [_The Age_](https://www.theage.com.au/interactive/2023/kaniva/index.html), March 3, 2023.   
+Ten buildings that changed Melbourne while you were at home, [_The Age_](https://www.theage.com.au/national/victoria/ten-buildings-that-changed-melbourne-while-you-were-at-home-20230104-p5cabx.html), March 12, 2023.         
+
+Inside Australia’s worst toxic waste dump, [_The Age_](https://www.theage.com.au/interactive/2023/kaniva/index.html), March 3, 2023.       
+
+Love quiz: Where you're most likely to find your match [_The Age_](https://www.smh.com.au/lifestyle/life-and-relationships/are-there-actually-plenty-of-fish-in-the-sea-let-s-find-out-20230201-p5ch5z.html), February 14, 2023.     
 
 How Putin will weaponise winter, [_The Age_](https://www.theage.com.au/interactive/2022/ukraine-winter/index.html), Dec 19, 2022.     
 
