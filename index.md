@@ -13,21 +13,27 @@
 	</p>
 </center>
 
-I like my data diverse, my methods (somewhat) clean, my analyses reproducible, and my outputs open access.      
+Data analysis, visualisation, and consulting, programming and computational modelling, software and website development.   
 
-<strong> Current </strong>  
+The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint. Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.       
+
+<p style="color: #FF7E7E; font-size:150%">
+	Current    
+</p>   
 Project Manager, Data and Visualisation  
 [Visual Stories Team](https://www.theage.com.au/by/the-visual-stories-team-p53776) at The Age and Sydney Morning Herald, Melbourne, Australia    
 * Data analysis and visualisation, open source programming, and mapping to build data-driven stories and digital content in the media landscape spanning environmental to politics to economics.   
 
 I also consult in data analysis/viz, have 12 years experience in copy-editing/proofing in research and academic publishing, teach programming in 'R' and run an online coding club, co-run a digital design studio, and dabble in e-commerce.          
 
-<strong> Previous </strong>    
-Research scientist and computational modeller       
-Infectious disease modelling --- Emory University, Atlanta, USA   
-Energetics, biophysical ecology, biosecurity, and spatial risk mapping --- Centre of Excellence for Biosecurity Risk Analysis, Melbourne, Australia           
+<p style="color: #FF7E7E; font-size:150%">
+	Previous    
+</p>     
+Research scientist --- infectious disease modelling  
+Emory University, Atlanta, USA     
 
-The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint. Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.             
+Computational modeller --- energetics, biophysical ecology, and spatial risk mapping  
+Centre of Excellence for Biosecurity Risk Analysis, Melbourne, Australia                         
 
 <p style="color: #FF7E7E; font-size:150%">
 	Topics
@@ -72,7 +78,7 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 <br>       
 
 
-#### [Check out project](./infographics.md)  
+#### [Check out project](./spatial.md)    
 
   
 <br>  
