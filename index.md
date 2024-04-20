@@ -15,11 +15,17 @@
 
 I like my data diverse, my methods (somewhat) clean, my analyses reproducible, and my outputs open access.      
 
-I'm project manager for data and visualisation within the Visual Stories Team at The Age in Melbourne, Australia, where I use data analysis/viz, open source programming, and mapping to build data-driven stories and digital content in the media landscape spanning environmental to politics to economics.     
+<strong> Current </strong>  
+Project Manager, Data and Visualisation  
+[Visual Stories Team](https://www.theage.com.au/by/the-visual-stories-team-p53776) at The Age and Sydney Morning Herald, Melbourne, Australia    
+* Data analysis and visualisation, open source programming, and mapping to build data-driven stories and digital content in the media landscape spanning environmental to politics to economics.   
 
-I'm also a former research scientist and computational modeller working in simulation modelling of infectious diseases (Emory, Atlanta, USA) and energetics, biophysical ecology, biosecurity, and spatial risk mapping (Centre of Excellence for Biosecurity Risk Analysis, Melbourne, Australia).    
+I also consult in data analysis/viz, have 12 years experience in copy-editing/proofing in research and academic publishing, teach programming in 'R' and run an online coding club, co-run a digital design studio, and dabble in e-commerce.          
 
-I also freelance in data viz/analysis and copy-editing/proofing, teach programming in 'R', co-run a digital design studio, and dabble in e-commerce.       
+<strong> Previous </strong>    
+Research scientist and computational modeller       
+Infectious disease modelling --- Emory University, Atlanta, USA   
+Energetics, biophysical ecology, biosecurity, and spatial risk mapping --- Centre of Excellence for Biosecurity Risk Analysis, Melbourne, Australia           
 
 The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint. Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.             
 
@@ -59,10 +65,10 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 	Latest post
 </p>                    
 
-#### Avian Airstrike: Aircraft-bird strikes across Australia (2008–2017) (infographic)     
+#### Where did the Palestine and Israel protests start? Exploring protest origins per country     
 <br>  
 
-![](infographics/avianairstrike/avianairstrike1.jpg)          
+![](spatial/30day2023/protest1.gif)            
 <br>       
 
 
