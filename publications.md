@@ -29,7 +29,11 @@ permalink: /publications/
     
 <br>   
 
-## Data visualisation and journalism    
+## Data visualisation and journalism   
+
+
+
+Overfishing: How China's fishing fleet dwarfed the world [_The Age_](https://www.theage.com.au/interactive/2023/fishing-rights/index.html), Nov 6, 2023.     
 
 The science of Eurovision [_The Age_](https://www.smh.com.au/interactive/2023/the-science-of-eurovision/), May 9, 2023.      
 

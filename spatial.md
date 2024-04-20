@@ -10,10 +10,149 @@ permalink: /spatial/
 <!-- ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif) ![](spatial/spatial_header.gif)   -->
 ![](spatial/spatial_header.jpg)      
 
-******                
+<br> 
+
+## Fires of the century - 125 years of Australian bushfires    
+ 
+### People    
+
+Matt Malishev        
+
+### Tasks    
+* Analyse 125 years of historical bushfire data to determine the biggest contributor to natural bushfires across the country and per state    
+* Build a spatial hexmap to show occurrence density on a satellite basemap        
+  
+ 
+![](spatial/30day2023/bushfire1.png)       
+
+   
+### Tools     
+
+R  
+Google maps    
+
+```{r}    
+pacman::p_load(raster,maps,sf,rnaturalearth,sfheaders,ggmap)                
+```                 
+
+### Links    
+
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2023)    
+[Burning Australia: how bushfires have shaped our landscape over 42 years](https://www.theage.com.au/interactive/2024/bushfire-boundaries/index.html), _The Age_, Feb 24, 2024.             
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
 
 <br>
-## Ten buildings that changed Melbourne while you were in Covid19 lockdown   
+
+## Where did the Palestine and Israel protests start? Exploring protest origins per country (Oct–Nov 2022)      
+
+### People    
+
+Matt Malishev        
+
+### Tasks    
+* Use publicly available protest data to determine where Israel-Palestine protests begun in each country     
+* Build a split isometric 3D basemap to compare spatial data  
+
+ 
+![](spatial/30day2023/protest1.png)
+<br>  
+
+![](spatial/30day2023/protest1.gif)  
+<br>   
+       
+   
+### Tools     
+
+R  
+Mapbox   
+
+```{r}    
+pacman::p_load(here,dplyr,raster,maps,sf,rnaturalearth,sfheaders,mapdeck)                  
+```                 
+
+### Links    
+
+[`R` code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2023)           
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+<br>
+
+## Where does Taiwan fish?  
+
+### People    
+
+Matt Malishev        
+
+### Tasks    
+* Analyse global fishing data per country to determine which countries have the biggest commercial fishing footprint  
+
+ 
+![](spatial/30day2023/fish1.png)       
+
+   
+### Tools     
+
+R    
+ThreeJS
+
+```{r}    
+pacman::p_load(raster,maps,sf,rnaturalearth,sfheaders)                  
+```                 
+
+### Links    
+
+[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2022)       
+[Overfishing: How China's fishing fleet dwarfed the world](https://www.theage.com.au/interactive/2023/fishing-rights/index.html), _The Age_, Nov 6, 2023.       
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+<br>
+
+## Firelines - Australian bushfires and their ten closest neighbours  (1980–2022)
+
+### People    
+
+Matt Malishev          
+
+### Tasks    
+* Use nearest neighbour analysis to link historical bushfire sites to each other in space and time  
+
+ 
+![](spatial/30day2022/bushfire2.gif)
+<br>   
+
+![](spatial/30day2022/bushfire2.png)       
+<br>  
+
+   
+### Tools     
+
+R    
+
+```{r}    
+pacman::p_load(raster,maps,sf,rnaturalearth,sfheaders)                
+```                 
+
+### Links    
+
+[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2022)          
+
+******     
+
+<!--  project break__________________________________________________________________________________________  -->
+
+<br>
+
+
+## Highrise headache - Major constructions in Melbourne (2020–2022)    
 
 ### People    
 
@@ -24,17 +163,15 @@ Rachael Dexter
 
 * Build a 3D cityscape using City of Melbourne open building data with Mapbox and R          
 
-![](spatial/melb1.png)   
+![](spatial/30day2023/melb1.png)     
 <br>   
 
-![](spatial/melb2.png)  
+![](spatial/30day2023/melb2.png)    
 <br>
 
-![](spatial/melb3.png)    
+![](spatial/30day2023/melb3.png)     
 <br>
 
-![](spatial/melb4.png)  
-<br>
 
 ### Tools     
 
