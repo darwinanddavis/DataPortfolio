@@ -46,7 +46,7 @@ pacman::p_load(raster,maps,sf,rnaturalearth,sfheaders,ggmap)
 
 <br>
 
-## Where did the Palestine and Israel protests start? Exploring protest origins per country (Oct–Nov 2022)      
+## Where did the Palestine and Israel protests start? Exploring protest origins per country       
 
 ### People    
 
@@ -57,11 +57,14 @@ Matt Malishev
 * Build a split isometric 3D basemap to compare spatial data  
 
  
-![](spatial/30day2023/protest1.png)
+![](spatial/30day2023/protest1.gif)
 <br>  
+<br>    
 
-![](spatial/30day2023/protest1.gif)  
+Visualising protest side and point of origin for every country with protests in Europe.   
+![](spatial/30day2023/protest1.png)  
 <br>   
+<br>    
        
    
 ### Tools     
@@ -107,7 +110,7 @@ pacman::p_load(raster,maps,sf,rnaturalearth,sfheaders)
 
 ### Links    
 
-[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2022)       
+[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2023)       
 [Overfishing: How China's fishing fleet dwarfed the world](https://www.theage.com.au/interactive/2023/fishing-rights/index.html), _The Age_, Nov 6, 2023.       
 
 ******     
@@ -126,10 +129,11 @@ Matt Malishev
 * Use nearest neighbour analysis to link historical bushfire sites to each other in space and time  
 
  
-![](spatial/30day2022/bushfire2.gif)
+![](spatial/30day2023/bushfire2.png)  
+<br>   
 <br>   
 
-![](spatial/30day2022/bushfire2.png)       
+![](spatial/30day2023/bushfire2.gif)         
 <br>  
 
    
@@ -143,7 +147,7 @@ pacman::p_load(raster,maps,sf,rnaturalearth,sfheaders)
 
 ### Links    
 
-[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2022)          
+[R code](https://github.com/darwinanddavis/worldmaps/tree/gh-pages/docs/30daymap2023)          
 
 ******     
 
@@ -161,6 +165,7 @@ Rachael Dexter
 
 ### Tasks  
 
+* Visualise major commercial developments in Melbourne that were completed during Covid-19 lockdown and how they changed the urban cityscape  
 * Build a 3D cityscape using City of Melbourne open building data with Mapbox and R          
 
 ![](spatial/30day2023/melb1.png)     
