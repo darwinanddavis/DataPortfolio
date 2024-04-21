@@ -17,6 +17,12 @@ Data analysis, visualisation, and consulting, programming and computational mode
 
 The header tabs show my current projects, publications, and presentations. Below are links to my digital footprint. Hit me on any of my channels for consulting, collabs, source code, or to chat about all things data.       
 
+<br>   
+  
+******   
+  
+<br>   
+
 <p style="color: #FF7E7E; font-size:150%">
 	Current    
 </p>   
@@ -32,14 +38,20 @@ I also consult in data analysis/viz, have 12 years experience in copy-editing/pr
 Research scientist --- infectious disease modelling  
 Emory University, Atlanta, USA     
 
-Computational modeller --- energetics, biophysical ecology, and spatial risk mapping  
+Computational modeller --- spatial and biosecurity risk mapping      
 Centre of Excellence for Biosecurity Risk Analysis, Melbourne, Australia                         
+
+<br>   
+  
+******   
+
+<br>    
 
 <p style="color: #FF7E7E; font-size:150%">
 	Topics
 </p>     
 
-data analysis, data science, data viz, stats, models, simulations, data pipelines, dashboards, UI/UX, rstats, research, maps, geospatial, API, opensci, rmarkdown, workshops, shiny, coding club, software      
+Data analysis, data science, data viz, stats, models, simulations, data pipelines, dashboards, UI/UX, rstats, research, maps, geospatial, API, opensci, rmarkdown, workshops, shiny, coding club, software      
 
 <p style="color: #FF7E7E; font-size:150%">
 	Tools  
@@ -71,7 +83,7 @@ data analysis, data science, data viz, stats, models, simulations, data pipeline
 	Latest post
 </p>                    
 
-#### Where did the Palestine and Israel protests start? Exploring protest origins per country     
+#### Where did the Palestine and Israel protests start? Exploring protest origins per country using publicly available global protest data           
 <br>  
 
 ![](spatial/30day2023/protest1.gif)            
