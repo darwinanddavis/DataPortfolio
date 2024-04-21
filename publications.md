@@ -31,14 +31,14 @@ permalink: /publications/
 
 ## Data visualisation and journalism   
   
-‘Swimming in champagne’: A deep dive into the magic of Sydney’s ocean pools, [_Sydney Morning Herald_](https://www.smh.com.au/interactive/2024/rock-pools/index.html), Feb 29, 2024.      
+‘Swimming in champagne’: A deep dive into the magic of Sydney’s ocean pools, [_Sydney Morning Herald_](https://www.smh.com.au/interactive/2024/rock-pools/index.html), Feb 29, 2024.           
+         
+Burning Australia: how bushfires have shaped our landscape over 42 years [_The Age_](https://www.theage.com.au/interactive/2024/bushfire-boundaries/index.html), Feb 24, 2024.           
+          
+The dirty truth about the air quality in Sydney's underground train stations, [_Sydney Morning Herald_](https://www.smh.com.au/interactive/2024/underground-train-air-pollution/index.html), Feb 20, 2024.      
   
-The dirty truth about the air quality in Sydney's underground train stations, [_Sydney Morning Herald_](https://www.smh.com.au/interactive/2024/underground-train-air-pollution/index.html), Feb 20, 2024.    
+In a bushfire, these trees are the most dangerous to have near your house, [_The Age_](https://www.smh.com.au/interactive/2023/tree-flammability/index.html), Feb 13, 2024.        
         
-Burning Australia: how bushfires have shaped our landscape over 42 years [_The Age_](https://www.theage.com.au/interactive/2024/bushfire-boundaries/index.html), Feb 24, 2024.       
-      
-In a bushfire, these trees are the most dangerous to have near your house, [_The Age_](https://www.smh.com.au/interactive/2023/tree-flammability/index.html), Feb 13, 2024.      
-      
 Heavenly creature or destined for slaughter: The luckiest – and least desired – Chinese zodiac signs, [_The Age_](https://www.theage.com.au/interactive/2024/whats-your-chinese-zodiac/index.html), Feb 5, 2024.    
 
 52 News Makers of 2023, [_The Age_](https://www.smh.com.au/interactive/2023/gw-news-makers-2023/index.html), Dec 9, 2023.    
